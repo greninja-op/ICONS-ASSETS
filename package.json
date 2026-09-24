@@ -1,0 +1,62 @@
+{
+  "name": "@greninja-op/icons-assets",
+  "version": "1.0.0",
+  "description": "350,000+ authentic SVG and raster icons, logos, and badges across 8 categories: Brands, Apps/Dashboards, Cloud Architecture, Developer Tools, OS/Desktop, System/UI, Mobile, and Pixel Art.",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": {
+    "icons-assets": "./bin/cli.js",
+    "get-icons": "./bin/cli.js"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./apps": "./apps-and-dashboards",
+    "./brands": "./brands-and-logos",
+    "./cloud": "./cloud-architecture",
+    "./devtools": "./developer-tools",
+    "./mobile": "./mobile-and-app",
+    "./os": "./os-and-desktop",
+    "./pixel": "./pixel-art",
+    "./system": "./system-and-ui",
+    "./apple": "./os-and-desktop/macos-icons",
+    "./google": "./cloud-architecture/google-cloud-icons",
+    "./microsoft": "./brands-and-logos/microsoft-cloud-logos",
+    "./languages": "./developer-tools/stacks-and-languages"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "list": "node ./bin/cli.js --list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greninja-op/ICONS-ASSETS.git"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "logos",
+    "brands",
+    "dashboard-icons",
+    "developer-tools",
+    "cloud-icons",
+    "aws",
+    "gcp",
+    "azure",
+    "apple",
+    "google",
+    "microsoft",
+    "fluentui",
+    "material-design",
+    "tabler",
+    "lucide",
+    "devicon",
+    "programming-languages",
+    "ai-agents"
+  ],
+  "author": "greninja-op",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greninja-op/ICONS-ASSETS/issues"
+  },
+  "homepage": "https://github.com/greninja-op/ICONS-ASSETS#readme"
+}
