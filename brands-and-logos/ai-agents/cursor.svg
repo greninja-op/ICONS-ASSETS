@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <!-- Top Face (white highlight) -->
+  <path d="M12 1.75L20.75 6.8L12 11.85L3.25 6.8L12 1.75Z" fill="#FFFFFF"/>
+  <!-- Left Face (deep tone) -->
+  <path d="M3.25 6.8V17.2L12 22.25V11.85L3.25 6.8Z" fill="#888894"/>
+  <!-- Right Face (mid tone) -->
+  <path d="M20.75 6.8V17.2L12 22.25V11.85L20.75 6.8Z" fill="#C5C5CE"/>
+  <!-- Outer Outline (crisp contrast) -->
+  <path d="M12 1.75L3.25 6.8V17.2L12 22.25L20.75 17.2V6.8L12 1.75Z" stroke="#FFFFFF" stroke-width="1.2"/>
+  <!-- Inner Creases -->
+  <path d="M12 11.85L20.75 6.8M12 11.85V22.25M12 11.85L3.25 6.8" stroke="#3A3A42" stroke-width="1.2"/>
+</svg>
