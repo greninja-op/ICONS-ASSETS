@@ -1,0 +1,17 @@
+{
+  "pack": "Iconoir",
+  "folder": "iconoir",
+  "upstream": {
+    "name": "Luca Burgio",
+    "url": "https://github.com/iconoir-icons/iconoir"
+  },
+  "license": "MIT",
+  "license_source": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE",
+  "license_blob": "29a34a856af9e0622a8f2728662b94ef08133744",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/iconoir.json",
+  "style": "outline/solid",
+  "current_svgs": 1671,
+  "legacy_svgs": 11,
+  "aliases": 338,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

@@ -1,0 +1,844 @@
+{
+  "folder": "phosphor-icons",
+  "scope": "selected symbols and style variants",
+  "upstream": "https://github.com/phosphor-icons/core/tree/2b75f3ad12b420c9504ef05df8d2564a28f8500e",
+  "license": "MIT",
+  "styles": {
+    "regular": 55,
+    "fill": 55,
+    "bold": 55
+  },
+  "svg_files": 165,
+  "files": [
+    {
+      "path": "assets/regular/wifi-high.svg",
+      "dest": "regular/wifi-high.svg",
+      "sha": "2ca153e6cf11f02dddab6f295d6411613270beca"
+    },
+    {
+      "path": "assets/fill/wifi-high-fill.svg",
+      "dest": "fill/wifi-high.svg",
+      "sha": "509bb921d3e29e24a1f4e2bec002e91b008acf7f"
+    },
+    {
+      "path": "assets/bold/wifi-high-bold.svg",
+      "dest": "bold/wifi-high.svg",
+      "sha": "81ccaf53ad8b250258c2ad1d457bb93590f96b89"
+    },
+    {
+      "path": "assets/regular/wifi-slash.svg",
+      "dest": "regular/wifi-slash.svg",
+      "sha": "cf6c00a18b7ccf2a816eee4a0f7542bac3d21d8c"
+    },
+    {
+      "path": "assets/fill/wifi-slash-fill.svg",
+      "dest": "fill/wifi-slash.svg",
+      "sha": "89b81430b3bf4a317ffd7233ede2386e98057b20"
+    },
+    {
+      "path": "assets/bold/wifi-slash-bold.svg",
+      "dest": "bold/wifi-slash.svg",
+      "sha": "04d44dd5f82fb746a8fd7039cb77fff2d7e63542"
+    },
+    {
+      "path": "assets/regular/bluetooth.svg",
+      "dest": "regular/bluetooth.svg",
+      "sha": "718bc0a8594fe031f13f3e18e45f4f3a32c274ba"
+    },
+    {
+      "path": "assets/fill/bluetooth-fill.svg",
+      "dest": "fill/bluetooth.svg",
+      "sha": "49d99c8ccc1045cb7ca9d818c728c583ddbc931d"
+    },
+    {
+      "path": "assets/bold/bluetooth-bold.svg",
+      "dest": "bold/bluetooth.svg",
+      "sha": "7cecaed981c2b50b6d0ee84f58ef892ec63cbb76"
+    },
+    {
+      "path": "assets/regular/bluetooth-slash.svg",
+      "dest": "regular/bluetooth-slash.svg",
+      "sha": "c449cb1adf5ee823da02930063a47ebcb663c28d"
+    },
+    {
+      "path": "assets/fill/bluetooth-slash-fill.svg",
+      "dest": "fill/bluetooth-slash.svg",
+      "sha": "e7776d2c3ec10f87eee568d7a293c30f362f9441"
+    },
+    {
+      "path": "assets/bold/bluetooth-slash-bold.svg",
+      "dest": "bold/bluetooth-slash.svg",
+      "sha": "6fd20a5934966f89d5d79980a7e4769fe65de745"
+    },
+    {
+      "path": "assets/regular/gear.svg",
+      "dest": "regular/gear.svg",
+      "sha": "a7e5860f17b6303a7eccb8dfaa180d95834b0121"
+    },
+    {
+      "path": "assets/fill/gear-fill.svg",
+      "dest": "fill/gear.svg",
+      "sha": "8919916a5903bbd1b2555ebb05702ac126ee1e91"
+    },
+    {
+      "path": "assets/bold/gear-bold.svg",
+      "dest": "bold/gear.svg",
+      "sha": "d87c2f1ee89a25818e646e6b32c010778d4c67b4"
+    },
+    {
+      "path": "assets/regular/magnifying-glass.svg",
+      "dest": "regular/magnifying-glass.svg",
+      "sha": "2bdda58966a780a706bc622d719172899e822307"
+    },
+    {
+      "path": "assets/fill/magnifying-glass-fill.svg",
+      "dest": "fill/magnifying-glass.svg",
+      "sha": "842d975ece19f1a970fd6dcc296e82aec522621a"
+    },
+    {
+      "path": "assets/bold/magnifying-glass-bold.svg",
+      "dest": "bold/magnifying-glass.svg",
+      "sha": "0a90a2fb046122463e4624d136e912467374a6ee"
+    },
+    {
+      "path": "assets/regular/house.svg",
+      "dest": "regular/house.svg",
+      "sha": "2e936a922768982138e123c6b223390cf676ec49"
+    },
+    {
+      "path": "assets/fill/house-fill.svg",
+      "dest": "fill/house.svg",
+      "sha": "e656af9e1463c2a3d56bce655316a57ddbaeacdd"
+    },
+    {
+      "path": "assets/bold/house-bold.svg",
+      "dest": "bold/house.svg",
+      "sha": "2ad60e7bd920cd0dc888ca5cbdbddca4bbc19c66"
+    },
+    {
+      "path": "assets/regular/bell.svg",
+      "dest": "regular/bell.svg",
+      "sha": "bc9f9a1fba3ea60ae9b6387fa51213d57c78cbe0"
+    },
+    {
+      "path": "assets/fill/bell-fill.svg",
+      "dest": "fill/bell.svg",
+      "sha": "6f6a3573b00907213f2e5c165064f6983ce4efcb"
+    },
+    {
+      "path": "assets/bold/bell-bold.svg",
+      "dest": "bold/bell.svg",
+      "sha": "c100e7352abca5797559e32ee873f93d7b4607c8"
+    },
+    {
+      "path": "assets/regular/bell-slash.svg",
+      "dest": "regular/bell-slash.svg",
+      "sha": "2d6aec06aa814c878d72b55c93941e1c5845b278"
+    },
+    {
+      "path": "assets/fill/bell-slash-fill.svg",
+      "dest": "fill/bell-slash.svg",
+      "sha": "03d18735651779954659f6c6092d0f9081957255"
+    },
+    {
+      "path": "assets/bold/bell-slash-bold.svg",
+      "dest": "bold/bell-slash.svg",
+      "sha": "885f47a1cd85a0e95a217c00cb3893c912fdf69e"
+    },
+    {
+      "path": "assets/regular/user.svg",
+      "dest": "regular/user.svg",
+      "sha": "d560c5d59bb9898491ce9aa35e3ca542557d34fe"
+    },
+    {
+      "path": "assets/fill/user-fill.svg",
+      "dest": "fill/user.svg",
+      "sha": "a1ed3d18528d53c8590ce85afbfba416c5568fe3"
+    },
+    {
+      "path": "assets/bold/user-bold.svg",
+      "dest": "bold/user.svg",
+      "sha": "0adad1adfc1f99c7d079d173cd0d8373a782055c"
+    },
+    {
+      "path": "assets/regular/users.svg",
+      "dest": "regular/users.svg",
+      "sha": "e53d895bff3a06dfcbf3300a5a7f131823529d4d"
+    },
+    {
+      "path": "assets/fill/users-fill.svg",
+      "dest": "fill/users.svg",
+      "sha": "8a7f7825a951ac67c6adfaabbd3c65ebe0077ab6"
+    },
+    {
+      "path": "assets/bold/users-bold.svg",
+      "dest": "bold/users.svg",
+      "sha": "f45e58f98a4106b4ed70c9d5a955ade05d5f6def"
+    },
+    {
+      "path": "assets/regular/lock.svg",
+      "dest": "regular/lock.svg",
+      "sha": "07201fd8a2afb0d00b96fcf8475a2b168e07762e"
+    },
+    {
+      "path": "assets/fill/lock-fill.svg",
+      "dest": "fill/lock.svg",
+      "sha": "1411d5d384911f11823e39c8a4a62cb9e1cef730"
+    },
+    {
+      "path": "assets/bold/lock-bold.svg",
+      "dest": "bold/lock.svg",
+      "sha": "90e6f7ef4d299bf8aa0fb7f242f2f0732fabce61"
+    },
+    {
+      "path": "assets/regular/lock-open.svg",
+      "dest": "regular/lock-open.svg",
+      "sha": "97bbc03218941b6a2bb004e8931d8bcf480301b1"
+    },
+    {
+      "path": "assets/fill/lock-open-fill.svg",
+      "dest": "fill/lock-open.svg",
+      "sha": "2663debfdedd461fb20d36176482d12a7a7eb9e6"
+    },
+    {
+      "path": "assets/bold/lock-open-bold.svg",
+      "dest": "bold/lock-open.svg",
+      "sha": "ba3f0713b9cfb3e3b41fb034990c396460a473e7"
+    },
+    {
+      "path": "assets/regular/eye.svg",
+      "dest": "regular/eye.svg",
+      "sha": "f6f8230f4a8807ce24a66ff09bcd44325c303e1d"
+    },
+    {
+      "path": "assets/fill/eye-fill.svg",
+      "dest": "fill/eye.svg",
+      "sha": "c5e3b99a6327d4d8ba5b2e5258d273f664da5ed8"
+    },
+    {
+      "path": "assets/bold/eye-bold.svg",
+      "dest": "bold/eye.svg",
+      "sha": "2dd87a4c5a12a9edead8f37a06901687f336afc9"
+    },
+    {
+      "path": "assets/regular/eye-slash.svg",
+      "dest": "regular/eye-slash.svg",
+      "sha": "7efa1c5fdbb3244af1a486d62c1a0d3b4a1bb4e5"
+    },
+    {
+      "path": "assets/fill/eye-slash-fill.svg",
+      "dest": "fill/eye-slash.svg",
+      "sha": "64536916d64e735d90c6891e7468e2e13a523743"
+    },
+    {
+      "path": "assets/bold/eye-slash-bold.svg",
+      "dest": "bold/eye-slash.svg",
+      "sha": "1801c7c45173eaf5712dffd95bfd1dde931b7777"
+    },
+    {
+      "path": "assets/regular/download-simple.svg",
+      "dest": "regular/download-simple.svg",
+      "sha": "631dcdeb56d50b30fcc9f4df393dd49d5edbd9e8"
+    },
+    {
+      "path": "assets/fill/download-simple-fill.svg",
+      "dest": "fill/download-simple.svg",
+      "sha": "f51ec797f8d3428b31a3e6c5dbc6c70a21af1593"
+    },
+    {
+      "path": "assets/bold/download-simple-bold.svg",
+      "dest": "bold/download-simple.svg",
+      "sha": "b467d464d6b0b46cf9b32178fa4c259172bf4e52"
+    },
+    {
+      "path": "assets/regular/upload-simple.svg",
+      "dest": "regular/upload-simple.svg",
+      "sha": "11f55ec4422fbc21708bb41c516ec20b284329a3"
+    },
+    {
+      "path": "assets/fill/upload-simple-fill.svg",
+      "dest": "fill/upload-simple.svg",
+      "sha": "f3cbd257401cfc9ba254de9ab31ccdc8e54e1ba7"
+    },
+    {
+      "path": "assets/bold/upload-simple-bold.svg",
+      "dest": "bold/upload-simple.svg",
+      "sha": "33a93009ef5854d70b24070ef55bed5430553a1d"
+    },
+    {
+      "path": "assets/regular/cloud.svg",
+      "dest": "regular/cloud.svg",
+      "sha": "3aa44d4a47475fa94c9ddffc59e8387ae985816e"
+    },
+    {
+      "path": "assets/fill/cloud-fill.svg",
+      "dest": "fill/cloud.svg",
+      "sha": "25a9fc61af6e15f471fb0ac407b546450d02f0cd"
+    },
+    {
+      "path": "assets/bold/cloud-bold.svg",
+      "dest": "bold/cloud.svg",
+      "sha": "172dbea2c35507ac3da2110f6923a3c7b9ea5c7d"
+    },
+    {
+      "path": "assets/regular/cloud-slash.svg",
+      "dest": "regular/cloud-slash.svg",
+      "sha": "15e71c4eb4563e18edcd13db9689d4a88dca253e"
+    },
+    {
+      "path": "assets/fill/cloud-slash-fill.svg",
+      "dest": "fill/cloud-slash.svg",
+      "sha": "e1c91bb33203de14cb470e7b4b38b597533a1fbf"
+    },
+    {
+      "path": "assets/bold/cloud-slash-bold.svg",
+      "dest": "bold/cloud-slash.svg",
+      "sha": "da076ccfbd22b673cd41fd11b98fd2e724e8c4c8"
+    },
+    {
+      "path": "assets/regular/database.svg",
+      "dest": "regular/database.svg",
+      "sha": "c462393e05505bf470c24ca065620aa9cddb0f60"
+    },
+    {
+      "path": "assets/fill/database-fill.svg",
+      "dest": "fill/database.svg",
+      "sha": "17a5428cf8e90bb2d3cc36f590dbc76309dab524"
+    },
+    {
+      "path": "assets/bold/database-bold.svg",
+      "dest": "bold/database.svg",
+      "sha": "c0ce1cdd018b64fa470d8c89f100bef43057f7cb"
+    },
+    {
+      "path": "assets/regular/folder.svg",
+      "dest": "regular/folder.svg",
+      "sha": "df74375256f3c6e8a3057d861d380ee6f12a1983"
+    },
+    {
+      "path": "assets/fill/folder-fill.svg",
+      "dest": "fill/folder.svg",
+      "sha": "01819f5c01bfe47ca3af73c57bf22972cc3fea48"
+    },
+    {
+      "path": "assets/bold/folder-bold.svg",
+      "dest": "bold/folder.svg",
+      "sha": "951325592f8178cb8e93c7585b45d163f9d47aed"
+    },
+    {
+      "path": "assets/regular/folder-open.svg",
+      "dest": "regular/folder-open.svg",
+      "sha": "edacb377d5e3ddbcd44da6234c1a2c18f0327fa8"
+    },
+    {
+      "path": "assets/fill/folder-open-fill.svg",
+      "dest": "fill/folder-open.svg",
+      "sha": "39b173daf2df7c644db1fffb2149ac121b33ebdc"
+    },
+    {
+      "path": "assets/bold/folder-open-bold.svg",
+      "dest": "bold/folder-open.svg",
+      "sha": "980ac86b66aff5ad93a4afa40cbdd7f3ce457350"
+    },
+    {
+      "path": "assets/regular/file.svg",
+      "dest": "regular/file.svg",
+      "sha": "f2e762932b2b4659f1228605c4b6f32318001cf6"
+    },
+    {
+      "path": "assets/fill/file-fill.svg",
+      "dest": "fill/file.svg",
+      "sha": "a9db98cd8b3983af2ece3b1707a04d1fed17ee34"
+    },
+    {
+      "path": "assets/bold/file-bold.svg",
+      "dest": "bold/file.svg",
+      "sha": "efdb96413258abfd1eabe98ca03b58896d630266"
+    },
+    {
+      "path": "assets/regular/file-text.svg",
+      "dest": "regular/file-text.svg",
+      "sha": "984fbb5c60105d3efab3ae4a30532d9f7e70e1db"
+    },
+    {
+      "path": "assets/fill/file-text-fill.svg",
+      "dest": "fill/file-text.svg",
+      "sha": "4a1e96104afce674295b2c83cef046249d78599b"
+    },
+    {
+      "path": "assets/bold/file-text-bold.svg",
+      "dest": "bold/file-text.svg",
+      "sha": "97ec5410a074bf7d68ad7f6eece409e606d50503"
+    },
+    {
+      "path": "assets/regular/check.svg",
+      "dest": "regular/check.svg",
+      "sha": "04b2e24229662362e380d5b08ed7e5e0498f105c"
+    },
+    {
+      "path": "assets/fill/check-fill.svg",
+      "dest": "fill/check.svg",
+      "sha": "e5ec74448c7584fd1f1643c9d1b14f2de4f02909"
+    },
+    {
+      "path": "assets/bold/check-bold.svg",
+      "dest": "bold/check.svg",
+      "sha": "87668078681a97dc15233bb95dc69de1d0a461a5"
+    },
+    {
+      "path": "assets/regular/x.svg",
+      "dest": "regular/x.svg",
+      "sha": "2ee41d11cce14289f3b444174694acee017a4f9a"
+    },
+    {
+      "path": "assets/fill/x-fill.svg",
+      "dest": "fill/x.svg",
+      "sha": "5619a6b28b87f498c65bcabc7211c5327cb93d12"
+    },
+    {
+      "path": "assets/bold/x-bold.svg",
+      "dest": "bold/x.svg",
+      "sha": "11aeb1261618a07e23bc54a3908a7cf50f6cd8f4"
+    },
+    {
+      "path": "assets/regular/plus.svg",
+      "dest": "regular/plus.svg",
+      "sha": "25ad5e32286bc1e69fcd7b462a5dff378d25a509"
+    },
+    {
+      "path": "assets/fill/plus-fill.svg",
+      "dest": "fill/plus.svg",
+      "sha": "ea8c9e4c7c5879846a5792d042b4429fdab31add"
+    },
+    {
+      "path": "assets/bold/plus-bold.svg",
+      "dest": "bold/plus.svg",
+      "sha": "4ce77ca45b7ad5d9a7a9d20c700497a708ef8e48"
+    },
+    {
+      "path": "assets/regular/minus.svg",
+      "dest": "regular/minus.svg",
+      "sha": "f9b076327b22869844ef2035e3b5097b7750b944"
+    },
+    {
+      "path": "assets/fill/minus-fill.svg",
+      "dest": "fill/minus.svg",
+      "sha": "72226bf7f1b790821889d650dfed6ca063aa8ed4"
+    },
+    {
+      "path": "assets/bold/minus-bold.svg",
+      "dest": "bold/minus.svg",
+      "sha": "88231957201de47f2aa0664fa0702027084c3383"
+    },
+    {
+      "path": "assets/regular/arrow-left.svg",
+      "dest": "regular/arrow-left.svg",
+      "sha": "0d0558ab264327028be5cc2443d27f50ef9f4b38"
+    },
+    {
+      "path": "assets/fill/arrow-left-fill.svg",
+      "dest": "fill/arrow-left.svg",
+      "sha": "41d4280559d381cd86c14c7e214b6ce5385659da"
+    },
+    {
+      "path": "assets/bold/arrow-left-bold.svg",
+      "dest": "bold/arrow-left.svg",
+      "sha": "9616e36f7677606e075759aa3df6afb00dfafc63"
+    },
+    {
+      "path": "assets/regular/arrow-right.svg",
+      "dest": "regular/arrow-right.svg",
+      "sha": "7ef927ee191294774c75c796cb85311c4a0c01a1"
+    },
+    {
+      "path": "assets/fill/arrow-right-fill.svg",
+      "dest": "fill/arrow-right.svg",
+      "sha": "ae779b9001b6397e851c22cd2a0e25de9be7c4b8"
+    },
+    {
+      "path": "assets/bold/arrow-right-bold.svg",
+      "dest": "bold/arrow-right.svg",
+      "sha": "f7bab32e03cee414b8fb3d0710c26a46c806e379"
+    },
+    {
+      "path": "assets/regular/arrow-up.svg",
+      "dest": "regular/arrow-up.svg",
+      "sha": "a8ba45ec7d0a4cd540e226b02d56e3991db23edb"
+    },
+    {
+      "path": "assets/fill/arrow-up-fill.svg",
+      "dest": "fill/arrow-up.svg",
+      "sha": "c553d7ff4cd1d6b4251f90fe2f18d39dbdb144ff"
+    },
+    {
+      "path": "assets/bold/arrow-up-bold.svg",
+      "dest": "bold/arrow-up.svg",
+      "sha": "3441eef68d1a1e6d69dd05c3720755e04cfeb57d"
+    },
+    {
+      "path": "assets/regular/arrow-down.svg",
+      "dest": "regular/arrow-down.svg",
+      "sha": "0e7629b6de2322580e8a3712e217b2160aaf9029"
+    },
+    {
+      "path": "assets/fill/arrow-down-fill.svg",
+      "dest": "fill/arrow-down.svg",
+      "sha": "af0f1d76996293221b1f09ea356b8f14cf331685"
+    },
+    {
+      "path": "assets/bold/arrow-down-bold.svg",
+      "dest": "bold/arrow-down.svg",
+      "sha": "23210cd6893d5ed6050a459e54ea358c824366cf"
+    },
+    {
+      "path": "assets/regular/list.svg",
+      "dest": "regular/list.svg",
+      "sha": "88254fb074f7bb4647338813fadc7610680f286c"
+    },
+    {
+      "path": "assets/fill/list-fill.svg",
+      "dest": "fill/list.svg",
+      "sha": "513d6b1e45d66211d716bef7bc5b0dbb829d4cb6"
+    },
+    {
+      "path": "assets/bold/list-bold.svg",
+      "dest": "bold/list.svg",
+      "sha": "2c0e28466eb84bf22a52aaa0f5b3162e8679aaa8"
+    },
+    {
+      "path": "assets/regular/dots-three.svg",
+      "dest": "regular/dots-three.svg",
+      "sha": "291944d556da2ea01467fa616e0fa0d428738b54"
+    },
+    {
+      "path": "assets/fill/dots-three-fill.svg",
+      "dest": "fill/dots-three.svg",
+      "sha": "5f0ea6b53f8a50de60e75fcc935350cf3e2cb4de"
+    },
+    {
+      "path": "assets/bold/dots-three-bold.svg",
+      "dest": "bold/dots-three.svg",
+      "sha": "637c58da8dfca476fccda8a9272bf93bdb04fcef"
+    },
+    {
+      "path": "assets/regular/camera.svg",
+      "dest": "regular/camera.svg",
+      "sha": "0c8b649140279deda87b7da9c388ef57f494d4e7"
+    },
+    {
+      "path": "assets/fill/camera-fill.svg",
+      "dest": "fill/camera.svg",
+      "sha": "a0feec5a1fa6e623681155d0de4a15758f133055"
+    },
+    {
+      "path": "assets/bold/camera-bold.svg",
+      "dest": "bold/camera.svg",
+      "sha": "573a0fa6afad8228bcd3429bd3ae071f8b97e7bc"
+    },
+    {
+      "path": "assets/regular/camera-slash.svg",
+      "dest": "regular/camera-slash.svg",
+      "sha": "f81cab709cea3156099d5899280aa9a2913bfc38"
+    },
+    {
+      "path": "assets/fill/camera-slash-fill.svg",
+      "dest": "fill/camera-slash.svg",
+      "sha": "6c3ac43b2a59b69ea1d3662af04f9d60505ae291"
+    },
+    {
+      "path": "assets/bold/camera-slash-bold.svg",
+      "dest": "bold/camera-slash.svg",
+      "sha": "0a16e46e7f70eda0e56f469224c0f9121bd7e424"
+    },
+    {
+      "path": "assets/regular/microphone.svg",
+      "dest": "regular/microphone.svg",
+      "sha": "8af9d8950f2b50b9677aa466db82c729c68ae548"
+    },
+    {
+      "path": "assets/fill/microphone-fill.svg",
+      "dest": "fill/microphone.svg",
+      "sha": "6a4a0c05ab6a20856fce6f5c64b4421053bd42f5"
+    },
+    {
+      "path": "assets/bold/microphone-bold.svg",
+      "dest": "bold/microphone.svg",
+      "sha": "f8ce1aa7aca9aec7e4d3ff761ca32a9041db8aae"
+    },
+    {
+      "path": "assets/regular/microphone-slash.svg",
+      "dest": "regular/microphone-slash.svg",
+      "sha": "8d5ad4b9d41e1632d0b83f17ed4a1c8a2b603e93"
+    },
+    {
+      "path": "assets/fill/microphone-slash-fill.svg",
+      "dest": "fill/microphone-slash.svg",
+      "sha": "18e81408f1934cf766a19e80acd7f03a531ba832"
+    },
+    {
+      "path": "assets/bold/microphone-slash-bold.svg",
+      "dest": "bold/microphone-slash.svg",
+      "sha": "1e51c3b060734feabe7eed20bde446b1be17954f"
+    },
+    {
+      "path": "assets/regular/phone.svg",
+      "dest": "regular/phone.svg",
+      "sha": "dcd761bb82e24cc2c9eee4b9491ae5a0ba025e90"
+    },
+    {
+      "path": "assets/fill/phone-fill.svg",
+      "dest": "fill/phone.svg",
+      "sha": "9a8877f3f79adda2e69840aca2706a0f75859db1"
+    },
+    {
+      "path": "assets/bold/phone-bold.svg",
+      "dest": "bold/phone.svg",
+      "sha": "4628af55cbcc0e301ff02b2ea9d62debe8524f43"
+    },
+    {
+      "path": "assets/regular/phone-slash.svg",
+      "dest": "regular/phone-slash.svg",
+      "sha": "15dc5a36456d36adb66d958d894c2304493cbfe6"
+    },
+    {
+      "path": "assets/fill/phone-slash-fill.svg",
+      "dest": "fill/phone-slash.svg",
+      "sha": "4b4a9e8cfdcfe61b53bc32f201270a643f5e1c84"
+    },
+    {
+      "path": "assets/bold/phone-slash-bold.svg",
+      "dest": "bold/phone-slash.svg",
+      "sha": "3c65de56e781e1ac70fc3508dc36a3a774a4f528"
+    },
+    {
+      "path": "assets/regular/airplane.svg",
+      "dest": "regular/airplane.svg",
+      "sha": "5a30bd111a07ee43734d0ec7ac4878e436e6cd65"
+    },
+    {
+      "path": "assets/fill/airplane-fill.svg",
+      "dest": "fill/airplane.svg",
+      "sha": "3717e35ed90563f3e90a483d2301046d160f18f0"
+    },
+    {
+      "path": "assets/bold/airplane-bold.svg",
+      "dest": "bold/airplane.svg",
+      "sha": "3b49874436ee79e209b25eb682258a12a3311fbc"
+    },
+    {
+      "path": "assets/regular/map-pin.svg",
+      "dest": "regular/map-pin.svg",
+      "sha": "b269d42974a9c88592ccf4ee9fb53f6bc329718d"
+    },
+    {
+      "path": "assets/fill/map-pin-fill.svg",
+      "dest": "fill/map-pin.svg",
+      "sha": "1a36c2630b1116b74a5b02610a9d8c4e3de5de13"
+    },
+    {
+      "path": "assets/bold/map-pin-bold.svg",
+      "dest": "bold/map-pin.svg",
+      "sha": "8a0dc2c9f5c119083628bf74d1881f5876ee136c"
+    },
+    {
+      "path": "assets/regular/battery-full.svg",
+      "dest": "regular/battery-full.svg",
+      "sha": "efc01259dc2cfd63f894a83f5bafd01b52088bf5"
+    },
+    {
+      "path": "assets/fill/battery-full-fill.svg",
+      "dest": "fill/battery-full.svg",
+      "sha": "54d44cb1f93950dda0b0cd442f847971afbccd82"
+    },
+    {
+      "path": "assets/bold/battery-full-bold.svg",
+      "dest": "bold/battery-full.svg",
+      "sha": "225a34589e3c1df447a2efa507d05e8ac7d9ed18"
+    },
+    {
+      "path": "assets/regular/battery-charging.svg",
+      "dest": "regular/battery-charging.svg",
+      "sha": "5d539276ddcb88e3c7701de57be1b2cc6ac6ddae"
+    },
+    {
+      "path": "assets/fill/battery-charging-fill.svg",
+      "dest": "fill/battery-charging.svg",
+      "sha": "5210b28220768de161caea36aef6a917e3a1d407"
+    },
+    {
+      "path": "assets/bold/battery-charging-bold.svg",
+      "dest": "bold/battery-charging.svg",
+      "sha": "d379a7ffbaf00485cbc996a8bdb26027d0a61b26"
+    },
+    {
+      "path": "assets/regular/heart.svg",
+      "dest": "regular/heart.svg",
+      "sha": "c7248cb254afd2e3617098ea27cd2274ccecd550"
+    },
+    {
+      "path": "assets/fill/heart-fill.svg",
+      "dest": "fill/heart.svg",
+      "sha": "21b6fb767912d609a17a1abb956c4e4e357ac334"
+    },
+    {
+      "path": "assets/bold/heart-bold.svg",
+      "dest": "bold/heart.svg",
+      "sha": "62a34b3d1e854b55066f38ed2e985e77baaf0117"
+    },
+    {
+      "path": "assets/regular/star.svg",
+      "dest": "regular/star.svg",
+      "sha": "4e640f4895f9b27bbcc29d23ee98ce70e8b7da1c"
+    },
+    {
+      "path": "assets/fill/star-fill.svg",
+      "dest": "fill/star.svg",
+      "sha": "50c668bd294984b575316d37e9072a05007cb8c6"
+    },
+    {
+      "path": "assets/bold/star-bold.svg",
+      "dest": "bold/star.svg",
+      "sha": "cd51f127bcf5580f9134073f64c4bf7bdb775801"
+    },
+    {
+      "path": "assets/regular/trash.svg",
+      "dest": "regular/trash.svg",
+      "sha": "9f963931ad750f213310e861dc5c9adff0f9989a"
+    },
+    {
+      "path": "assets/fill/trash-fill.svg",
+      "dest": "fill/trash.svg",
+      "sha": "37381ce411f1253227b9f6d82fe2a99862d1fe6f"
+    },
+    {
+      "path": "assets/bold/trash-bold.svg",
+      "dest": "bold/trash.svg",
+      "sha": "f06f485b6f05577a20459588697ece6813fda0c4"
+    },
+    {
+      "path": "assets/regular/arrows-clockwise.svg",
+      "dest": "regular/arrows-clockwise.svg",
+      "sha": "aaae1464d6c4d1d973376cff2ccae5aba003f9a3"
+    },
+    {
+      "path": "assets/fill/arrows-clockwise-fill.svg",
+      "dest": "fill/arrows-clockwise.svg",
+      "sha": "19d161b25830ac93e720961dc38574876f864c44"
+    },
+    {
+      "path": "assets/bold/arrows-clockwise-bold.svg",
+      "dest": "bold/arrows-clockwise.svg",
+      "sha": "706059db35cd1a83ae180c4b3f3bcfa5558c19f7"
+    },
+    {
+      "path": "assets/regular/gauge.svg",
+      "dest": "regular/gauge.svg",
+      "sha": "a6d5129212c9345db152690eae796a82984cef5b"
+    },
+    {
+      "path": "assets/fill/gauge-fill.svg",
+      "dest": "fill/gauge.svg",
+      "sha": "b5aeadf25082e83f49afb046e660bc1c43cac1c1"
+    },
+    {
+      "path": "assets/bold/gauge-bold.svg",
+      "dest": "bold/gauge.svg",
+      "sha": "5b1cdb52eb2b36f4c91899b8fa4a1f189e54ec1b"
+    },
+    {
+      "path": "assets/regular/person-simple-circle.svg",
+      "dest": "regular/person-simple-circle.svg",
+      "sha": "71896ac0cb3c4106e13826fd29a18f697259c363"
+    },
+    {
+      "path": "assets/fill/person-simple-circle-fill.svg",
+      "dest": "fill/person-simple-circle.svg",
+      "sha": "ff5b8f7e43b8061f8a1751f8919fbf3845c59fbd"
+    },
+    {
+      "path": "assets/bold/person-simple-circle-bold.svg",
+      "dest": "bold/person-simple-circle.svg",
+      "sha": "4190ad21a0e7dfb77f0cbfeae9b16407af9ddbb7"
+    },
+    {
+      "path": "assets/regular/scan.svg",
+      "dest": "regular/scan.svg",
+      "sha": "a91850fa4558074ce6495fdb00765fa772b4e169"
+    },
+    {
+      "path": "assets/fill/scan-fill.svg",
+      "dest": "fill/scan.svg",
+      "sha": "0233003aaf7025b25c23679da5bb4c02424fa78e"
+    },
+    {
+      "path": "assets/bold/scan-bold.svg",
+      "dest": "bold/scan.svg",
+      "sha": "dcd7da50ccc5da63bade9231029b4a2829fbcc22"
+    },
+    {
+      "path": "assets/regular/keyboard.svg",
+      "dest": "regular/keyboard.svg",
+      "sha": "89e1e61302a8da97147f75cbb58262c19a2840ae"
+    },
+    {
+      "path": "assets/fill/keyboard-fill.svg",
+      "dest": "fill/keyboard.svg",
+      "sha": "6cc2ebe4cb2952654aa941cbf80c36306a686771"
+    },
+    {
+      "path": "assets/bold/keyboard-bold.svg",
+      "dest": "bold/keyboard.svg",
+      "sha": "23e539d53a6ced1c30e62e0efd1780c3d81df7f6"
+    },
+    {
+      "path": "assets/regular/git-pull-request.svg",
+      "dest": "regular/git-pull-request.svg",
+      "sha": "ff8d6954c152b94facc3322c5199846293d6c6ee"
+    },
+    {
+      "path": "assets/fill/git-pull-request-fill.svg",
+      "dest": "fill/git-pull-request.svg",
+      "sha": "3dd3b010f518b26220e48b854b8f9c2e6231e4cb"
+    },
+    {
+      "path": "assets/bold/git-pull-request-bold.svg",
+      "dest": "bold/git-pull-request.svg",
+      "sha": "ea8cd8564b7557224f0271007c390901b9583738"
+    },
+    {
+      "path": "assets/regular/contactless-payment.svg",
+      "dest": "regular/contactless-payment.svg",
+      "sha": "6aa32150e28480b109e488ee46bb512e70a53ec0"
+    },
+    {
+      "path": "assets/fill/contactless-payment-fill.svg",
+      "dest": "fill/contactless-payment.svg",
+      "sha": "69dd52404e635e62ab5888d39ce735bea9cea74c"
+    },
+    {
+      "path": "assets/bold/contactless-payment-bold.svg",
+      "dest": "bold/contactless-payment.svg",
+      "sha": "78565b56eed0e76352f657bff8e61cfb25bb8866"
+    },
+    {
+      "path": "assets/regular/currency-inr.svg",
+      "dest": "regular/currency-inr.svg",
+      "sha": "152f9e9f65de5fde2c905901003be222681714c9"
+    },
+    {
+      "path": "assets/fill/currency-inr-fill.svg",
+      "dest": "fill/currency-inr.svg",
+      "sha": "e9fa22b0c3b99d7f7c02a2402926b6237a37fe28"
+    },
+    {
+      "path": "assets/bold/currency-inr-bold.svg",
+      "dest": "bold/currency-inr.svg",
+      "sha": "543f38eda6c2f74d0b4a2db27401847c5b187bbb"
+    },
+    {
+      "path": "LICENSE",
+      "dest": "LICENSE",
+      "sha": "78c9810819776e135d314adc0ff26eda7bec8b38"
+    }
+  ]
+}

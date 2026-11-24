@@ -1,10 +1,11 @@
 /**
  * @greninja-op/icons-assets
- * Programmatic access and directory index for 350,000+ authentic SVG and raster icon assets.
+ * Programmatic access and directory index for SVG and raster icon assets.
  */
 
 const path = require('path');
 const fs = require('fs');
+const { searchAssets } = require('./asset-catalog');
 
 const BASE_PATH = __dirname;
 
@@ -15,9 +16,12 @@ const CATEGORIES = {
   devtools: path.join(BASE_PATH, 'developer-tools'),
   mobile: path.join(BASE_PATH, 'mobile-and-app'),
   os: path.join(BASE_PATH, 'os-and-desktop'),
+  gaming: path.join(BASE_PATH, 'gaming'),
+  'google-apps': path.join(BASE_PATH, 'brands-and-logos', 'google'),
+  'microsoft-apps': path.join(BASE_PATH, 'brands-and-logos', 'microsoft'),
   pixel: path.join(BASE_PATH, 'pixel-art'),
   system: path.join(BASE_PATH, 'system-and-ui'),
-  apple: path.join(BASE_PATH, 'os-and-desktop', 'macos-icons'),
+  apple: path.join(BASE_PATH, 'os-and-desktop', 'apple'),
   google: path.join(BASE_PATH, 'cloud-architecture', 'google-cloud-icons'),
   microsoft: path.join(BASE_PATH, 'brands-and-logos', 'microsoft-cloud-logos'),
   languages: path.join(BASE_PATH, 'developer-tools', 'stacks-and-languages'),
@@ -61,7 +65,7 @@ function findIcon(iconName, category) {
     }
   }
 
-  walk(searchRoot);
+  if (fs.existsSync(searchRoot)) walk(searchRoot);
   return found;
 }
 
@@ -69,5 +73,6 @@ module.exports = {
   CATEGORIES,
   getCategoryPath,
   findIcon,
+  searchAssets,
   BASE_PATH
 };

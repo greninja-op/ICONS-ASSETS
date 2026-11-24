@@ -1,0 +1,20 @@
+{
+  "assets": 71883,
+  "categories": {
+    "apps-and-dashboards": 11744,
+    "brands-and-logos": 26827,
+    "cloud-architecture": 8305,
+    "developer-tools": 5528,
+    "gaming": 396,
+    "mobile-and-app": 3046,
+    "os-and-desktop": 260,
+    "pixel-art": 6230,
+    "system-and-ui": 9547
+  },
+  "formats": {
+    "svg": 51110,
+    "png": 16606,
+    "webp": 4151,
+    "ico": 16
+  }
+}

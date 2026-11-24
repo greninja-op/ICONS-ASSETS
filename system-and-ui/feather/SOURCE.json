@@ -1,0 +1,17 @@
+{
+  "pack": "Feather Icons",
+  "folder": "feather",
+  "upstream": {
+    "name": "Cole Bemis",
+    "url": "https://github.com/feathericons/feather"
+  },
+  "license": "MIT",
+  "license_source": "https://github.com/feathericons/feather/blob/main/LICENSE",
+  "license_blob": "1f4f4336baff1185dc78ae9e78cac46628dcc869",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/feather.json",
+  "style": "outline",
+  "current_svgs": 286,
+  "legacy_svgs": 0,
+  "aliases": 0,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

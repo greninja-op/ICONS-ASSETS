@@ -1,0 +1,11 @@
+{
+  "circle-large-outline": {
+    "parent": "circle-large"
+  },
+  "circle-outline": {
+    "parent": "circle"
+  },
+  "debug-stackframe-dot": {
+    "parent": "circle-small-filled"
+  }
+}

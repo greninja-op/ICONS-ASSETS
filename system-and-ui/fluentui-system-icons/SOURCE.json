@@ -1,0 +1,534 @@
+{
+  "folder": "fluentui-system-icons",
+  "scope": "selected symbols and style variants",
+  "upstream": "https://github.com/microsoft/fluentui-system-icons/tree/a3de63245b4fa49c30e20d9838593a105affe774",
+  "license": "MIT",
+  "styles": {
+    "regular": 51,
+    "filled": 50,
+    "color": 1
+  },
+  "svg_files": 102,
+  "files": [
+    {
+      "path": "assets/WiFi 4/SVG/ic_fluent_wifi_4_24_regular.svg",
+      "dest": "regular/wifi-4.svg",
+      "sha": "5890ca739bcaef3a2d45595b6025855d545e3868"
+    },
+    {
+      "path": "assets/WiFi 4/SVG/ic_fluent_wifi_4_24_filled.svg",
+      "dest": "filled/wifi-4.svg",
+      "sha": "05a2adece1d857cff16b4a7ccf7acf9030ac40c4"
+    },
+    {
+      "path": "assets/WiFi/SVG/ic_fluent_wifi_24_color.svg",
+      "dest": "color/wifi.svg",
+      "sha": "8cb617bffe1a99c1feef9de2cc3c55598f7eee9f"
+    },
+    {
+      "path": "assets/WiFi Off/SVG/ic_fluent_wifi_off_24_regular.svg",
+      "dest": "regular/wifi-off.svg",
+      "sha": "a3860729cf271e87a1c29180eaf8fcc96a748bb1"
+    },
+    {
+      "path": "assets/WiFi Off/SVG/ic_fluent_wifi_off_24_filled.svg",
+      "dest": "filled/wifi-off.svg",
+      "sha": "5e76670b08da85abff1ea58a64b30f53d886589b"
+    },
+    {
+      "path": "assets/Bluetooth/SVG/ic_fluent_bluetooth_24_regular.svg",
+      "dest": "regular/bluetooth.svg",
+      "sha": "376162d3a084feea383327e9a2fb04f46bde4523"
+    },
+    {
+      "path": "assets/Bluetooth/SVG/ic_fluent_bluetooth_24_filled.svg",
+      "dest": "filled/bluetooth.svg",
+      "sha": "7bf8198a7ba8b9c1d25f2b19c6f8f41cca4435e1"
+    },
+    {
+      "path": "assets/Bluetooth Disabled/SVG/ic_fluent_bluetooth_disabled_24_regular.svg",
+      "dest": "regular/bluetooth-disabled.svg",
+      "sha": "3e306187e75fe2be617ccba55aa6f7ca284c0c3a"
+    },
+    {
+      "path": "assets/Bluetooth Disabled/SVG/ic_fluent_bluetooth_disabled_24_filled.svg",
+      "dest": "filled/bluetooth-disabled.svg",
+      "sha": "57087572413828d0ce3678269a6034214e1c1502"
+    },
+    {
+      "path": "assets/Settings/SVG/ic_fluent_settings_24_regular.svg",
+      "dest": "regular/settings.svg",
+      "sha": "cdb8776a62d047d7c8d6a41cfd5c18e1677b71af"
+    },
+    {
+      "path": "assets/Settings/SVG/ic_fluent_settings_24_filled.svg",
+      "dest": "filled/settings.svg",
+      "sha": "e3b9c05c805d8a8b9547d303c76cbcf050a64f53"
+    },
+    {
+      "path": "assets/Search/SVG/ic_fluent_search_24_regular.svg",
+      "dest": "regular/search.svg",
+      "sha": "54afa3e7b5ea9592ddb24f6dde9a3376ee52487f"
+    },
+    {
+      "path": "assets/Search/SVG/ic_fluent_search_24_filled.svg",
+      "dest": "filled/search.svg",
+      "sha": "0a1e6c83bf11e08109585fd5d8506efd662fdf9e"
+    },
+    {
+      "path": "assets/Home/SVG/ic_fluent_home_24_regular.svg",
+      "dest": "regular/home.svg",
+      "sha": "017d3a0c7948ee354a9ae1a77ac6840d368fbe7c"
+    },
+    {
+      "path": "assets/Home/SVG/ic_fluent_home_24_filled.svg",
+      "dest": "filled/home.svg",
+      "sha": "c8320f41323b3334d9a9d83cd15d0034a30cc050"
+    },
+    {
+      "path": "assets/Alert/SVG/ic_fluent_alert_24_regular.svg",
+      "dest": "regular/alert.svg",
+      "sha": "206852e31e014f1a056e2cf16462a24735f1ef4a"
+    },
+    {
+      "path": "assets/Alert/SVG/ic_fluent_alert_24_filled.svg",
+      "dest": "filled/alert.svg",
+      "sha": "72e24aef9f48a987a645007307262131233044a5"
+    },
+    {
+      "path": "assets/Alert Off/SVG/ic_fluent_alert_off_24_regular.svg",
+      "dest": "regular/alert-off.svg",
+      "sha": "74a18d7e6679e53a12423e67a3633b5043f8738c"
+    },
+    {
+      "path": "assets/Alert Off/SVG/ic_fluent_alert_off_24_filled.svg",
+      "dest": "filled/alert-off.svg",
+      "sha": "e601d9370b3056d5a0f41c0781bc958d304de9c4"
+    },
+    {
+      "path": "assets/Person/SVG/ic_fluent_person_24_regular.svg",
+      "dest": "regular/person.svg",
+      "sha": "f0d6df0bf11ad4a6cddf52555cb313b6db708852"
+    },
+    {
+      "path": "assets/Person/SVG/ic_fluent_person_24_filled.svg",
+      "dest": "filled/person.svg",
+      "sha": "56ee4de82bf6018b1a5c928d1568b3e5220432e1"
+    },
+    {
+      "path": "assets/People/SVG/ic_fluent_people_24_regular.svg",
+      "dest": "regular/people.svg",
+      "sha": "763ac7cf2b07274879ce154efe8838ba04b106c2"
+    },
+    {
+      "path": "assets/People/SVG/ic_fluent_people_24_filled.svg",
+      "dest": "filled/people.svg",
+      "sha": "3a166139fc8dfb81e7624d233bc2b7e90f6e256f"
+    },
+    {
+      "path": "assets/Lock Closed/SVG/ic_fluent_lock_closed_24_regular.svg",
+      "dest": "regular/lock-closed.svg",
+      "sha": "1e52d326c46a1836c6289307b941487ec0f5b59b"
+    },
+    {
+      "path": "assets/Lock Closed/SVG/ic_fluent_lock_closed_24_filled.svg",
+      "dest": "filled/lock-closed.svg",
+      "sha": "01b576e501d49029e97e6a2e4efe43ac02158973"
+    },
+    {
+      "path": "assets/Lock Open/SVG/ic_fluent_lock_open_24_regular.svg",
+      "dest": "regular/lock-open.svg",
+      "sha": "36ea0f0fc6da650a52d8a2d6406fec4a3e4ef890"
+    },
+    {
+      "path": "assets/Lock Open/SVG/ic_fluent_lock_open_24_filled.svg",
+      "dest": "filled/lock-open.svg",
+      "sha": "b590c8dd8f9cb4b45f58b7b8be75229daf5787b5"
+    },
+    {
+      "path": "assets/Eye/SVG/ic_fluent_eye_24_regular.svg",
+      "dest": "regular/eye.svg",
+      "sha": "af3bf7aa2ff38ca3c7e7ab0e0d1b56f4953edf0b"
+    },
+    {
+      "path": "assets/Eye/SVG/ic_fluent_eye_24_filled.svg",
+      "dest": "filled/eye.svg",
+      "sha": "cf68e33ef83ff00c66443b9c49bf19cdc49b98c9"
+    },
+    {
+      "path": "assets/Eye Off/SVG/ic_fluent_eye_off_24_regular.svg",
+      "dest": "regular/eye-off.svg",
+      "sha": "592a7ef45806d42d6328717c71b43ccf20e0e3c0"
+    },
+    {
+      "path": "assets/Arrow Download/SVG/ic_fluent_arrow_download_24_regular.svg",
+      "dest": "regular/arrow-download.svg",
+      "sha": "2ae1024b21af55d553e2aa8f0d2e03b728768341"
+    },
+    {
+      "path": "assets/Arrow Download/SVG/ic_fluent_arrow_download_24_filled.svg",
+      "dest": "filled/arrow-download.svg",
+      "sha": "50a0d9184672593c7617932a2ae5525f6028dbe5"
+    },
+    {
+      "path": "assets/Arrow Upload/SVG/ic_fluent_arrow_upload_24_regular.svg",
+      "dest": "regular/arrow-upload.svg",
+      "sha": "3055a5fff2ec4f869cab6e540c2960fc7e159ba1"
+    },
+    {
+      "path": "assets/Arrow Upload/SVG/ic_fluent_arrow_upload_24_filled.svg",
+      "dest": "filled/arrow-upload.svg",
+      "sha": "e9ee7fd91fe6b85aee11a9b0fb70cd2328b26d20"
+    },
+    {
+      "path": "assets/Cloud/SVG/ic_fluent_cloud_24_regular.svg",
+      "dest": "regular/cloud.svg",
+      "sha": "a1670fd0efa9ef4b8a9690cbba8d41bcc83c327a"
+    },
+    {
+      "path": "assets/Cloud/SVG/ic_fluent_cloud_24_filled.svg",
+      "dest": "filled/cloud.svg",
+      "sha": "3045802e05288a4e4ec110e97b2ba8a0de9a5f46"
+    },
+    {
+      "path": "assets/Cloud Off/SVG/ic_fluent_cloud_off_24_regular.svg",
+      "dest": "regular/cloud-off.svg",
+      "sha": "2d5b10b174163dbacb419bfc0a6d13dabc55462a"
+    },
+    {
+      "path": "assets/Cloud Off/SVG/ic_fluent_cloud_off_24_filled.svg",
+      "dest": "filled/cloud-off.svg",
+      "sha": "3e33fd63aa70d5d0149ec56945f53cc95491857b"
+    },
+    {
+      "path": "assets/Database/SVG/ic_fluent_database_24_regular.svg",
+      "dest": "regular/database.svg",
+      "sha": "c51cc559bc0dba7b101c2b6ad58eb41fb0501683"
+    },
+    {
+      "path": "assets/Database/SVG/ic_fluent_database_24_filled.svg",
+      "dest": "filled/database.svg",
+      "sha": "58093288e9c3b8880a9a8a140b7a4f178c0a6f51"
+    },
+    {
+      "path": "assets/Folder/SVG/ic_fluent_folder_24_regular.svg",
+      "dest": "regular/folder.svg",
+      "sha": "ea0dd476b5bbec517933954ec444d0b628f8db1a"
+    },
+    {
+      "path": "assets/Folder/SVG/ic_fluent_folder_24_filled.svg",
+      "dest": "filled/folder.svg",
+      "sha": "0e79d255907cb5e9c93b972a6ee81f000bcbb7e7"
+    },
+    {
+      "path": "assets/Folder Open/SVG/ic_fluent_folder_open_24_regular.svg",
+      "dest": "regular/folder-open.svg",
+      "sha": "5015d232203e56139a2528c33e917e637dab0456"
+    },
+    {
+      "path": "assets/Folder Open/SVG/ic_fluent_folder_open_24_filled.svg",
+      "dest": "filled/folder-open.svg",
+      "sha": "e1d2d84e5cae064d0e91fdc2ad1b506693da7145"
+    },
+    {
+      "path": "assets/Document/SVG/ic_fluent_document_24_regular.svg",
+      "dest": "regular/document.svg",
+      "sha": "9246fd1cec193bf1a2ff0f4faf195592f1d4c8c1"
+    },
+    {
+      "path": "assets/Document/SVG/ic_fluent_document_24_filled.svg",
+      "dest": "filled/document.svg",
+      "sha": "51ec2228a53565bcb29187d7175d6884badaa376"
+    },
+    {
+      "path": "assets/Checkmark/SVG/ic_fluent_checkmark_24_regular.svg",
+      "dest": "regular/checkmark.svg",
+      "sha": "4789d6236c09fb431d8da45e85951ddb5c212841"
+    },
+    {
+      "path": "assets/Checkmark/SVG/ic_fluent_checkmark_24_filled.svg",
+      "dest": "filled/checkmark.svg",
+      "sha": "61e8fe2ae8f90cecfd3ef9f9160c9f6bcc0245ae"
+    },
+    {
+      "path": "assets/Dismiss/SVG/ic_fluent_dismiss_24_regular.svg",
+      "dest": "regular/dismiss.svg",
+      "sha": "e888b1b0e441fea07f47369a42b6cfc761f5665f"
+    },
+    {
+      "path": "assets/Dismiss/SVG/ic_fluent_dismiss_24_filled.svg",
+      "dest": "filled/dismiss.svg",
+      "sha": "a8325b5a9e7c0f00c1e30609cb4eddd6fd85f055"
+    },
+    {
+      "path": "assets/Add/SVG/ic_fluent_add_24_regular.svg",
+      "dest": "regular/add.svg",
+      "sha": "5c8fc66a82d251813685640876071fb2b11ce0da"
+    },
+    {
+      "path": "assets/Add/SVG/ic_fluent_add_24_filled.svg",
+      "dest": "filled/add.svg",
+      "sha": "7d25a2fa58f06985717e75cecfe795da8a16b8cb"
+    },
+    {
+      "path": "assets/Subtract/SVG/ic_fluent_subtract_24_regular.svg",
+      "dest": "regular/subtract.svg",
+      "sha": "34aa19889f8311c64680fe93648e00cae5ab3c7d"
+    },
+    {
+      "path": "assets/Subtract/SVG/ic_fluent_subtract_24_filled.svg",
+      "dest": "filled/subtract.svg",
+      "sha": "c70eae263fc272ad6b1f0d8a0dd2fcbbdda2b91d"
+    },
+    {
+      "path": "assets/Arrow Left/SVG/ic_fluent_arrow_left_24_regular.svg",
+      "dest": "regular/arrow-left.svg",
+      "sha": "bef2c539c984e9e5a560549c6cc50539f2b5e4b1"
+    },
+    {
+      "path": "assets/Arrow Left/SVG/ic_fluent_arrow_left_24_filled.svg",
+      "dest": "filled/arrow-left.svg",
+      "sha": "f83d5fdb3bf5c73d6397a037bd02af84bef2717e"
+    },
+    {
+      "path": "assets/Arrow Right/SVG/ic_fluent_arrow_right_24_regular.svg",
+      "dest": "regular/arrow-right.svg",
+      "sha": "2941e9e433a56f7a0ed03894964317f9dda8686d"
+    },
+    {
+      "path": "assets/Arrow Right/SVG/ic_fluent_arrow_right_24_filled.svg",
+      "dest": "filled/arrow-right.svg",
+      "sha": "88c1c5268c263e209503519d5cc1a528ecff576c"
+    },
+    {
+      "path": "assets/Arrow Up/SVG/ic_fluent_arrow_up_24_regular.svg",
+      "dest": "regular/arrow-up.svg",
+      "sha": "723a9b9e651bbedb3a3dfb0284fc8bd2c2efef02"
+    },
+    {
+      "path": "assets/Arrow Up/SVG/ic_fluent_arrow_up_24_filled.svg",
+      "dest": "filled/arrow-up.svg",
+      "sha": "c01b8c58ec5c1ba05db44dd93a4671bdcb740138"
+    },
+    {
+      "path": "assets/Arrow Down/SVG/ic_fluent_arrow_down_24_regular.svg",
+      "dest": "regular/arrow-down.svg",
+      "sha": "ce6503a4fdea4c0a9270955c74c1b2c2a87bb974"
+    },
+    {
+      "path": "assets/Arrow Down/SVG/ic_fluent_arrow_down_24_filled.svg",
+      "dest": "filled/arrow-down.svg",
+      "sha": "609f91216d25a512e7fef242a397149367570197"
+    },
+    {
+      "path": "assets/Navigation/SVG/ic_fluent_navigation_24_regular.svg",
+      "dest": "regular/navigation.svg",
+      "sha": "ceca5cacd762516875aec036189f4fb86a993bea"
+    },
+    {
+      "path": "assets/Navigation/SVG/ic_fluent_navigation_24_filled.svg",
+      "dest": "filled/navigation.svg",
+      "sha": "04e6fae0c86a75e59cec36f3e80efbf6749382fd"
+    },
+    {
+      "path": "assets/More Horizontal/SVG/ic_fluent_more_horizontal_24_regular.svg",
+      "dest": "regular/more-horizontal.svg",
+      "sha": "a117237617a626c9fe2d3368b90ee634447755e7"
+    },
+    {
+      "path": "assets/More Horizontal/SVG/ic_fluent_more_horizontal_24_filled.svg",
+      "dest": "filled/more-horizontal.svg",
+      "sha": "b984bc58ae019ee5010a18c238fa5a63bbdee59c"
+    },
+    {
+      "path": "assets/Camera/SVG/ic_fluent_camera_24_regular.svg",
+      "dest": "regular/camera.svg",
+      "sha": "b496a2af0e8c793a11c25dc4853b77f64ba56404"
+    },
+    {
+      "path": "assets/Camera/SVG/ic_fluent_camera_24_filled.svg",
+      "dest": "filled/camera.svg",
+      "sha": "4982e44c41faf6164f22b71569644bcfe14b1fe4"
+    },
+    {
+      "path": "assets/Camera Off/SVG/ic_fluent_camera_off_24_regular.svg",
+      "dest": "regular/camera-off.svg",
+      "sha": "f366958a1b6dd48236a21a9fe72741145b03423c"
+    },
+    {
+      "path": "assets/Camera Off/SVG/ic_fluent_camera_off_24_filled.svg",
+      "dest": "filled/camera-off.svg",
+      "sha": "372c65e876fa18352847e09c0e3eafad5b34ec6c"
+    },
+    {
+      "path": "assets/Mic/SVG/ic_fluent_mic_24_regular.svg",
+      "dest": "regular/mic.svg",
+      "sha": "c21020b8113904dbfd9459b7402238b0e60c62ac"
+    },
+    {
+      "path": "assets/Mic/SVG/ic_fluent_mic_24_filled.svg",
+      "dest": "filled/mic.svg",
+      "sha": "84f0dd54a4f842c720c843ac3f80cab6e583e8a7"
+    },
+    {
+      "path": "assets/Mic Off/SVG/ic_fluent_mic_off_24_regular.svg",
+      "dest": "regular/mic-off.svg",
+      "sha": "877618fec4dc45a28b874a5dadf9c528aea47f71"
+    },
+    {
+      "path": "assets/Mic Off/SVG/ic_fluent_mic_off_24_filled.svg",
+      "dest": "filled/mic-off.svg",
+      "sha": "c98f588f0f8a111eb0198c1b65994241dc6cfe87"
+    },
+    {
+      "path": "assets/Call/SVG/ic_fluent_call_24_regular.svg",
+      "dest": "regular/call.svg",
+      "sha": "ac9e74899b04aba2172bc69c14efe354a54689a1"
+    },
+    {
+      "path": "assets/Call/SVG/ic_fluent_call_24_filled.svg",
+      "dest": "filled/call.svg",
+      "sha": "d42760e658b27d5dbcd25d7c4079d1c52f246474"
+    },
+    {
+      "path": "assets/Call End/SVG/ic_fluent_call_end_24_regular.svg",
+      "dest": "regular/call-end.svg",
+      "sha": "16c192ba8439333291ba7eec6b53968dc08be3ac"
+    },
+    {
+      "path": "assets/Call End/SVG/ic_fluent_call_end_24_filled.svg",
+      "dest": "filled/call-end.svg",
+      "sha": "9d660da1e01938b893c3cf760044e99003be7066"
+    },
+    {
+      "path": "assets/Airplane/SVG/ic_fluent_airplane_24_regular.svg",
+      "dest": "regular/airplane.svg",
+      "sha": "40dc011f1309ad2fd43cae15f1dd0b975c6e181a"
+    },
+    {
+      "path": "assets/Airplane/SVG/ic_fluent_airplane_24_filled.svg",
+      "dest": "filled/airplane.svg",
+      "sha": "229e4952e68a00d9277e1d05b0f6ab06174d9d3d"
+    },
+    {
+      "path": "assets/Location/SVG/ic_fluent_location_24_regular.svg",
+      "dest": "regular/location.svg",
+      "sha": "508704b713ed60fd96d1ab04adcc2e46da8fd4dd"
+    },
+    {
+      "path": "assets/Location/SVG/ic_fluent_location_24_filled.svg",
+      "dest": "filled/location.svg",
+      "sha": "26c306218c1649aa8c0cc6c321d739fb9a1958da"
+    },
+    {
+      "path": "assets/Battery 10/SVG/ic_fluent_battery_10_24_regular.svg",
+      "dest": "regular/battery-10.svg",
+      "sha": "57d4127572e956f4e8862c60c92699ac835e43e0"
+    },
+    {
+      "path": "assets/Battery 10/SVG/ic_fluent_battery_10_24_filled.svg",
+      "dest": "filled/battery-10.svg",
+      "sha": "435f7f700c2eebb3d4226dd2fdb989c3dd5fbb61"
+    },
+    {
+      "path": "assets/Battery Charge/SVG/ic_fluent_battery_charge_24_regular.svg",
+      "dest": "regular/battery-charge.svg",
+      "sha": "04a96bf5e44286b371b0172e91c021509825da2e"
+    },
+    {
+      "path": "assets/Battery Charge/SVG/ic_fluent_battery_charge_24_filled.svg",
+      "dest": "filled/battery-charge.svg",
+      "sha": "28ba13e1ff20558e320513d15fe2c80a54eb293c"
+    },
+    {
+      "path": "assets/Heart/SVG/ic_fluent_heart_24_regular.svg",
+      "dest": "regular/heart.svg",
+      "sha": "0d2a0a492a0a7c615487f0c2990efc6bcb8ab8be"
+    },
+    {
+      "path": "assets/Heart/SVG/ic_fluent_heart_24_filled.svg",
+      "dest": "filled/heart.svg",
+      "sha": "442f995117e922905fc5f6c6370fe500eb056b43"
+    },
+    {
+      "path": "assets/Star/SVG/ic_fluent_star_24_regular.svg",
+      "dest": "regular/star.svg",
+      "sha": "e1e08b057576b43077cb6ee6f8fd2ecc51e00197"
+    },
+    {
+      "path": "assets/Star/SVG/ic_fluent_star_24_filled.svg",
+      "dest": "filled/star.svg",
+      "sha": "015d098305417eea532a2c92534c7296e93f247f"
+    },
+    {
+      "path": "assets/Delete/SVG/ic_fluent_delete_24_regular.svg",
+      "dest": "regular/delete.svg",
+      "sha": "216139d0a7a25040abb89df4c9d8781f710d9ffc"
+    },
+    {
+      "path": "assets/Delete/SVG/ic_fluent_delete_24_filled.svg",
+      "dest": "filled/delete.svg",
+      "sha": "5115c74c8d2825fb317c8b33123a6e89c8f98931"
+    },
+    {
+      "path": "assets/Arrow Clockwise/SVG/ic_fluent_arrow_clockwise_24_regular.svg",
+      "dest": "regular/arrow-clockwise.svg",
+      "sha": "c55fd031ed37c524aeff00acabba1f82d2a10cc7"
+    },
+    {
+      "path": "assets/Arrow Clockwise/SVG/ic_fluent_arrow_clockwise_24_filled.svg",
+      "dest": "filled/arrow-clockwise.svg",
+      "sha": "a56128b4b1f63db7b351b9f2b546dd44cec81c57"
+    },
+    {
+      "path": "assets/Accessibility/SVG/ic_fluent_accessibility_24_regular.svg",
+      "dest": "regular/accessibility.svg",
+      "sha": "eb3cd1930ec8948eb58df454512052f18aeb4880"
+    },
+    {
+      "path": "assets/Accessibility/SVG/ic_fluent_accessibility_24_filled.svg",
+      "dest": "filled/accessibility.svg",
+      "sha": "4690f7041270131edde495c847021b4d4147a40e"
+    },
+    {
+      "path": "assets/Scan/SVG/ic_fluent_scan_24_regular.svg",
+      "dest": "regular/scan.svg",
+      "sha": "78e43c5ca1b7245cb4f4f96a270eefb42c2a68d3"
+    },
+    {
+      "path": "assets/Scan/SVG/ic_fluent_scan_24_filled.svg",
+      "dest": "filled/scan.svg",
+      "sha": "f880b0734edf10dd20c97a84445a47ceaca8619d"
+    },
+    {
+      "path": "assets/Keyboard/SVG/ic_fluent_keyboard_24_regular.svg",
+      "dest": "regular/keyboard.svg",
+      "sha": "626789ff8a4192032ec0a559ed4535743560f7a1"
+    },
+    {
+      "path": "assets/Keyboard/SVG/ic_fluent_keyboard_24_filled.svg",
+      "dest": "filled/keyboard.svg",
+      "sha": "bd8a623870a931d2aa7f3c02c42eaf3acd416fc6"
+    },
+    {
+      "path": "assets/Chart Multiple/SVG/ic_fluent_chart_multiple_24_regular.svg",
+      "dest": "regular/chart-multiple.svg",
+      "sha": "3870fda37c7e3420945130ab30e4be05449dea8d"
+    },
+    {
+      "path": "assets/Chart Multiple/SVG/ic_fluent_chart_multiple_24_filled.svg",
+      "dest": "filled/chart-multiple.svg",
+      "sha": "93de38f0037c05325ff3c930073def080fc18454"
+    },
+    {
+      "path": "NOTICE",
+      "dest": "NOTICE",
+      "sha": "c67aa7958e681d0fd131167c0b47992cee30dbdb"
+    },
+    {
+      "path": "LICENSE",
+      "dest": "LICENSE",
+      "sha": "bc9c36b28f467f7006c4e5f1be4ca0a1a0b895f3"
+    }
+  ]
+}

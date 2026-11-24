@@ -1,0 +1,299 @@
+[
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "App Store.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/app-store.png",
+    "git_blob": "507b3a0658ed985c20ab64f4ece3b8c478c06cc9",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/App%20Store.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Apps.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/apps.png",
+    "git_blob": "e3054414202e67264740cc9dd3242293cdbbda5a",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Apps.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Automator.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/automator.png",
+    "git_blob": "d560dd7b10a50161331160f97f186f7b68a634ae",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Automator.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Books.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/books.png",
+    "git_blob": "30420825845ec848113b238de63b1e60c6349887",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Books.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Calculator.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/calculator.png",
+    "git_blob": "9ad085a9b056693b6730128d4015aabcd6157df4",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Calculator.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Calendar.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/calendar.png",
+    "git_blob": "ba39e92b9ef3c1b4739281c6c5547e48b296bc2b",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Calendar.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Chess.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/chess.png",
+    "git_blob": "3297f8dcc35d82a5427cb582e01076949eeeeab9",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Chess.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Clock.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/clock.png",
+    "git_blob": "20e8db4400db28a42c1fc73b97a76528e74fb153",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Clock.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Contacts.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/contacts.png",
+    "git_blob": "d10f3a3d30f2e8b93e2eb8af74efc3b08031ba6c",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Contacts.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Dictionary.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/dictionary.png",
+    "git_blob": "9f7a5936d173f34683dd0cd312600fd0556e8a39",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Dictionary.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "FaceTime.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/facetime.png",
+    "git_blob": "9ed32ba309429ecfe90055f4b2caafe948383662",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/FaceTime.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Find My.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/find-my.png",
+    "git_blob": "90b38b3f6e40eb80b713dd8c1117d66bc5eb1df9",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Find%20My.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Finder.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/finder.png",
+    "git_blob": "c2408b464adbd1a757529265b3e4f7ad746ed4b5",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Finder.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Font Book.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/font-book.png",
+    "git_blob": "3cbad65ab68df5dd28355585e1b406c13a81ac04",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Font%20Book.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Freeform.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/freeform.png",
+    "git_blob": "858e30dde865b2598222ff5e0204dcc1e870c291",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Freeform.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Game Center.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/game-center.png",
+    "git_blob": "e0a12e0fa4b055498fd773e28ae8e76a0135b8a4",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Game%20Center.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Games.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/games.png",
+    "git_blob": "6a6a70a9373ea9d3033e1bdc89c5ca80d185dbfa",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Games.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Home.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/home.png",
+    "git_blob": "e7c6e068d4284883d4eeec45ce8ddb766b427032",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Home.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Image Capture.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/image-capture.png",
+    "git_blob": "1c791ed7268bdcfd25dc5a6f1059df8aabb06abb",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Image%20Capture.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Photo Booth.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/photo-booth.png",
+    "git_blob": "14eb3f46143266cc352c112cff587e30a5a287bb",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Photo%20Booth.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Preview.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/native-apps/preview.png",
+    "git_blob": "bc0a6881a74d46548d803523cf9bac7d9c6b35b4",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Preview.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Activity Monitor.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/activity-monitor.png",
+    "git_blob": "cf7033469c57c74e33b27fcdc0a0ce53dda46b3a",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Activity%20Monitor.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/AirPort Utility.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/airport-utility.png",
+    "git_blob": "9fd4817e416fb8ef07382f2ed9386e836fdbb0e3",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/AirPort%20Utility.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Audio MIDI Setup.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/audio-midi-setup.png",
+    "git_blob": "f8dc38b61a1fde83d56114f7f7fb51553664568b",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Audio%20MIDI%20Setup.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Bluetooth File Exchange.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/bluetooth-file-exchange.png",
+    "git_blob": "ff8a0f9b57f70df226b7d86d88e22abd0e8dc381",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Bluetooth%20File%20Exchange.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/ColorSync Utility.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/colorsync-utility.png",
+    "git_blob": "3221c0b1e532410a2afcebbdf21120194efbbf2a",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/ColorSync%20Utility.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Console.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/console.png",
+    "git_blob": "cfc8ecdd365a1d6cc5a8be02791c60ff0b26bcf6",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Console.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Disk Utility.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/disk-utility.png",
+    "git_blob": "6938fd7ad6a87b4d3ea09a4a6edc74b3e4d9f484",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Disk%20Utility.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "CoreServices/Applications/Keychain Access.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/keychain-access.png",
+    "git_blob": "f9435a5651e035c137448784233f33bd04e4d095",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/CoreServices/Applications/Keychain%20Access.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Migration Assistant.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/migration-assistant.png",
+    "git_blob": "65ae4bb94b9f34fc1b8110df351c1227ef356b0b",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Migration%20Assistant.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/Script Editor.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/script-editor.png",
+    "git_blob": "26fece51b7cbda31d5d36d7d4ab95a41a8f30630",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/Script%20Editor.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/System Information.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/system-information.png",
+    "git_blob": "5406433b9fdaadbb8ee605f3d6c9cb3c2d2e080a",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/System%20Information.png"
+  },
+  {
+    "repo": "zagnut531/macOS-26-Icons",
+    "ref": "2867e67ae2f12b972fc85e56707bea4b303bdf92",
+    "source": "Utilities/VoiceOver Utility.png",
+    "output": "os-and-desktop/apple/macos-tahoe-26/utilities/voiceover-utility.png",
+    "git_blob": "02461b8a6c5b402317998eec841d00d3e5c6cdf7",
+    "status": "Original macOS 26/Tahoe system extraction from a third-party mirror; Apple artwork",
+    "url": "https://github.com/zagnut531/macOS-26-Icons/blob/2867e67ae2f12b972fc85e56707bea4b303bdf92/Utilities/VoiceOver%20Utility.png"
+  }
+]

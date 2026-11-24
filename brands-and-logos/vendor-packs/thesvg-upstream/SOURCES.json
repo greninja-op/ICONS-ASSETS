@@ -1,0 +1,2638 @@
+{
+  "upstreamRepository": "https://github.com/glincker/thesvg",
+  "revision": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+  "provenance": "Bytes from pinned TheSVG collection. Individual art verification and terms belong to upstream and original rights holders. These are cataloged copies, not stated to be publisher-hosted.",
+  "terms": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "files": {
+    "marks/2fauth.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/2fauth/default.svg",
+      "sourceBlob": "c587e42ad86526ced82c8d6a999599b009644b35",
+      "status": "Upstream default variant"
+    },
+    "marks/activepieces.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/activepieces/default.svg",
+      "sourceBlob": "7b27b29540cdb3ac9a05890b6cd8f97d88a38b31",
+      "status": "Upstream default variant"
+    },
+    "marks/agent-qa.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/agent-qa/default.svg",
+      "sourceBlob": "27c13074f9bbc0f580468ada9ac505ed45ed10f4",
+      "status": "Upstream default variant"
+    },
+    "marks/alertmanager.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/alertmanager/default.svg",
+      "sourceBlob": "1f54db3aba53733f47ad2029c33691f99f84d047",
+      "status": "Upstream default variant"
+    },
+    "marks/alteryx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/alteryx/default.svg",
+      "sourceBlob": "3d099235cfcd71095f767b060c2b7a7ef40c2cd3",
+      "status": "Upstream default variant"
+    },
+    "marks/altumptic.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/altumptic/default.svg",
+      "sourceBlob": "76cca9f906d58886ea8c31ef50c47b9634d51604",
+      "status": "Upstream default variant"
+    },
+    "marks/anythingllm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/anythingllm/default.svg",
+      "sourceBlob": "f19981d840439d1fecacc2e02964fdb93e578539",
+      "status": "Upstream default variant"
+    },
+    "marks/apiko.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/apiko/default.svg",
+      "sourceBlob": "2e613aa9362572f1af4e14eaeb77909923485981",
+      "status": "Upstream default variant"
+    },
+    "marks/appflowy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/appflowy/default.svg",
+      "sourceBlob": "07f40479a81b6ac885615e16b024a52f7b12d665",
+      "status": "Upstream default variant"
+    },
+    "marks/apprise-api.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/apprise-api/default.svg",
+      "sourceBlob": "415108224c22aa327b4b39ad4fcb15de6944e5e5",
+      "status": "Upstream default variant"
+    },
+    "marks/arbitrum.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/arbitrum/default.svg",
+      "sourceBlob": "97754527d04ec7221cd4a2b443053a4c024373f8",
+      "status": "Upstream default variant"
+    },
+    "marks/autobrr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/autobrr/default.svg",
+      "sourceBlob": "7bf692d52b53d7983ee5b9c768a4c3c4322c0c81",
+      "status": "Upstream default variant"
+    },
+    "marks/baby-buddy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/baby-buddy/default.svg",
+      "sourceBlob": "dc89301187b7ce874c9ef437abb17484b7ddfba2",
+      "status": "Upstream default variant"
+    },
+    "marks/backloggd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/backloggd/default.svg",
+      "sourceBlob": "64bae7557953b66d3c3667f7c3854cb82e57d66d",
+      "status": "Upstream default variant"
+    },
+    "marks/backrest.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/backrest/default.svg",
+      "sourceBlob": "5c869e1fdbfa3a7227847628673fc04b4d655825",
+      "status": "Upstream default variant"
+    },
+    "marks/bentopdf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/bentopdf/default.svg",
+      "sourceBlob": "5b0529a92cd186b0d6d555971b29db90f6677b63",
+      "status": "Upstream default variant"
+    },
+    "marks/beszel.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/beszel/default.svg",
+      "sourceBlob": "4651785b9bfcebed7f6912b6b3c771370568d401",
+      "status": "Upstream default variant"
+    },
+    "marks/bitkit.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/bitkit/default.svg",
+      "sourceBlob": "6b3fc9544f9fb412c2c8ce5e012a90f6dc1948f7",
+      "status": "Upstream default variant"
+    },
+    "marks/brainrune-mark-deep.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/brainrune-mark-deep/default.svg",
+      "sourceBlob": "65100db9a8c2afb590e7ce7e748984a7bfd5bef4",
+      "status": "Upstream default variant"
+    },
+    "marks/browserless.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/browserless/default.svg",
+      "sourceBlob": "bc04fb4d90535e324a41851b421d6b49e1c3d25b",
+      "status": "Upstream default variant"
+    },
+    "marks/buildpacks.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/buildpacks/default.svg",
+      "sourceBlob": "c4864a16a16e5a3c8a28f4b04d3444dece7824cc",
+      "status": "Upstream default variant"
+    },
+    "marks/bytebase.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/bytebase/default.svg",
+      "sourceBlob": "b1dd256a24b7aaa3f34ecdd7a7e8e8f13d5b420c",
+      "status": "Upstream default variant"
+    },
+    "marks/bytestash.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/bytestash/default.svg",
+      "sourceBlob": "13b3d58a97f290c599e3398ac12a71459407360f",
+      "status": "Upstream default variant"
+    },
+    "marks/castopod.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/castopod/default.svg",
+      "sourceBlob": "da850523293690f95f3d90efc1db916f08f1d9ba",
+      "status": "Upstream default variant"
+    },
+    "marks/cert-manager.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cert-manager/default.svg",
+      "sourceBlob": "202b87859e8a2a22975779e7b5a50547140d1945",
+      "status": "Upstream default variant"
+    },
+    "marks/chaos-mesh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/chaos-mesh/default.svg",
+      "sourceBlob": "6423462a0bd6e990421dba23d2abe1187468dffb",
+      "status": "Upstream default variant"
+    },
+    "marks/checkmate.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/checkmate/default.svg",
+      "sourceBlob": "a2012d1cbfe7d032b9c5d6b39d50a1b3a4482a43",
+      "status": "Upstream default variant"
+    },
+    "marks/chibisafe.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/chibisafe/default.svg",
+      "sourceBlob": "b06cb905db845f584f25ebac8963c1cfc2f8d224",
+      "status": "Upstream default variant"
+    },
+    "marks/chronograf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/chronograf/default.svg",
+      "sourceBlob": "a8ba14e14efc6662b1fa481e5643b7018f358a5c",
+      "status": "Upstream default variant"
+    },
+    "marks/claude-of-tanks.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/claude-of-tanks/default.svg",
+      "sourceBlob": "9b93de8fabde28d828bca458cde2897284284504",
+      "status": "Upstream default variant"
+    },
+    "marks/cleanuparr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cleanuparr/default.svg",
+      "sourceBlob": "2eebf3430ce2db481d43e144fe4bffe0cba2ea49",
+      "status": "Upstream default variant"
+    },
+    "marks/cloudevents.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cloudevents/default.svg",
+      "sourceBlob": "f3888f0e4d0c20dd065748b057cf7be16a6ca787",
+      "status": "Upstream default variant"
+    },
+    "marks/cloudreve.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cloudreve/default.svg",
+      "sourceBlob": "920aea34af09469b26405f91eed9389a892f106b",
+      "status": "Upstream default variant"
+    },
+    "marks/cockpit-cms.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cockpit-cms/default.svg",
+      "sourceBlob": "acb167290bb12497d0632a70a77ab170a310f919",
+      "status": "Upstream default variant"
+    },
+    "marks/commafeed.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/commafeed/default.svg",
+      "sourceBlob": "2e3a22c7cd385bdad239ef9be15744fe0fc0a8e4",
+      "status": "Upstream default variant"
+    },
+    "archive/confluence-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/confluence-legacy/default.svg",
+      "sourceBlob": "6f090d1550b92b4208a12bdedcc198b9dc3452a4",
+      "status": "Upstream default variant"
+    },
+    "marks/contour.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/contour/default.svg",
+      "sourceBlob": "095f1e22f1122028bd2b217d61dad3cf2dca9857",
+      "status": "Upstream default variant"
+    },
+    "marks/convertx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/convertx/default.svg",
+      "sourceBlob": "1444ed36944bfe15b163ea528a086b6063fce396",
+      "status": "Upstream default variant"
+    },
+    "marks/copyparty.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/copyparty/default.svg",
+      "sourceBlob": "065fbbd9f72e69098372b8fe21d782d92c7773e4",
+      "status": "Upstream default variant"
+    },
+    "marks/coredns.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/coredns/default.svg",
+      "sourceBlob": "443333247d500a778360fc007edb917b7851efdf",
+      "status": "Upstream default variant"
+    },
+    "marks/countly.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/countly/default.svg",
+      "sourceBlob": "a3fc92c97184743b294b2b749c7d7af8071e3a40",
+      "status": "Upstream default variant"
+    },
+    "marks/cri-o.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cri-o/default.svg",
+      "sourceBlob": "5bc90ab510e1abd4beaf5aaf3af0ae32eecd780e",
+      "status": "Upstream default variant"
+    },
+    "marks/cryptgeon.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cryptgeon/default.svg",
+      "sourceBlob": "eda669d10619416a4086738a3e4adfd943ed7a10",
+      "status": "Upstream default variant"
+    },
+    "marks/cyberchef.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/cyberchef/default.svg",
+      "sourceBlob": "f9b1e6f9c26a1f48adb141ed7ceb1d6d551dc6c2",
+      "status": "Upstream default variant"
+    },
+    "marks/dashy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/dashy/default.svg",
+      "sourceBlob": "1485ec34963b3947f620620b9304be6285304c64",
+      "status": "Upstream default variant"
+    },
+    "marks/databasus.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/databasus/default.svg",
+      "sourceBlob": "2a0a02ce5fcd8675d22542fc4be001d0c71e284c",
+      "status": "Upstream default variant"
+    },
+    "marks/dawarich.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/dawarich/default.svg",
+      "sourceBlob": "52b5145542f816c96c4dc650b069f99abec3723c",
+      "status": "Upstream default variant"
+    },
+    "marks/docmost.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/docmost/default.svg",
+      "sourceBlob": "d0188b01df976984df0bbd121c481bf2924514b8",
+      "status": "Upstream default variant"
+    },
+    "marks/docuseal.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/docuseal/default.svg",
+      "sourceBlob": "b819a4b81410fc394a51acf56c9fc5b454d5e810",
+      "status": "Upstream default variant"
+    },
+    "marks/dokuwiki.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/dokuwiki/default.svg",
+      "sourceBlob": "83f73181bf22f1434786c76cf44fa852da442e49",
+      "status": "Upstream default variant"
+    },
+    "marks/earmark.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/earmark/default.svg",
+      "sourceBlob": "01f8f4b60a052544eefc2d75b5094cd83aa03311",
+      "status": "Upstream default variant"
+    },
+    "marks/easy-ai.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/easy-ai/default.svg",
+      "sourceBlob": "f46d6eeff9720ce8810bb1c248b59b244a15a385",
+      "status": "Upstream default variant"
+    },
+    "marks/easy-appointments.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/easy-appointments/default.svg",
+      "sourceBlob": "9edab2ad464793348c8c68131e9d88adcf0af822",
+      "status": "Upstream default variant"
+    },
+    "marks/easypanel.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/easypanel/default.svg",
+      "sourceBlob": "085e295a0d7075c85620aa7be28e824eef7a2fba",
+      "status": "Upstream default variant"
+    },
+    "marks/eggerco.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/eggerco/default.svg",
+      "sourceBlob": "3213d6c35fd0a5c7ee8a48d097f398fc63b18dc7",
+      "status": "Upstream default variant"
+    },
+    "marks/emissary-ingress.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/emissary-ingress/default.svg",
+      "sourceBlob": "2e4a57e111664ed9b62ac0ac91cef409162717e5",
+      "status": "Upstream default variant"
+    },
+    "marks/eps-file.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/eps-file/default.svg",
+      "sourceBlob": "d38db6dbf363f6d5ffac266dd4bccc691b804dc3",
+      "status": "Upstream default variant"
+    },
+    "marks/espocrm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/espocrm/default.svg",
+      "sourceBlob": "fbd89b89583574965eb641429928c1b651280a29",
+      "status": "Upstream default variant"
+    },
+    "marks/etherpad.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/etherpad/default.svg",
+      "sourceBlob": "40a503ccab72807b823399970761f5bb506f8cd5",
+      "status": "Upstream default variant"
+    },
+    "marks/fans.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/fans/default.svg",
+      "sourceBlob": "3d21f58e9bab70adfef4f849a55a6afd4192f8c2",
+      "status": "Upstream default variant"
+    },
+    "marks/farsiui.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/farsiui/default.svg",
+      "sourceBlob": "5d80d632803f899281339f9fac5b4100108377aa",
+      "status": "Upstream default variant"
+    },
+    "marks/fastieshop.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/fastieshop/default.svg",
+      "sourceBlob": "b551457264d992f8825b2ddf8adcff94322b50ef",
+      "status": "Upstream default variant"
+    },
+    "marks/fider.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/fider/default.svg",
+      "sourceBlob": "77e5e2f5fca3e2593f996aa1254d3b82c1f33ecb",
+      "status": "Upstream default variant"
+    },
+    "marks/file-browser.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/file-browser/default.svg",
+      "sourceBlob": "9ab37ee65981bc7d305343d77b5e8bf55813c239",
+      "status": "Upstream default variant"
+    },
+    "marks/fivetran.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/fivetran/default.svg",
+      "sourceBlob": "4eeed8400a6b997426498ae2502bf1d58b7fec12",
+      "status": "Upstream default variant"
+    },
+    "marks/flagsmith.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flagsmith/default.svg",
+      "sourceBlob": "2f46e71bae3ce0ee8004cccdd59f20a03584430d",
+      "status": "Upstream default variant"
+    },
+    "marks/flame.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flame/default.svg",
+      "sourceBlob": "fe20f62d9fd88d38216d37222d719e127247b90b",
+      "status": "Upstream default variant"
+    },
+    "marks/flaresolverr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flaresolverr/default.svg",
+      "sourceBlob": "fe8ca5f621d79c15525c62dcc38771a4f06b5f6e",
+      "status": "Upstream default variant"
+    },
+    "marks/flarum.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flarum/default.svg",
+      "sourceBlob": "f4a091df06b27c03dbcb2b26459c5cfc7410ea0c",
+      "status": "Upstream default variant"
+    },
+    "marks/flatnotes.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flatnotes/default.svg",
+      "sourceBlob": "1a1e4120a4690449fc78f7694dd494541f389e10",
+      "status": "Upstream default variant"
+    },
+    "marks/flowise.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flowise/default.svg",
+      "sourceBlob": "555a26098c140e44c8d07e3f37e1ef2452ddb109",
+      "status": "Upstream default variant"
+    },
+    "marks/focalboard.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/focalboard/default.svg",
+      "sourceBlob": "8f3da8e415c0dc0ebd52be2f0679c4eddd4946e3",
+      "status": "Upstream default variant"
+    },
+    "marks/freescout.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/freescout/default.svg",
+      "sourceBlob": "5cc9282ec248dbc547e0527f7c8310cad4589797",
+      "status": "Upstream default variant"
+    },
+    "marks/general-translation.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/general-translation/default.svg",
+      "sourceBlob": "8f93887c85cd3e5a938358831a888c792ec433e9",
+      "status": "Upstream default variant"
+    },
+    "marks/glances.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/glances/default.svg",
+      "sourceBlob": "dd0198debb9cd5bc54e048e49565c86478e1cdd0",
+      "status": "Upstream default variant"
+    },
+    "archive/glincker-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/glincker-legacy/default.svg",
+      "sourceBlob": "cf57ac2e43e97484882623a89a26d1778f664ba5",
+      "status": "Upstream default variant"
+    },
+    "marks/glinr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/glinr/default.svg",
+      "sourceBlob": "62e9efe6e96f0942f2534f3d659780e4cf958ca0",
+      "status": "Upstream default variant"
+    },
+    "marks/glitchtip.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/glitchtip/default.svg",
+      "sourceBlob": "ac14a2b0ae2cccddd1d38d208b8402819e7c67a2",
+      "status": "Upstream default variant"
+    },
+    "marks/glpi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/glpi/default.svg",
+      "sourceBlob": "b6de79776834f036bc3bc9493e2e0bade2debe1d",
+      "status": "Upstream default variant"
+    },
+    "marks/goaccess.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/goaccess/default.svg",
+      "sourceBlob": "2d4d974d3f4ebd1151dbbe50f9e2440ede721e46",
+      "status": "Upstream default variant"
+    },
+    "marks/gogs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/gogs/default.svg",
+      "sourceBlob": "1072f202cb3a9079a2ccd2e94e6edb1d721b2d90",
+      "status": "Upstream default variant"
+    },
+    "marks/google-business-profile.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-business-profile/default.svg",
+      "sourceBlob": "91f1b939ffbef7a46ed9e2fe30e500466e94f4d2",
+      "status": "Upstream default variant"
+    },
+    "marks/gotify.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/gotify/default.svg",
+      "sourceBlob": "c894583bb81a96bc0fdd18cefb7fe5efaa4b57a2",
+      "status": "Upstream default variant"
+    },
+    "marks/grafana-loki.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/grafana-loki/default.svg",
+      "sourceBlob": "25538f20e538208137125c9cf3c27ad7c7539bb5",
+      "status": "Upstream default variant"
+    },
+    "marks/gramps-web.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/gramps-web/default.svg",
+      "sourceBlob": "fd80cd721395150add01e9c4c613717f14ec9b90",
+      "status": "Upstream default variant"
+    },
+    "marks/grimmory.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/grimmory/default.svg",
+      "sourceBlob": "9bc784f5206a9573fdf1ef744a7de5936ed08097",
+      "status": "Upstream default variant"
+    },
+    "marks/habitica.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/habitica/default.svg",
+      "sourceBlob": "a753ad6fa73a93a546737ccbb0819f0bd309c225",
+      "status": "Upstream default variant"
+    },
+    "marks/halo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/halo/default.svg",
+      "sourceBlob": "20e1028412996559208b085a5148f89cc49c19e1",
+      "status": "Upstream default variant"
+    },
+    "marks/headscale.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/headscale/default.svg",
+      "sourceBlob": "db17db807729237e69e6f9b9a03267ed9df4ce7f",
+      "status": "Upstream default variant"
+    },
+    "marks/heimdall.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/heimdall/default.svg",
+      "sourceBlob": "34c19f8f0dbd2623526b404e53ef1372b89c2366",
+      "status": "Upstream default variant"
+    },
+    "marks/heyform.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/heyform/default.svg",
+      "sourceBlob": "1f5dd9ca21fa2d037704bef39b643798370d04f5",
+      "status": "Upstream default variant"
+    },
+    "marks/homer.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/homer/default.svg",
+      "sourceBlob": "2ab778849c4770b03ed8495b8eacfb5d7fd6720b",
+      "status": "Upstream default variant"
+    },
+    "marks/huginn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/huginn/default.svg",
+      "sourceBlob": "6ccd8fa7ac7ee9f92d3a548c1d244c73eaefb744",
+      "status": "Upstream default variant"
+    },
+    "marks/hygraph.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/hygraph/default.svg",
+      "sourceBlob": "18e32f6b4cbe45527e804242a0faddfacd0f0c25",
+      "status": "Upstream default variant"
+    },
+    "marks/hyperdx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/hyperdx/default.svg",
+      "sourceBlob": "b4af66fb4563d6c0b59d3358a7c152a9db6fbad3",
+      "status": "Upstream default variant"
+    },
+    "marks/hyperframes.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/hyperframes/default.svg",
+      "sourceBlob": "9a39025eb76a4a6a44b4f48e38df9883122d0ec1",
+      "status": "Upstream default variant"
+    },
+    "marks/imgproxy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/imgproxy/default.svg",
+      "sourceBlob": "e70d636a81fc3d51583a7745f3d2cb1052c24635",
+      "status": "Upstream default variant"
+    },
+    "marks/in-toto.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/in-toto/default.svg",
+      "sourceBlob": "ef55ed67cac1b5634db420b84b47f196de366dd7",
+      "status": "Upstream default variant"
+    },
+    "marks/infisical.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/infisical/default.svg",
+      "sourceBlob": "7ab2fb9591fc91fd2c0fd4ac01d2a659030790b9",
+      "status": "Upstream default variant"
+    },
+    "marks/influence.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/influence/default.svg",
+      "sourceBlob": "46b8c6b5928d545cffc03bd492db6c02d206f596",
+      "status": "Upstream default variant"
+    },
+    "archive/instagram-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/instagram-legacy/default.svg",
+      "sourceBlob": "035e5afbec3c2013c551de6caa3091e58f643ecd",
+      "status": "Upstream default variant"
+    },
+    "marks/isso.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/isso/default.svg",
+      "sourceBlob": "119306c2799741ae4658da2aa3f8a40bab73cbdd",
+      "status": "Upstream default variant"
+    },
+    "marks/it-tools.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/it-tools/default.svg",
+      "sourceBlob": "a2159c49ddd46682f73b6d2c0573961a59f3b15c",
+      "status": "Upstream default variant"
+    },
+    "marks/jackett.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/jackett/default.svg",
+      "sourceBlob": "bff262d63d1275c28c387e3f97c0e2faeff64ef3",
+      "status": "Upstream default variant"
+    },
+    "marks/kanboard.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kanboard/default.svg",
+      "sourceBlob": "20719fbc9b292eabeb907ef49980b57b43f0c831",
+      "status": "Upstream default variant"
+    },
+    "marks/karmada.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/karmada/default.svg",
+      "sourceBlob": "7564ff1569c0441001fb65005ef161139aec5a98",
+      "status": "Upstream default variant"
+    },
+    "marks/keda.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/keda/default.svg",
+      "sourceBlob": "45e3b0d5e7d65cf0337aad9910d0a98b7dbf6236",
+      "status": "Upstream default variant"
+    },
+    "marks/kestra.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kestra/default.svg",
+      "sourceBlob": "619e693182d955306ab617a09dd7ddae2070a275",
+      "status": "Upstream default variant"
+    },
+    "marks/kimai.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kimai/default.svg",
+      "sourceBlob": "3bd8f31a6e0b9a05d66a703683fc3dcd6c48e746",
+      "status": "Upstream default variant"
+    },
+    "marks/kokoro-tts.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kokoro-tts/default.svg",
+      "sourceBlob": "e0c1bb60ee07e9df7b9509aeaa3e87afde43b685",
+      "status": "Upstream default variant"
+    },
+    "marks/komga.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/komga/default.svg",
+      "sourceBlob": "52c67f8c2d8195449077156192b81d5877e9f63f",
+      "status": "Upstream default variant"
+    },
+    "marks/kopia.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kopia/default.svg",
+      "sourceBlob": "f782ef1ec4a4bf9f2fdfe2f218c9878b5bf2f06b",
+      "status": "Upstream default variant"
+    },
+    "marks/kroki.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kroki/default.svg",
+      "sourceBlob": "49954786f840b52d8369b8b603bfba35343b40d2",
+      "status": "Upstream default variant"
+    },
+    "marks/kserve.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kserve/default.svg",
+      "sourceBlob": "245b4be51d3b5be63f49348e2701a58bf0f05d86",
+      "status": "Upstream default variant"
+    },
+    "marks/kubeedge.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kubeedge/default.svg",
+      "sourceBlob": "b180352ca3ea9e44d042cd4e83b4721ca0501f8b",
+      "status": "Upstream default variant"
+    },
+    "marks/kubescape.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kubescape/default.svg",
+      "sourceBlob": "e8152b870976a3e46c07ffcc3e581ed792e9c38e",
+      "status": "Upstream default variant"
+    },
+    "marks/kubevela.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/kubevela/default.svg",
+      "sourceBlob": "d08b7d48aee22207c75bbef69db9a74a58a429e1",
+      "status": "Upstream default variant"
+    },
+    "marks/label-studio.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/label-studio/default.svg",
+      "sourceBlob": "5651bdd54db1134a6f8471d7ecd74b3adf2253c6",
+      "status": "Upstream default variant"
+    },
+    "marks/ledger.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/ledger/default.svg",
+      "sourceBlob": "b0b873218fcb4007dfa8c23a0701c28a125ac040",
+      "status": "Upstream default variant"
+    },
+    "marks/levelrail.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/levelrail/default.svg",
+      "sourceBlob": "d115a4bf7b9c1cd9c11ea84e12e0eb2b76ad57d6",
+      "status": "Upstream default variant"
+    },
+    "marks/librechat.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/librechat/default.svg",
+      "sourceBlob": "141a69cea7bea9c9ea8d3b39c06decc08133fffd",
+      "status": "Upstream default variant"
+    },
+    "marks/librespeed.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/librespeed/default.svg",
+      "sourceBlob": "cc759eaaf365432904e33a08498747cc4fa02ab2",
+      "status": "Upstream default variant"
+    },
+    "marks/lidarr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/lidarr/default.svg",
+      "sourceBlob": "b1cdb18ea407324e15bc3ea14258ffe63b46303a",
+      "status": "Upstream default variant"
+    },
+    "marks/linkding.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/linkding/default.svg",
+      "sourceBlob": "89c271d359d43bc2a542b906b6fdab666b25f789",
+      "status": "Upstream default variant"
+    },
+    "marks/litellm-proxy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/litellm-proxy/default.svg",
+      "sourceBlob": "434340d18e4c0f9c15389865dc2711480b75a04f",
+      "status": "Upstream default variant"
+    },
+    "marks/llama-cpp-server.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/llama-cpp-server/default.svg",
+      "sourceBlob": "345207ae9266f71a656adffa399461adf8de87bc",
+      "status": "Upstream default variant"
+    },
+    "marks/lobe-chat.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/lobe-chat/default.svg",
+      "sourceBlob": "f6a1f6b4fe7a52a8c2d40271bc12514ac2df35c7",
+      "status": "Upstream default variant"
+    },
+    "marks/locatorjs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/locatorjs/default.svg",
+      "sourceBlob": "859a2c4d812a90f5586bf75f40c7dcd2b9ba5e10",
+      "status": "Upstream default variant"
+    },
+    "marks/lowcoder.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/lowcoder/default.svg",
+      "sourceBlob": "52cdacbbea488450478a6e63b44190edc5257d1f",
+      "status": "Upstream default variant"
+    },
+    "marks/lumin.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/lumin/default.svg",
+      "sourceBlob": "c087e8635344ad4e9e4d2b39670c5d5404ccc360",
+      "status": "Upstream default variant"
+    },
+    "marks/lychee.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/lychee/default.svg",
+      "sourceBlob": "f484de1b869f7904be9d9f4beb0b8de10f89973a",
+      "status": "Upstream default variant"
+    },
+    "marks/mafl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mafl/default.svg",
+      "sourceBlob": "24604f4071c9d6fbb70435c8e156f70de5934aa3",
+      "status": "Upstream default variant"
+    },
+    "marks/mage-ai.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mage-ai/default.svg",
+      "sourceBlob": "e1016c9f1800281a31668f32642d2fefa905391e",
+      "status": "Upstream default variant"
+    },
+    "marks/mailhog.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mailhog/default.svg",
+      "sourceBlob": "ddb0bd3ce507e757e0e090286367a3b8b6d43726",
+      "status": "Upstream default variant"
+    },
+    "marks/mailpit.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mailpit/default.svg",
+      "sourceBlob": "558c2b5668949846b27daecf237d6ca461fd4b05",
+      "status": "Upstream default variant"
+    },
+    "marks/marimo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/marimo/default.svg",
+      "sourceBlob": "118aa5e0cd22427d2a389da7a5f4f521f5b5edc5",
+      "status": "Upstream default variant"
+    },
+    "marks/masheev.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/masheev/default.svg",
+      "sourceBlob": "420952a76c3326d698f8b14973221ee3ef013ae4",
+      "status": "Upstream default variant"
+    },
+    "archive/mastra-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mastra-legacy/default.svg",
+      "sourceBlob": "9abe55ba38e098236b795eb11333f783f9bd318a",
+      "status": "Upstream default variant"
+    },
+    "marks/memos.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/memos/default.svg",
+      "sourceBlob": "a2a674e5e8068310779c0cde7c22dae9acff8b05",
+      "status": "Upstream default variant"
+    },
+    "marks/metamcp.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/metamcp/default.svg",
+      "sourceBlob": "c0d1e66f50a1250a314af277d77c6767546384f7",
+      "status": "Upstream default variant"
+    },
+    "marks/metube.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/metube/default.svg",
+      "sourceBlob": "8242285aed8e5ecf59f181ab0055d02c53ff226b",
+      "status": "Upstream default variant"
+    },
+    "archive/microsoft-copilot-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/microsoft-copilot-legacy/default.svg",
+      "sourceBlob": "9f72b8f0bf6057cc6d00b3f0bd2713bceb9ea29d",
+      "status": "Upstream default variant"
+    },
+    "marks/mikemurphyai.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mikemurphyai/default.svg",
+      "sourceBlob": "5152df9de2cf05fc79bcdc4c8fb9b3810988f39b",
+      "status": "Upstream default variant"
+    },
+    "marks/minecraft-server.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/minecraft-server/default.svg",
+      "sourceBlob": "cedd2c252164e474dca09933335504fe4438ec26",
+      "status": "Upstream default variant"
+    },
+    "marks/miniflux.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/miniflux/default.svg",
+      "sourceBlob": "4c72fe19ccbae3a6410685c4fe35f4f1b50f29b1",
+      "status": "Upstream default variant"
+    },
+    "marks/mojang.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mojang/default.svg",
+      "sourceBlob": "1dce811cdd8694b756dcc01c5ced0fe11e0ede46",
+      "status": "Upstream default variant"
+    },
+    "marks/mojo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mojo/default.svg",
+      "sourceBlob": "aac708de915ec8460d4d800ff59930277279a9f9",
+      "status": "Upstream default variant"
+    },
+    "marks/mongo-express.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mongo-express/default.svg",
+      "sourceBlob": "5e5a7e7a71325ea96ed6e8c422d3764f110e6e34",
+      "status": "Upstream default variant"
+    },
+    "marks/monitixx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/monitixx/default.svg",
+      "sourceBlob": "620a0d1a7b399ee14b866c2f4062193a6bf7c2dd",
+      "status": "Upstream default variant"
+    },
+    "marks/mudblazor.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/mudblazor/default.svg",
+      "sourceBlob": "4860050db86ae0f9894433d323101f43fd33d3c5",
+      "status": "Upstream default variant"
+    },
+    "marks/multi-scrobbler.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/multi-scrobbler/default.svg",
+      "sourceBlob": "4f683ec4e1c735ba392368d956d139851227e012",
+      "status": "Upstream default variant"
+    },
+    "archive/n8n-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/n8n-legacy/default.svg",
+      "sourceBlob": "a5bdc9e9deb671d4659e68b6074f10e5f75c7d3e",
+      "status": "Upstream default variant"
+    },
+    "marks/nocobase.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/nocobase/default.svg",
+      "sourceBlob": "d09f5698ccb1401ab27e043f1037cf55466bfa6d",
+      "status": "Upstream default variant"
+    },
+    "marks/notary-project.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/notary-project/default.svg",
+      "sourceBlob": "893aa6aa9ec76e9202576f4208b3a4908ff7b526",
+      "status": "Upstream default variant"
+    },
+    "marks/octopus.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/octopus/default.svg",
+      "sourceBlob": "c5a83910b5faf2691e4c4467b1d0513da1405916",
+      "status": "Upstream default variant"
+    },
+    "marks/oddinpay.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/oddinpay/default.svg",
+      "sourceBlob": "dd8ea14214cf94b0afb2e429352f08f1dcec6c84",
+      "status": "Upstream default variant"
+    },
+    "marks/olive-garden.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/olive-garden/default.svg",
+      "sourceBlob": "bddd79ab4599270c576eedbe66b6e83667fa1146",
+      "status": "Upstream default variant"
+    },
+    "marks/omniroute.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/omniroute/default.svg",
+      "sourceBlob": "3f76c2150880dc08354bac9cb1636b1aac254871",
+      "status": "Upstream default variant"
+    },
+    "marks/onedev.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/onedev/default.svg",
+      "sourceBlob": "1b7638c13c2ea359bce9210fc86ddd6ceefe1b5c",
+      "status": "Upstream default variant"
+    },
+    "marks/onetimesecret.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/onetimesecret/default.svg",
+      "sourceBlob": "680e5eb1e1630b5463e65b55a726c3088bca5b47",
+      "status": "Upstream default variant"
+    },
+    "marks/open-design.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/open-design/default.svg",
+      "sourceBlob": "27b35f96d0de7b843de587a09eaebe557f726d36",
+      "status": "Upstream default variant"
+    },
+    "marks/open-notebook.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/open-notebook/default.svg",
+      "sourceBlob": "7c7b09f14181694cd91b46413c2d7e84071c641f",
+      "status": "Upstream default variant"
+    },
+    "marks/open-policy-agent.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/open-policy-agent/default.svg",
+      "sourceBlob": "10eb5f3210309810c3f30d7d5a12424520c29bc0",
+      "status": "Upstream default variant"
+    },
+    "archive/openai-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/openai-legacy/default.svg",
+      "sourceBlob": "2d364fe10b9253c52c180408883614ae27e97225",
+      "status": "Upstream default variant"
+    },
+    "marks/opencost.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/opencost/default.svg",
+      "sourceBlob": "7fa2414390398904f837af1865c9c94314659855",
+      "status": "Upstream default variant"
+    },
+    "marks/openfeature.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/openfeature/default.svg",
+      "sourceBlob": "5af8ac919857dadb6d78550adbf22aacb2462c13",
+      "status": "Upstream default variant"
+    },
+    "marks/openfga.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/openfga/default.svg",
+      "sourceBlob": "f07a5c7e415ed710b3c92b2750d218bd4a7e56e4",
+      "status": "Upstream default variant"
+    },
+    "marks/openreplay.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/openreplay/default.svg",
+      "sourceBlob": "95683adda00287d5411a981c1f7cf6f3dcac58bb",
+      "status": "Upstream default variant"
+    },
+    "marks/orangehrm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/orangehrm/default.svg",
+      "sourceBlob": "4e02f18d78feca2bd85260a5da1855107cf328e9",
+      "status": "Upstream default variant"
+    },
+    "marks/organizr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/organizr/default.svg",
+      "sourceBlob": "b6a721c5e1420c76080ce42d345f8157817e68e0",
+      "status": "Upstream default variant"
+    },
+    "marks/osticket.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/osticket/default.svg",
+      "sourceBlob": "2ee2a296dd45cc05a8d1196ed842ddd49ed29137",
+      "status": "Upstream default variant"
+    },
+    "marks/owncast.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/owncast/default.svg",
+      "sourceBlob": "bdae97da4d98647f23a30b7094ed563bc3d6f6bd",
+      "status": "Upstream default variant"
+    },
+    "marks/pairdrop.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pairdrop/default.svg",
+      "sourceBlob": "923eabba9c7d93ea83ea17c794ab6ecad6c60faf",
+      "status": "Upstream default variant"
+    },
+    "marks/paymenter.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/paymenter/default.svg",
+      "sourceBlob": "980a127dc85c4c5acff6ea8bac8390940ba5c5c3",
+      "status": "Upstream default variant"
+    },
+    "marks/pg-back-web.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pg-back-web/default.svg",
+      "sourceBlob": "831f9fa70f1ab5840327e798523ae577ff7d614b",
+      "status": "Upstream default variant"
+    },
+    "marks/pgadmin.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pgadmin/default.svg",
+      "sourceBlob": "5ac2c79966f119f668dcb73abcebd227bb43c323",
+      "status": "Upstream default variant"
+    },
+    "marks/phantom.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/phantom/default.svg",
+      "sourceBlob": "71259d86b8380be9fdb082079287b795295cdf92",
+      "status": "Upstream default variant"
+    },
+    "marks/photoprism.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/photoprism/default.svg",
+      "sourceBlob": "e0cb109480fc349ed2c623cf133cbe7d96ab82a8",
+      "status": "Upstream default variant"
+    },
+    "marks/photoview.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/photoview/default.svg",
+      "sourceBlob": "38b60c237da25971bb019670cd5612ee0550057a",
+      "status": "Upstream default variant"
+    },
+    "marks/pinchflat.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pinchflat/default.svg",
+      "sourceBlob": "3021441041b02addb5f5852cb2da4a694a8f41e6",
+      "status": "Upstream default variant"
+    },
+    "marks/pingvin-share.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pingvin-share/default.svg",
+      "sourceBlob": "b15c2733e733730f3ae080769b2c81c209fab068",
+      "status": "Upstream default variant"
+    },
+    "marks/planka.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/planka/default.svg",
+      "sourceBlob": "dacf070be5b707a935f105331a0dd909e02e094e",
+      "status": "Upstream default variant"
+    },
+    "marks/plunk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/plunk/default.svg",
+      "sourceBlob": "aa137c2b5045b1ddbdba6591e0595594eacdd136",
+      "status": "Upstream default variant"
+    },
+    "marks/pocket-id.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pocket-id/default.svg",
+      "sourceBlob": "154407f910ae94aacfd3e9ebcadf75805de881d2",
+      "status": "Upstream default variant"
+    },
+    "archive/posthog-legacy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/posthog-legacy/default.svg",
+      "sourceBlob": "b05057ef155f26c1cc9e7a7e178f1ad222f8f296",
+      "status": "Upstream default variant"
+    },
+    "marks/privatebin.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/privatebin/default.svg",
+      "sourceBlob": "ce9ad8c41ee5d2750853745dc75b78136d77876e",
+      "status": "Upstream default variant"
+    },
+    "marks/prowlarr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/prowlarr/default.svg",
+      "sourceBlob": "3920ceb16eb356a4a005b83a77b7620594ae2e50",
+      "status": "Upstream default variant"
+    },
+    "marks/pubky.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/pubky/default.svg",
+      "sourceBlob": "9d6548e2421263a47804353d99cca97cb45c3590",
+      "status": "Upstream default variant"
+    },
+    "marks/radicale.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/radicale/default.svg",
+      "sourceBlob": "8291c64402b96dba9dab4af51b3fec70dfe8c4cf",
+      "status": "Upstream default variant"
+    },
+    "marks/rallly.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/rallly/default.svg",
+      "sourceBlob": "3ff52a67dca58b8ce40be912340df1575b6cabf9",
+      "status": "Upstream default variant"
+    },
+    "marks/readeck.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/readeck/default.svg",
+      "sourceBlob": "6bf6c4d85c6699ee6efeac63d9bfb015e6cda8ef",
+      "status": "Upstream default variant"
+    },
+    "marks/redlib.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/redlib/default.svg",
+      "sourceBlob": "5d77ac0054f01b8b0e1918e2f82c028bc26d4dc0",
+      "status": "Upstream default variant"
+    },
+    "marks/romm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/romm/default.svg",
+      "sourceBlob": "02d86796c4e94875f6558fd54f2138162ab068f8",
+      "status": "Upstream default variant"
+    },
+    "marks/rss-bridge.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/rss-bridge/default.svg",
+      "sourceBlob": "730526d57c226228d4d5a91a294738cbf2eb7073",
+      "status": "Upstream default variant"
+    },
+    "marks/rybbit.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/rybbit/default.svg",
+      "sourceBlob": "e4538553acbc112910c83df687d3c3871e035984",
+      "status": "Upstream default variant"
+    },
+    "marks/ryot.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/ryot/default.svg",
+      "sourceBlob": "281f003e5fbd4451840ac895ab248289877cc73f",
+      "status": "Upstream default variant"
+    },
+    "marks/sabnzbd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sabnzbd/default.svg",
+      "sourceBlob": "ea4ad362de6783211986274075cdb84731e43dca",
+      "status": "Upstream default variant"
+    },
+    "marks/safeline.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/safeline/default.svg",
+      "sourceBlob": "8f0429e84e3dc3d335c8ff8ff51d6555ae76651a",
+      "status": "Upstream default variant"
+    },
+    "marks/saleor.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/saleor/default.svg",
+      "sourceBlob": "4c098612744edd2dcb302b32c170abf47fdce440",
+      "status": "Upstream default variant"
+    },
+    "marks/scanfile.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/scanfile/default.svg",
+      "sourceBlob": "78f8d58bfde06b9208d53949fa8f1f6f35ebc605",
+      "status": "Upstream default variant"
+    },
+    "marks/seaweedfs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/seaweedfs/default.svg",
+      "sourceBlob": "66c5ffa5f44ac45e551814b0511077c576eb5ea8",
+      "status": "Upstream default variant"
+    },
+    "marks/seerr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/seerr/default.svg",
+      "sourceBlob": "5655740e069ed98850b37729559dbc16f04957cd",
+      "status": "Upstream default variant"
+    },
+    "marks/semaphore-ui.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/semaphore-ui/default.svg",
+      "sourceBlob": "fdc0ba81b0b7d40a57f7d56a83006c5dee44cdc9",
+      "status": "Upstream default variant"
+    },
+    "marks/servicenow.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/servicenow/default.svg",
+      "sourceBlob": "93b1d41a80621b442f99575b0bea2d7342371934",
+      "status": "Upstream default variant"
+    },
+    "marks/sftpgo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sftpgo/default.svg",
+      "sourceBlob": "8286071765a2657d1ccdc8c794a9097d07284907",
+      "status": "Upstream default variant"
+    },
+    "marks/shaarli.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/shaarli/default.svg",
+      "sourceBlob": "04c8b0611e0da59140cd2bdca8150b7df94ba8a2",
+      "status": "Upstream default variant"
+    },
+    "marks/shiori.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/shiori/default.svg",
+      "sourceBlob": "b53a8f1a97a0dc6671e00fd23ceeb80c3db0a741",
+      "status": "Upstream default variant"
+    },
+    "marks/shlink.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/shlink/default.svg",
+      "sourceBlob": "0556e5294a512c6c2750986c73afc0ca74145840",
+      "status": "Upstream default variant"
+    },
+    "marks/sigma-computing.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sigma-computing/default.svg",
+      "sourceBlob": "c6a71ee5e9b136c140471fa41cd53e66742990d1",
+      "status": "Upstream default variant"
+    },
+    "marks/silverbullet.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/silverbullet/default.svg",
+      "sourceBlob": "983c3398ee67770b8b601972586b4715b2f68d57",
+      "status": "Upstream default variant"
+    },
+    "marks/simplex-chat.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/simplex-chat/default.svg",
+      "sourceBlob": "3fd3638b43f1d30fe475214e482abe0fcdd6423d",
+      "status": "Upstream default variant"
+    },
+    "marks/slash.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/slash/default.svg",
+      "sourceBlob": "bb7e3db060448083e199af384f9ff145c4937816",
+      "status": "Upstream default variant"
+    },
+    "marks/snipe-it.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/snipe-it/default.svg",
+      "sourceBlob": "2c2609337bcf0f7f923c31ffc0b4f55bf04fc822",
+      "status": "Upstream default variant"
+    },
+    "marks/soketi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/soketi/default.svg",
+      "sourceBlob": "8fa10bc135579e13801515dc6e02ec5bf639a243",
+      "status": "Upstream default variant"
+    },
+    "marks/sonojs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sonojs/default.svg",
+      "sourceBlob": "10dc323ba090c8a11af6b68b5c170de116309227",
+      "status": "Upstream default variant"
+    },
+    "marks/sparkyfitness.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sparkyfitness/default.svg",
+      "sourceBlob": "9f0c9eb7514dd5aaba972cc83292a34b954e03fb",
+      "status": "Upstream default variant"
+    },
+    "marks/speaches.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/speaches/default.svg",
+      "sourceBlob": "b496d26a9fe867e924bde6588156059234b98913",
+      "status": "Upstream default variant"
+    },
+    "marks/speedtest-tracker.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/speedtest-tracker/default.svg",
+      "sourceBlob": "2318712a4b04df6e1579f85e4e77cd99861b20be",
+      "status": "Upstream default variant"
+    },
+    "marks/spiffe.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/spiffe/default.svg",
+      "sourceBlob": "095db5ac99fc731b4345c2998fa23e0f004073ab",
+      "status": "Upstream default variant"
+    },
+    "marks/spliit.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/spliit/default.svg",
+      "sourceBlob": "b671e811d407290bc048e2b0e3cd9471a7f89053",
+      "status": "Upstream default variant"
+    },
+    "marks/spoolman.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/spoolman/default.svg",
+      "sourceBlob": "7a09e7739dfdc2cf0c52beefe8ae80d3816ded9f",
+      "status": "Upstream default variant"
+    },
+    "marks/stalwart-mail-server.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/stalwart-mail-server/default.svg",
+      "sourceBlob": "2f6bdbb73ffd765e8a053d2809a0fc01d508024d",
+      "status": "Upstream default variant"
+    },
+    "marks/statsig.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/statsig/default.svg",
+      "sourceBlob": "5f7f19ac0086aad47cbd56698bfb2d6b68a2b5e2",
+      "status": "Upstream default variant"
+    },
+    "marks/statusnook.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/statusnook/default.svg",
+      "sourceBlob": "0d2db98708ed07810c611a8491bcfc1449b08257",
+      "status": "Upstream default variant"
+    },
+    "marks/strimzi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/strimzi/default.svg",
+      "sourceBlob": "c35847352e9dfdfcb7d4b5cba0d8fd0b1e21d5a2",
+      "status": "Upstream default variant"
+    },
+    "marks/sunshine.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sunshine/default.svg",
+      "sourceBlob": "f29106fc4743ce05b5f98392e958bf6b47347ff1",
+      "status": "Upstream default variant"
+    },
+    "marks/super-productivity.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/super-productivity/default.svg",
+      "sourceBlob": "aef1c1e84d6bede08e73b5d2f55012e95297a895",
+      "status": "Upstream default variant"
+    },
+    "marks/sure.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/sure/default.svg",
+      "sourceBlob": "f58c593f915d1b8dfcf33fb2a2726f2d38eb5174",
+      "status": "Upstream default variant"
+    },
+    "marks/synonym.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/synonym/default.svg",
+      "sourceBlob": "94e707bfe8f6d4991f906b2c2bfbb5d4ddf7ed98",
+      "status": "Upstream default variant"
+    },
+    "marks/tableport.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tableport/default.svg",
+      "sourceBlob": "ef8e7fc1e707f2cb07b08ef568548eb6a4c56fc0",
+      "status": "Upstream default variant"
+    },
+    "marks/tandoor-recipes.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tandoor-recipes/default.svg",
+      "sourceBlob": "b652f8ea77f9c88f60389370e4cf22823bb5dd6d",
+      "status": "Upstream default variant"
+    },
+    "marks/taskade.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/taskade/default.svg",
+      "sourceBlob": "284bcaa0eadef5dd56baf740d48ecc8d70d7e423",
+      "status": "Upstream default variant"
+    },
+    "marks/tautulli.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tautulli/default.svg",
+      "sourceBlob": "4a3c236ad7bb0ea2c524e17849d884c90788fa6f",
+      "status": "Upstream default variant"
+    },
+    "marks/tdarr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tdarr/default.svg",
+      "sourceBlob": "a49165742b16696ccfef80fbc05a19aae2518ada",
+      "status": "Upstream default variant"
+    },
+    "marks/teable.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/teable/default.svg",
+      "sourceBlob": "6eeb4ff065cfdf0644169d68f6b2040b1d03b415",
+      "status": "Upstream default variant"
+    },
+    "marks/technitium-dns-server.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/technitium-dns-server/default.svg",
+      "sourceBlob": "c15a79e43ae899ebed5f54ff2d7e735b7bb4f926",
+      "status": "Upstream default variant"
+    },
+    "marks/termix.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/termix/default.svg",
+      "sourceBlob": "289ead883f2dbadbbb3ca5dcad3fa9ffcb80d9b9",
+      "status": "Upstream default variant"
+    },
+    "marks/the-lounge.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/the-lounge/default.svg",
+      "sourceBlob": "1a01bca1d2113ee2f7162560d316864c1db8a336",
+      "status": "Upstream default variant"
+    },
+    "marks/theauth.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/theauth/default.svg",
+      "sourceBlob": "cc48892e7baaf8a97251a4566aae857c03edcaee",
+      "status": "Upstream default variant"
+    },
+    "marks/thingsboard.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/thingsboard/default.svg",
+      "sourceBlob": "ed4587d0c4c71ddf76cf432ea03e683badd6a38b",
+      "status": "Upstream default variant"
+    },
+    "marks/tianji.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tianji/default.svg",
+      "sourceBlob": "ff93ca11128845a448df442e3240c7988684611e",
+      "status": "Upstream default variant"
+    },
+    "marks/tikv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tikv/default.svg",
+      "sourceBlob": "a4ba281a75c4eb1f1aa837ce40c5685b2e47147e",
+      "status": "Upstream default variant"
+    },
+    "marks/tintas-vital.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/tintas-vital/default.svg",
+      "sourceBlob": "afbe0b3978be85d4c590f8b8554f6298b7d6b345",
+      "status": "Upstream default variant"
+    },
+    "marks/trailbase.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/trailbase/default.svg",
+      "sourceBlob": "46084e70245eefab71a1ba023b0866c95d1b42b2",
+      "status": "Upstream default variant"
+    },
+    "marks/twig.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/twig/default.svg",
+      "sourceBlob": "4fa1a6be375df32105414d43782be9553f69aa8b",
+      "status": "Upstream default variant"
+    },
+    "marks/ultanimus.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/ultanimus/default.svg",
+      "sourceBlob": "f3953a81c625e6b9c55c73fde9c200a532eef01d",
+      "status": "Upstream default variant"
+    },
+    "marks/unisoc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/unisoc/default.svg",
+      "sourceBlob": "b4d1e030eb7c97b7ee0d220a8436817600d95606",
+      "status": "Upstream default variant"
+    },
+    "marks/unleash.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/unleash/default.svg",
+      "sourceBlob": "6d52a3d4f59bae5aac6d9fa74fef21125fb5d45a",
+      "status": "Upstream default variant"
+    },
+    "marks/userpilot.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/userpilot/default.svg",
+      "sourceBlob": "0006d4cd583735f30b9f6f508fcf4db2eba155d5",
+      "status": "Upstream default variant"
+    },
+    "marks/vellum.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/vellum/default.svg",
+      "sourceBlob": "9b819c35a4c002b710e7be7ce1212384e0022127",
+      "status": "Upstream default variant"
+    },
+    "marks/vert.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/vert/default.svg",
+      "sourceBlob": "fa1b4ebde426b936d7c51ebfa0e6c2a596bb9012",
+      "status": "Upstream default variant"
+    },
+    "marks/vvveb-cms.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/vvveb-cms/default.svg",
+      "sourceBlob": "f56d865efc8c6d9479e6cb70da7620c26d290dce",
+      "status": "Upstream default variant"
+    },
+    "marks/wakapi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/wakapi/default.svg",
+      "sourceBlob": "7f548fc0ac576aa823c87fa8abee708c285cbd00",
+      "status": "Upstream default variant"
+    },
+    "marks/wallos.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/wallos/default.svg",
+      "sourceBlob": "4155efb80e385867cda0b8ec64a7e3f73241648a",
+      "status": "Upstream default variant"
+    },
+    "marks/warden.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/warden/default.svg",
+      "sourceBlob": "adbcd191227962a84b270dde3002741a048e07d2",
+      "status": "Upstream default variant"
+    },
+    "marks/web-check.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/web-check/default.svg",
+      "sourceBlob": "12a7eb854fba14a8974e5cda398c8ca41336373b",
+      "status": "Upstream default variant"
+    },
+    "marks/wekan.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/wekan/default.svg",
+      "sourceBlob": "c010e1edb185b18d8a564c6b45e4222c6cf2320c",
+      "status": "Upstream default variant"
+    },
+    "marks/whoogle-search.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/whoogle-search/default.svg",
+      "sourceBlob": "ccef282224001590e67326fe32cf7a8e55acc53f",
+      "status": "Upstream default variant"
+    },
+    "marks/windmill.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/windmill/default.svg",
+      "sourceBlob": "6700f525893bafe6460f692967da6bd9571dc054",
+      "status": "Upstream default variant"
+    },
+    "marks/wiremock.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/wiremock/default.svg",
+      "sourceBlob": "8f5ab477d09e0dfdd91cbb3fec5010c418011f5c",
+      "status": "Upstream default variant"
+    },
+    "marks/yamtrack.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/yamtrack/default.svg",
+      "sourceBlob": "e24bfd9138bd667f6540c841ec6173db467693ed",
+      "status": "Upstream default variant"
+    },
+    "marks/yourls.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/yourls/default.svg",
+      "sourceBlob": "da8c3e8c76dff1cba7a3fc09f8075bb43b2d2e24",
+      "status": "Upstream default variant"
+    },
+    "marks/zipline.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/zipline/default.svg",
+      "sourceBlob": "b7db76184abc0d14ef806b30af35d34d4b2b01de",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ad.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ad/default.svg",
+      "sourceBlob": "4d022d9ee9f5b9127589c0cfc09523e60cc824e7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ae.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ae/default.svg",
+      "sourceBlob": "1c54043656627bf22e650a659c5724531e1b5d49",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-af.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-af/default.svg",
+      "sourceBlob": "e89a551ed01861d1866180079a0636f0bd87c51a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ag.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ag/default.svg",
+      "sourceBlob": "047bb526f6240d60b85dc57ca161ba62f6a624e7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ai.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ai/default.svg",
+      "sourceBlob": "69faf462e0e310fc351b744e7716558db084da61",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-al.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-al/default.svg",
+      "sourceBlob": "eb3d307ce70b000f15343e18715ab83eb5062335",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-am.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-am/default.svg",
+      "sourceBlob": "0e739853b6272ed8c8f2a5a6c2d927510b939709",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ao.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ao/default.svg",
+      "sourceBlob": "d32af9afe6dbc1ed4f1c6925d6af792e00e544c9",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-aq.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-aq/default.svg",
+      "sourceBlob": "a2d0954e2850a4d71853cd7e80fc0da691d7737f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ar.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ar/default.svg",
+      "sourceBlob": "a44cbe54318c359d2f6e7583209c36166cec9909",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-as.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-as/default.svg",
+      "sourceBlob": "8de488fb0166790bbfcefceebccf02e3d7100db8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-at.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-at/default.svg",
+      "sourceBlob": "33678d568a54dd256d5110f761f87c40a1373a78",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-au.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-au/default.svg",
+      "sourceBlob": "39bb200389b0fb81dfd80b327cada2aa4983c7f7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-aw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-aw/default.svg",
+      "sourceBlob": "cad35aa53df1815786f1c127c69765d5e2f90200",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ax.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ax/default.svg",
+      "sourceBlob": "cb377310269354ec69deeac809235889db33de25",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-az.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-az/default.svg",
+      "sourceBlob": "78f67c40442f834bc0ffa776c01e04ce19e92e10",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ba.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ba/default.svg",
+      "sourceBlob": "d08f1869f7842f81fa2d6d09e8cdfaf3cbf920b3",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bb.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bb/default.svg",
+      "sourceBlob": "60c55358a9cc4a2c71f960ce5cc9a4bd10ab64fc",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bd/default.svg",
+      "sourceBlob": "c1d439a44f95ffac7bdd4719ca58cd9ee1084fcd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-be.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-be/default.svg",
+      "sourceBlob": "b6c41356fd06033bb5e9d9173aaaf6f2a107f169",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bf/default.svg",
+      "sourceBlob": "1b9e0f402adcac9f9f25d1dae2a3cace166e0da1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bg/default.svg",
+      "sourceBlob": "9c64969a7969bf772f87e40706e1138bf965f35a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bh/default.svg",
+      "sourceBlob": "2517ad5c58b49f97efb35cf24658306a8874e9ec",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bi/default.svg",
+      "sourceBlob": "63af8dc374d4210d393e0c649ee3192444304703",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bj.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bj/default.svg",
+      "sourceBlob": "fc81329d2ddf9ca6f358090edd243cab8b159b66",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bl/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bm/default.svg",
+      "sourceBlob": "74b25158595ac9f4ca4b24e43060389716d41a37",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bn/default.svg",
+      "sourceBlob": "00ef969084fc3ca6ea424eb74c37e27300b20232",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bo/default.svg",
+      "sourceBlob": "64e3ea7f197e0df1b086e4e39fb656f9de4ccc6f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bq.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bq/default.svg",
+      "sourceBlob": "7564716ddc204978f825a779d182eef979533bb5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-br.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-br/default.svg",
+      "sourceBlob": "f8a11a8d232d2771a5fef28b311ecd2820be22a4",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bs/default.svg",
+      "sourceBlob": "ac80f148d9241e8a417ac54b3d88ad5b76f3fe77",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bt/default.svg",
+      "sourceBlob": "690ab65aa89cb8d934c27c6a987010feb46d7718",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bv/default.svg",
+      "sourceBlob": "37c4e898fe4de578629c1dd3048c59ad3d5890fd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bw/default.svg",
+      "sourceBlob": "e0f41155fd62cda992d6a138ac3f4b9713d05b66",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-by.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-by/default.svg",
+      "sourceBlob": "d4a95543bcb4e5453ce15e62670ebfbe52ea330f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-bz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-bz/default.svg",
+      "sourceBlob": "31df952b5b46aadbf099d27551e82d523daee492",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ca.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ca/default.svg",
+      "sourceBlob": "6f92e9f2e5b2dbf3fbef5a547abc18e6d5bdf37b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cc/default.svg",
+      "sourceBlob": "bf9cbe43e5ad89f9a23e25391bc908559880442e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cd/default.svg",
+      "sourceBlob": "a604e65a7e75a8df4a600a5e9df468c5e093fa1b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cf/default.svg",
+      "sourceBlob": "484b7158d39f2e25466a6738780f149d2d6c567e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cg/default.svg",
+      "sourceBlob": "a2e7a6754cb7246d090119aada010325d223f3a5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ch.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ch/default.svg",
+      "sourceBlob": "7ba866f91d5ce65ab529a3e5886736a70ee49981",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ci.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ci/default.svg",
+      "sourceBlob": "6b7a846176f307fd41f6a06daaded1380d1819b3",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ck.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ck/default.svg",
+      "sourceBlob": "3a27360720a2a9b6c7105dcbe7704b18be33ebbf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cl/default.svg",
+      "sourceBlob": "56b1d0a47a983a8884c42fa0b1939458fb535212",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cm/default.svg",
+      "sourceBlob": "0dad33756101cfe0f00e33eeca21ac2f05c5809a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cn/default.svg",
+      "sourceBlob": "e5c58a158dc0f266b5b802b3e135983b1b504efe",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-co.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-co/default.svg",
+      "sourceBlob": "d0baebf5f5d585ac6ad99358e9ccade869d3f1d9",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cr/default.svg",
+      "sourceBlob": "fe3a1c0dc979b540c79c38271fb9a2442b9b932d",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cu/default.svg",
+      "sourceBlob": "e7e87bba27de4dedd6d098463b5dac110165a9eb",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cv/default.svg",
+      "sourceBlob": "38ac4a28364b472fa11adf7722f0ae74e09918c4",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cw/default.svg",
+      "sourceBlob": "b3cd5ddff79bf18ba5b2b980b55d00c67f64aad9",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cx/default.svg",
+      "sourceBlob": "42a8142c8e317c58556b73db40a5bed72d0ca1a8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cy/default.svg",
+      "sourceBlob": "2a6aaf16bfbee8ab961d88c3b113a6a2f107f1c8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-cz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-cz/default.svg",
+      "sourceBlob": "0c97f6e3a157027dc6b45f66eca3c180a1bfcf29",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-de.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-de/default.svg",
+      "sourceBlob": "56e05e70c20260ed11956b7a3f79b02d6094c66c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-dj.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-dj/default.svg",
+      "sourceBlob": "2e3f2158bf99a376a4f3c309b4237dc269d3402b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-dk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-dk/default.svg",
+      "sourceBlob": "611607f60859f3005e20a9ca9ac89906aed17e6f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-dm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-dm/default.svg",
+      "sourceBlob": "b47b3d99f96ae39844d7f621f6554bf84eb7e58f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-do.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-do/default.svg",
+      "sourceBlob": "ab6681d4467814aa2ae93357024deb6508c9092c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-dz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-dz/default.svg",
+      "sourceBlob": "a377cfa817f869fd17fc37e8ed54f2d73643ca8b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ec.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ec/default.svg",
+      "sourceBlob": "baa278707fd4f2cbb2fb7c214ec413f6bcaa03d7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ee.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ee/default.svg",
+      "sourceBlob": "febae2942ee3d1acf195cc5ff9606ba08c70eeab",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-eg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-eg/default.svg",
+      "sourceBlob": "3877293b5e94fbfd3f96b152de69bf6d9694bf26",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-eh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-eh/default.svg",
+      "sourceBlob": "85158e2722583607080abe8e1d556ef04f446f4e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-er.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-er/default.svg",
+      "sourceBlob": "19c22ffaecb532999c8501986e64df03f209016a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-cn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-cn/default.svg",
+      "sourceBlob": "c947fba8f6f13ec63086992bc6e98e03e76d0e49",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-ct.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-ct/default.svg",
+      "sourceBlob": "f1730bf324e2da27514bd39f1f808349c1577611",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-ga.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-ga/default.svg",
+      "sourceBlob": "17391e05b73c2f153dbcb49e83eb9bca17093779",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-ib.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-ib/default.svg",
+      "sourceBlob": "7b8cd41b0cf3b92a1288bd456e446b5b11bc1010",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-pv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-pv/default.svg",
+      "sourceBlob": "e15b5bcc7d79aab55e4316be9c1da1ae232429ac",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es-vc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es-vc/default.svg",
+      "sourceBlob": "3c7fbfe37ffbe1db98e60b5e4b9c49886d3ef6fa",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-es.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-es/default.svg",
+      "sourceBlob": "3031b94f1ea4b1e6a1b102688be2232a5fbba053",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-et.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-et/default.svg",
+      "sourceBlob": "f010474d1181f14e2f0cb5ad0a4fe31e34c185e3",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-eu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-eu/default.svg",
+      "sourceBlob": "e51fbe28b457c286697426db7dae75b6b0bee65a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fi/default.svg",
+      "sourceBlob": "fcb3a91dd4f4d62fd08410266970253e4e42477d",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fj.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fj/default.svg",
+      "sourceBlob": "2c134e8c399e58aec3c39cd9a5f46bc3f903ce0b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fk/default.svg",
+      "sourceBlob": "e97fd55e9bc5d7a39182da73166bb09981e2cb28",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fm/default.svg",
+      "sourceBlob": "bb60b71fbcabd336945e20ebfe58186c1de22006",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fo/default.svg",
+      "sourceBlob": "181509dcf3fab2bc4f94a7c8f129f57f632a104b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fr-cor.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fr-cor/default.svg",
+      "sourceBlob": "204bce95c24dcd296633f06516e71b31a5f4cdf9",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-fr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-fr/default.svg",
+      "sourceBlob": "f6266df046629e7d41cf74d6594d26752476a26f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ga.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ga/default.svg",
+      "sourceBlob": "57293cd0b0987a2384c0ba67287a21319201a3ce",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gb-eng.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gb-eng/default.svg",
+      "sourceBlob": "472af1b98f1857e1d9a4f1cc901ebe2e4bdb3067",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gb-sct.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gb-sct/default.svg",
+      "sourceBlob": "e7ca74566314d5a338dcf892babdb4cfdf8c16c7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gb-wls.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gb-wls/default.svg",
+      "sourceBlob": "249273033f5bc2f672bafc53f6cbe81fc3ab11bf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gb.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gb/default.svg",
+      "sourceBlob": "fe46387891117a83fb2758ef4ecef94aa6ffc7d8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gd/default.svg",
+      "sourceBlob": "787d998578ea67e4b2baa8cd53338caabddd7623",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ge.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ge/default.svg",
+      "sourceBlob": "5bd04ac415d58410520aaa3d031cd48e9cedad68",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gf/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gg/default.svg",
+      "sourceBlob": "3159ba40410cae2856e3e9c804e8e3ee42d791f0",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gh/default.svg",
+      "sourceBlob": "9bfbc80298d944f2093cc94bb3d3390eae0c2433",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gi/default.svg",
+      "sourceBlob": "49750e519618451ee7eff3e65fe51fa1e56e0ea0",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gl/default.svg",
+      "sourceBlob": "504cf21b499c3579a82341907cd372c366ac4a9b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gm/default.svg",
+      "sourceBlob": "ad8b2118df093f7edd07e689029339a955fc49cf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gn/default.svg",
+      "sourceBlob": "358f7517a67abed8dabfc7fdae48a0f6d331b22b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gp.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gp/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gq.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gq/default.svg",
+      "sourceBlob": "f5b4caf13233dea57eb3fef8ce8e4a67761a42a8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gr/default.svg",
+      "sourceBlob": "59b51a5734ef631cf37966f82bdb295c96a7b822",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gs/default.svg",
+      "sourceBlob": "958d52172c1b4b0bc52fad98506374a28d079bba",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gt/default.svg",
+      "sourceBlob": "11668de4b9ec56f10325208542525dee14c03a73",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gu/default.svg",
+      "sourceBlob": "06d5066f342491fd249fc87b7807b9b164acd9c9",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gw/default.svg",
+      "sourceBlob": "fcbcc41ef6e8c0026d416e78da103d9331062199",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-gy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-gy/default.svg",
+      "sourceBlob": "a25e826c1dc420fa9d430da0572deaca0922a5ca",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-hk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-hk/default.svg",
+      "sourceBlob": "ae47862e68e13e670ec66e84cf5a8684d6c0962b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-hm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-hm/default.svg",
+      "sourceBlob": "39bb200389b0fb81dfd80b327cada2aa4983c7f7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-hn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-hn/default.svg",
+      "sourceBlob": "9f95cd47fdb54ed985ed0855e0c59d80940f59b2",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-hr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-hr/default.svg",
+      "sourceBlob": "02a966b8f541317b65d77ba193c7707c0bd0cb49",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ht.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ht/default.svg",
+      "sourceBlob": "e00f57e76a8d56bf1651437a4d9d2d944f22e77c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-hu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-hu/default.svg",
+      "sourceBlob": "2eb5c7b2a3fa8731f6bbd59d3e410aa6866f4130",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-id.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-id/default.svg",
+      "sourceBlob": "e962bb04a98eafd76e07001b58429452e507104b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ie.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ie/default.svg",
+      "sourceBlob": "1a0ad63953f82c75862551bc4acf5edc3a4e6c89",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-il.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-il/default.svg",
+      "sourceBlob": "2fb3dc5d471d1c44c12a78b5d999873a4922adaf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-im.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-im/default.svg",
+      "sourceBlob": "7bb805bd5b4a309aef50f993d4506e7883aad14a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-in.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-in/default.svg",
+      "sourceBlob": "0ec83e0b8c9a09a15079406fab98a3ee5212e0a5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-io.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-io/default.svg",
+      "sourceBlob": "5428e353c35efb224c4ebabb2c6a9edb71cc4128",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-iq.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-iq/default.svg",
+      "sourceBlob": "471f1556d0926d0d9eb1d24f952f6cca2408ee66",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ir.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ir/default.svg",
+      "sourceBlob": "f6e1c0bf766ea8b34bded6954a72554110c73dad",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-is.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-is/default.svg",
+      "sourceBlob": "fcda955e923c7486a82411d9faa222b83cbbf39b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-it.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-it/default.svg",
+      "sourceBlob": "1115704dcc526726a93aabf2e72a74da4cf21ddf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-je.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-je/default.svg",
+      "sourceBlob": "42ca1c0c0faa19400326c23209f3f4171d557387",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-jm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-jm/default.svg",
+      "sourceBlob": "19ed778a5f77349b57bce96a423053a1254a51b3",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-jo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-jo/default.svg",
+      "sourceBlob": "7d341aec8de1047fbb71660709f02454a8146a7b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-jp.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-jp/default.svg",
+      "sourceBlob": "c830872628679c2ef39f1680fd647037eca0963e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ke.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ke/default.svg",
+      "sourceBlob": "2e5d825d3d948f7d09f739ccaf122e73903ef090",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kg/default.svg",
+      "sourceBlob": "07502e167659d6598fd857aecd5781beedbc4cc1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kh/default.svg",
+      "sourceBlob": "be80900ddd7639ec03d14f31425d545d0cedbfbc",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ki.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ki/default.svg",
+      "sourceBlob": "06857657fb1e113212c71388e06cef4c9a79c6a6",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-km.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-km/default.svg",
+      "sourceBlob": "34342412b2f9b84f03c5e585ac09a9ff3191d0f6",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kn/default.svg",
+      "sourceBlob": "2ae1502626e797489d052cc64d8545bdd45d9ef0",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kp.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kp/default.svg",
+      "sourceBlob": "fbb11957005e1bf28baa8ec3ac894ac7610527ee",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kr/default.svg",
+      "sourceBlob": "bd8f872f46e8277ecafe92c509a5097a05865c44",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kw/default.svg",
+      "sourceBlob": "d558e1d29668bf7c1c49c92e5f93fd82dff0e286",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ky.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ky/default.svg",
+      "sourceBlob": "cf68ed1e7bb157f672b73db40dd7484aca2b1fca",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-kz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-kz/default.svg",
+      "sourceBlob": "ac2407ee8d54531964a96690ae27e37c83ab64e6",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-la.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-la/default.svg",
+      "sourceBlob": "e117b468d8c0a574c0a8414c2b437e1c32031e31",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lb.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lb/default.svg",
+      "sourceBlob": "59bf8f16229ae5736a60b038b539b36b1916a5fd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lc/default.svg",
+      "sourceBlob": "f1ea5f58ccfe80db1940330fa809547988ebb833",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-li.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-li/default.svg",
+      "sourceBlob": "cd8255b135423d22bba8e8c73f4ffafc503505bc",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lk/default.svg",
+      "sourceBlob": "61f2094b4fb35885b84fd8fc6175b599aa543781",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lr/default.svg",
+      "sourceBlob": "f7fd3843bf7372d308d232158d85f835d4ecc4e2",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ls.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ls/default.svg",
+      "sourceBlob": "310febe10434278c3aa6725dee48aa1c1202ef58",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lt/default.svg",
+      "sourceBlob": "d015d2c1a714a97bd5bb6c327f003767ebbc2f74",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lu/default.svg",
+      "sourceBlob": "c225034ecc84f7b7ab973fc3201a7137aee65f90",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-lv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-lv/default.svg",
+      "sourceBlob": "95ae5dcd66cab8b3ab15124484a4b2570a467c1b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ly.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ly/default.svg",
+      "sourceBlob": "a9e9f1a5b63b41ac86cb55aac23a72deab82b605",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ma.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ma/default.svg",
+      "sourceBlob": "4165f9d697eaef8035ec8c38eab143f5a6880e4e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mc/default.svg",
+      "sourceBlob": "a3e2df40a1cc3d17419616d90bc403700f5f63fa",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-md.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-md/default.svg",
+      "sourceBlob": "e81e15a0e86656001a5c3d6e165c6abe51e51f38",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-me.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-me/default.svg",
+      "sourceBlob": "8e8b1f5225585ce1d1f1bfb74f0971fe1faafe0f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mf/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mg/default.svg",
+      "sourceBlob": "8d7f173f96a6c159aeea70ab7fbf0347885bdfa4",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mh/default.svg",
+      "sourceBlob": "cbb4ffe1f5c04483a010bbd3327e66cdbecd6004",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mk/default.svg",
+      "sourceBlob": "47e5a92a0db47285638c0ef491b8025067ed8a8e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ml.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ml/default.svg",
+      "sourceBlob": "fe6f408e581a14904d934fe4e7cae62566f0a485",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mm/default.svg",
+      "sourceBlob": "944b51e86412697934f556a9bfeb1a5667c5aef1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mn/default.svg",
+      "sourceBlob": "27512e7eedc918039e3c8eba8bc6df33be4d1bbf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mo.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mo/default.svg",
+      "sourceBlob": "90bea08713c144299ce75c780111eb6cde320c43",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mp.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mp/default.svg",
+      "sourceBlob": "4b7c564ad154e88a9fe02d089fdc9b0b6cd1073a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mq.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mq/default.svg",
+      "sourceBlob": "da9d6f90db7b499798ce29d53c73522ea13c5e53",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mr/default.svg",
+      "sourceBlob": "cb6372b99d635be60d3a4245434019ae01c24910",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ms.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ms/default.svg",
+      "sourceBlob": "0cfbbc23009c1a770e33985762c1ee2ba9caaff8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mt/default.svg",
+      "sourceBlob": "3fd5b458586f06f2adbbf7a4117789fa09879aa5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mu/default.svg",
+      "sourceBlob": "dc919469783bb3394aebe0f5c7d863c3d830ff93",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mv/default.svg",
+      "sourceBlob": "0bac1d6b8792a7d5050916bb1b51cc4c1fb0ee2c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mw/default.svg",
+      "sourceBlob": "9e036618effeefa6dc665ae17d55555b9871e89c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mx/default.svg",
+      "sourceBlob": "414d401a06ff9373b2c788af0e48c152e81c1932",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-my.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-my/default.svg",
+      "sourceBlob": "b541f39e018878afaec2c8a13d2071eabbe7c0e7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-mz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-mz/default.svg",
+      "sourceBlob": "53d8bce95a0256ffc6bb8ec4c3b985d7d0c73a9a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-na.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-na/default.svg",
+      "sourceBlob": "a15426e655175676c87a0bf441762fb42e06ef1f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nc/default.svg",
+      "sourceBlob": "1626481478d17680579d69373880f9c06b2ea48b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ne.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ne/default.svg",
+      "sourceBlob": "9eb164d4baf980f1dbf7754a8c3fc7ea2d18aa1c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nf/default.svg",
+      "sourceBlob": "5e6a643054ff4f2944b1cf2c19bf07a6eb5f6cfc",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ng.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ng/default.svg",
+      "sourceBlob": "c7e7fc2018b81624625cde1bf8b373debe590ffc",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ni.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ni/default.svg",
+      "sourceBlob": "6d0e5cb4e108ce393638fddc7412d4ec49aed5de",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nl/default.svg",
+      "sourceBlob": "db60559f46adeea5e68100744f263172052935e0",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-no.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-no/default.svg",
+      "sourceBlob": "59a25c1b366fd610dc07258440651ae9b1c9778f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-np.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-np/default.svg",
+      "sourceBlob": "5d7417aba4b19fc3cee838131147d8812c0b9377",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nr/default.svg",
+      "sourceBlob": "1b3088f9c39a74e3a7192c17bec0ce1a733d9e3f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nu/default.svg",
+      "sourceBlob": "cb4e53b07f7e11a9c84e912a7f11888795455cda",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-nz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-nz/default.svg",
+      "sourceBlob": "ae9dd365d1cb93f4e17101c4086b3bd1b09aba81",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-occitania.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-occitania/default.svg",
+      "sourceBlob": "92b5451635832be11bcd55d9ca31b64384b01a54",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-om.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-om/default.svg",
+      "sourceBlob": "69c2e73f35ab237b4cfa9e7e5294d5fa36f919d6",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pa.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pa/default.svg",
+      "sourceBlob": "98e115018c748043b0528f6d1c0d65981ba4e1a7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pe.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pe/default.svg",
+      "sourceBlob": "576ca035ba92ac5ca2cd15b356989545a63bd530",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pf/default.svg",
+      "sourceBlob": "adf5ad49f93f70ffbb2b495a566f3587894ba7e8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pg/default.svg",
+      "sourceBlob": "a922c0b99a4b546611c76e812aa7fb3a9c9c8eb2",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ph.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ph/default.svg",
+      "sourceBlob": "e4103ac0e0a92f4f6bcf4d9f6a404ecf6320ca46",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pk/default.svg",
+      "sourceBlob": "12c079a018a41f31a694f04b68333a243c76b171",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pl/default.svg",
+      "sourceBlob": "8eb752d8641cc7d9be68c617093f234725613f23",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pm/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pn/default.svg",
+      "sourceBlob": "438fb7e204fdcac31a0c687e388eae6c057cc1bf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pr/default.svg",
+      "sourceBlob": "6a919ccfb71b2444a7faa7956c3b0a5bd0b09a24",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ps.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ps/default.svg",
+      "sourceBlob": "b59ae2f6a2854ccdeafc1f4ad00c8356b2fc1a54",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pt/default.svg",
+      "sourceBlob": "30b20516acea11ac483eabd8c650fc0efd96ba8b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-pw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-pw/default.svg",
+      "sourceBlob": "153540eb9de6108057754f66e4c91c3bab4ac8dd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-py.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-py/default.svg",
+      "sourceBlob": "3e75c02694c61d743d62e5e03bb48d4f982f1c61",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-qa.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-qa/default.svg",
+      "sourceBlob": "320dc79fb61edab4b6ba5d76e6786ff640d8c8bb",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-re.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-re/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ro.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ro/default.svg",
+      "sourceBlob": "c4bd3a17b55511cfef6abf131ec31af91fb7af0c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-rs.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-rs/default.svg",
+      "sourceBlob": "fb244bedb989b1a4411d680611bcf78fded279b1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ru.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ru/default.svg",
+      "sourceBlob": "7e66998a5c36556667ec0cda1497dd3f14dadae1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-rw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-rw/default.svg",
+      "sourceBlob": "846c1d9659d15f14130fbb909ccca486ad2eb434",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sa.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sa/default.svg",
+      "sourceBlob": "e3d8138cd46ab872e4610e8f932a2bebc2235657",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sb.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sb/default.svg",
+      "sourceBlob": "69f11850f63e62b318f8ff12ed729203c90ae3db",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sc/default.svg",
+      "sourceBlob": "28d6c5b34aa6c67adc41766687b63016bcfc770f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sd.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sd/default.svg",
+      "sourceBlob": "0db153f13387465cbca6f1565b96eb2b0ebc058e",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-se.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-se/default.svg",
+      "sourceBlob": "0ab97abd36e33773f442f19d7cb0953703ea53f8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sg/default.svg",
+      "sourceBlob": "926d08a4e772b071ff290592c112521bee7a6080",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sh.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sh/default.svg",
+      "sourceBlob": "fe46387891117a83fb2758ef4ecef94aa6ffc7d8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-si.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-si/default.svg",
+      "sourceBlob": "4a667b00711958b812b475581bd29328b01c005a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sj.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sj/default.svg",
+      "sourceBlob": "1cbeb4b603045951df8241dcf208447a8a05e3d5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sk/default.svg",
+      "sourceBlob": "f8ca71a9b5ddf52e6954b762941fbb41f929257d",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sl/default.svg",
+      "sourceBlob": "aec687561e9dd22b1845c098e18130f342ce61ef",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sm/default.svg",
+      "sourceBlob": "283c94c6174ffc73a09cc6f038327f39056b57b7",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sn/default.svg",
+      "sourceBlob": "6e588b5537aa19a7516cd2cc20a1d8c39d3d7623",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-so.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-so/default.svg",
+      "sourceBlob": "b6f1508a1320a6a894a5dce88464827a7aeeec65",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sr/default.svg",
+      "sourceBlob": "b7ca9a4b59d8faf93d4229f99584dfa159b7b6e0",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ss.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ss/default.svg",
+      "sourceBlob": "e3bc741938570d49bb01822b3d41f2a357bec5fd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-st.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-st/default.svg",
+      "sourceBlob": "dd261c195ac6744099360d816b04be282e78440d",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sv/default.svg",
+      "sourceBlob": "7b6d1008a08e7b559096f6ada85e180234fe2418",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sx.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sx/default.svg",
+      "sourceBlob": "f6d51f6b1964cc9814ffbfd90660c03151d79f61",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sy/default.svg",
+      "sourceBlob": "1c3b37947992967b3d1fa8fbd8b9be794290d500",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-sz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-sz/default.svg",
+      "sourceBlob": "f9eac02d6b6b77a75fc942446f95002d5d4ff789",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tc/default.svg",
+      "sourceBlob": "29edfacd7c7bb8093b92ab0b8c07b86cca4dedd5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-td.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-td/default.svg",
+      "sourceBlob": "036d93dcc866bad111ca6ed3299513f9503d2daa",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tf/default.svg",
+      "sourceBlob": "22d6be3fa0887a84407aae5803463c4634124c5b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tg/default.svg",
+      "sourceBlob": "5a031be2bc94fe0f75540c0dfb43aba69b03f17a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-th.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-th/default.svg",
+      "sourceBlob": "a40064a88758eab6076447c654fe27162ef41e45",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tj.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tj/default.svg",
+      "sourceBlob": "1cc348f1517cd07fcb006d735ddab6e25f385ab5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tk/default.svg",
+      "sourceBlob": "ba024619f4abcbf0fd939d0dc94fd24953267b0c",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tl.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tl/default.svg",
+      "sourceBlob": "d884446f294c5bfff2632da014557206f39d52c3",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tm/default.svg",
+      "sourceBlob": "b7e0e801c80276ddc9d58c179e23f76157a50d2f",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tn/default.svg",
+      "sourceBlob": "38545f5c3206d60b5ac55395bf6856f63ae85854",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-to.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-to/default.svg",
+      "sourceBlob": "740ebd6a20b3706df2542c766ba8a05a755482a1",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tr.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tr/default.svg",
+      "sourceBlob": "6b4404d33b2900c421155df04b79668d1eded9d5",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tt/default.svg",
+      "sourceBlob": "2b8ff759e1a37ca794b1eed5208572574f48c983",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tv.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tv/default.svg",
+      "sourceBlob": "f4e9a62bee6684725b658d09e82c374c99a0b222",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tw/default.svg",
+      "sourceBlob": "ed5e6cb4bef79c2442e82a3374c6c851d775c694",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-tz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-tz/default.svg",
+      "sourceBlob": "3dd1e277b43483d8456c27748e0a689fe4861c37",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ua.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ua/default.svg",
+      "sourceBlob": "073c4a156beba419cee962abef8312a524272172",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ug.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ug/default.svg",
+      "sourceBlob": "f79bdbd84f7f83f3f94a3ea99b6b5918ef6ae7bb",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-um.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-um/default.svg",
+      "sourceBlob": "3f2cd58f7b796a464b3b86cafc1c176d99b1cdf2",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-un.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-un/default.svg",
+      "sourceBlob": "3caaa75aae8c5f901fcf0a2a3d3e98c8801a716a",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-us.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-us/default.svg",
+      "sourceBlob": "3f2cd58f7b796a464b3b86cafc1c176d99b1cdf2",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-uy.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-uy/default.svg",
+      "sourceBlob": "cdd5f7cb55cdf70aab505270217355b0279036cf",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-uz.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-uz/default.svg",
+      "sourceBlob": "4f8b2dba31e0fa61625039a1db3ac54cc1975807",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-va.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-va/default.svg",
+      "sourceBlob": "99b84e842cd86f6fe96dbc20424a37b614dfb171",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-vc.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-vc/default.svg",
+      "sourceBlob": "544a7dbc19d1de8d47a248d54b0eeaa96cf24f61",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ve.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ve/default.svg",
+      "sourceBlob": "b7098933cfbf7ce58ef333e1be7155c2f96bdd3b",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-vg.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-vg/default.svg",
+      "sourceBlob": "db3b771313ed86b29d0ac39ea13a95876a23d194",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-vi.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-vi/default.svg",
+      "sourceBlob": "59abcd3aeaafecd386a0fa94bcecd604fd94f12d",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-vn.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-vn/default.svg",
+      "sourceBlob": "6216f1309c9901580aa91017904f82a514adf8bd",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-vu.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-vu/default.svg",
+      "sourceBlob": "8c40339693dd40a3be81abf89b6208b1864467ed",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-wf.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-wf/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ws.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ws/default.svg",
+      "sourceBlob": "da9408844e1c921e5fa146115dbb6603a88f9102",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-xk.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-xk/default.svg",
+      "sourceBlob": "20ba1636e34ef4dc032c510b24ccc91f5ad48deb",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-ye.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-ye/default.svg",
+      "sourceBlob": "df1ea04aa08f607af6191ba52a7d53d5eb73d199",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-yt.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-yt/default.svg",
+      "sourceBlob": "78bc82fe336984d9b8b2b54530ff07c3f7fdf752",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-za.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-za/default.svg",
+      "sourceBlob": "d4984e9868e2e0f2be59fa1f21f41bab597ec9d8",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-zm.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-zm/default.svg",
+      "sourceBlob": "db78c957406f969f0bc1a6fb7380e76440b451ff",
+      "status": "Upstream default variant"
+    },
+    "flags/flag-zw.svg": {
+      "source": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/flag-zw/default.svg",
+      "sourceBlob": "3dc07acca8bdbc7bca1b7ec4151f4ed6887a2e35",
+      "status": "Upstream default variant"
+    }
+  }
+}

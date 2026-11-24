@@ -1,0 +1,761 @@
+{
+  "upstreamPackage": "@atlaskit/logo",
+  "upstreamVersion": "23.3.3",
+  "upstreamRevision": "06e25edeba83b4e4e7d9889e75ab30890abda001",
+  "officialGuidelines": "https://atlassian.design/foundations/logos/",
+  "modifications": "SVG fragments extracted from documented official components. Standalone xmlns and dimensions added. Brand token defaults resolved to supplied fallback colors. Theme variants retain currentColor as provided by upstream.",
+  "files": [
+    {
+      "path": "app-icons/admin.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/admin/icon.tsx",
+      "sourceBlob": "2178358a04a6878a963c5e2c1138caf8d1297979",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/admin.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/admin/logo-cs.tsx",
+      "sourceBlob": "03373f626c24c81ae931031a96dee09b16badece",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/align.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/align/icon.tsx",
+      "sourceBlob": "0bcb30a6b3ab30795dd899a86f19742621ccd160",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/align.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/align/logo-cs.tsx",
+      "sourceBlob": "f2ade0e14b17cfdcc6a782388ef534d89ac3cc3b",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/analytics.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/analytics/icon.tsx",
+      "sourceBlob": "f161b61ac2693d9692b04185833320b6d67533ce",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/analytics.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/analytics/logo-cs.tsx",
+      "sourceBlob": "dfbc112608305c7f6de3d26f2cdf8a40874d16d6",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/artifacts.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/artifacts/icon.tsx",
+      "sourceBlob": "6e39a2addc76502a9cc06e450518262401d02e7a",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/artifacts.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/artifacts/logo-cs.tsx",
+      "sourceBlob": "6212d226cb522041b413654853e9a71feef4b4c2",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/assets.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/assets/icon.tsx",
+      "sourceBlob": "5f694b25e30981f18c8593706763f45777af2b91",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/assets.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/assets/icon.tsx",
+      "sourceBlob": "5f694b25e30981f18c8593706763f45777af2b91",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/assets.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/assets/logo-cs.tsx",
+      "sourceBlob": "5863709f406ce3ace6881722c5524a48826e06a2",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/bamboo.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bamboo/icon.tsx",
+      "sourceBlob": "c9e7c4d959cef42cac91ace2192f91f4efd7519c",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/bamboo.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bamboo/logo-cs.tsx",
+      "sourceBlob": "a65b29d32e669ec0125dfa5b1651bd6aa2bc2bf5",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/bitbucket-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bitbucket-data-center/icon.tsx",
+      "sourceBlob": "42fa82a4ebf207e522f975dd6253223615042328",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/bitbucket-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bitbucket-data-center/logo-cs.tsx",
+      "sourceBlob": "001a43732127c5cbbd82c6c10810401793880230",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/bitbucket.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bitbucket/icon.tsx",
+      "sourceBlob": "dbb39baa51f58889f2e1bb56515dc028c928b163",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/bitbucket.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bitbucket/icon.tsx",
+      "sourceBlob": "dbb39baa51f58889f2e1bb56515dc028c928b163",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/bitbucket.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/bitbucket/logo-cs.tsx",
+      "sourceBlob": "3c3661e291de884d159e8b300ba8930c52754d3b",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/chat.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/chat/icon.tsx",
+      "sourceBlob": "9a3989d0244fc2f6e97ad82b11fa7aca14b9f147",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/chat.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/chat/logo-cs.tsx",
+      "sourceBlob": "31263aaedc495a24986b8fd0570cdb194b972386",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/code-search.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/code-search/icon.tsx",
+      "sourceBlob": "179de7a3daeaa77cc327e0bb8775ab34eda7a718",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/company-hub.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/company-hub/icon.tsx",
+      "sourceBlob": "fe38f433f2a74f3dbb335d173b5360d466ce49ca",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/compass.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/compass/icon.tsx",
+      "sourceBlob": "9a5d7c060b72ec5e69a7835c29e548f421c7fb9b",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/compass.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/compass/logo-cs.tsx",
+      "sourceBlob": "dbcc28ebc27a88eb1746b2094c6c5f0bc9c3d2ae",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/confluence-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/confluence-data-center/icon.tsx",
+      "sourceBlob": "40686573883da7ccabd244b9c9b9516470c82a34",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/confluence-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/confluence-data-center/logo-cs.tsx",
+      "sourceBlob": "cef853e9c68e15f3aab6c3650569feffbace770c",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/confluence.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/confluence/icon.tsx",
+      "sourceBlob": "e7d67f2040ec0d52eaecf668cdc2d32fd755222a",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/confluence.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/confluence/icon.tsx",
+      "sourceBlob": "e7d67f2040ec0d52eaecf668cdc2d32fd755222a",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/confluence.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/confluence/logo-cs.tsx",
+      "sourceBlob": "3a0eee76cbb343137241ee061ab429710693e7cb",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/crowd.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/crowd/icon.tsx",
+      "sourceBlob": "f121f4749fec2653d3db4863a42dbc61986b3cb7",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/crowd.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/crowd/logo-cs.tsx",
+      "sourceBlob": "9476e5a337adf512be39cf673f7e073a467490c9",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/customer-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/customer-service-management/icon.tsx",
+      "sourceBlob": "6d52241bc5bc7759d6c2aef0a9c4d62d715c8ef7",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/customer-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/customer-service-management/icon.tsx",
+      "sourceBlob": "6d52241bc5bc7759d6c2aef0a9c4d62d715c8ef7",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/customer-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/customer-service-management/logo-cs.tsx",
+      "sourceBlob": "1d623b138ed2a70828b92a95318f87f6cae1d4b7",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/dx.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/dx/icon.tsx",
+      "sourceBlob": "4f77ccaf77f6227265108b92d4c7504d5f041684",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/feedback.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/feedback/icon.tsx",
+      "sourceBlob": "e3398e105e0b40b68ff1e8fa1a864d1fe2961db6",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/feedback.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/feedback/logo-cs.tsx",
+      "sourceBlob": "c86f3dc3fd244d36ca76784cda10846672c1352d",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/focus.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/focus/icon.tsx",
+      "sourceBlob": "11d9541d6d2b9f838fdeb783539fd34b1dfa5f40",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/focus.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/focus/logo-cs.tsx",
+      "sourceBlob": "6e60e58d124627190c345d0757a803bf447b4f96",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/goals.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/goals/icon.tsx",
+      "sourceBlob": "7be6f02a9e66c8c6b9e9ee04247ec017a9f55a04",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/goals.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/goals/logo-cs.tsx",
+      "sourceBlob": "66a4094821d74ff5a2b72b5bec1f984dbc24451c",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/guard-detect.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/guard-detect/icon.tsx",
+      "sourceBlob": "298b5031a5713f9424060eb51863e0df9cd03786",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/guard.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/guard/icon.tsx",
+      "sourceBlob": "cbb55a2a5abd9db0e23bb563c26e56d2bfedb1c8",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/guard.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/guard/logo-cs.tsx",
+      "sourceBlob": "f16c4385e6bd2adc2dbaca2d3bb542cadca3e7b8",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/home.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/home/icon.tsx",
+      "sourceBlob": "f15a6297a8b3d4d52bbaeee7746a3814c28fa86a",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/home.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/home/logo-cs.tsx",
+      "sourceBlob": "408839fbbf2df2e55fdb8853818cc32b39eb5306",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/hub.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/hub/icon.tsx",
+      "sourceBlob": "94dce7c9b0b02bdc4cf5349635aa73e564b604b5",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/hub.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/hub/logo-cs.tsx",
+      "sourceBlob": "69a9dbb6292869f6b0eaf477cea9cafaf3422f55",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/insights.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/insights/icon.tsx",
+      "sourceBlob": "79416385722b62154679c77061b527602a9f80d8",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/insights.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/insights/logo-cs.tsx",
+      "sourceBlob": "505f375d8d15d1a818e322c90338ee5c45b43733",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira-coding-agent.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-coding-agent/icon.tsx",
+      "sourceBlob": "fc56308e81c06346be04c8d5006a255535b84658",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-data-center/icon.tsx",
+      "sourceBlob": "d30545e8cd505817211cc63c5ff650012f3fdfcf",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/jira-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-data-center/logo-cs.tsx",
+      "sourceBlob": "6eeef5ecfef7326138bdeafbbad7464e90b7a2ba",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira-product-discovery.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-product-discovery/icon.tsx",
+      "sourceBlob": "7f8e5a76080ce4368b0073949f0b60b2a0503eb2",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/jira-product-discovery.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-product-discovery/icon.tsx",
+      "sourceBlob": "7f8e5a76080ce4368b0073949f0b60b2a0503eb2",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/jira-product-discovery.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-product-discovery/logo-cs.tsx",
+      "sourceBlob": "3ee7c3cbd9809b20afa3e82c65b5bc6029b989a7",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira-service-management-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-service-management-data-center/icon.tsx",
+      "sourceBlob": "d3156fb095582f3ef16434549b9077bbc94be3cf",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/jira-service-management-data-center.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-service-management-data-center/logo-cs.tsx",
+      "sourceBlob": "bb694764f856a777fc98b0f7732ec524df472285",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-service-management/icon.tsx",
+      "sourceBlob": "5f405955b2a14ad712bb0c6d6f1d31fc8823f200",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/jira-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-service-management/icon.tsx",
+      "sourceBlob": "5f405955b2a14ad712bb0c6d6f1d31fc8823f200",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/jira-service-management.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira-service-management/logo-cs.tsx",
+      "sourceBlob": "9dc012c8fc25dedac7d0b66727e1431542b8bc63",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/jira.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira/icon.tsx",
+      "sourceBlob": "978efe47fe5b423f34bac71a672382bd1fa13378",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/jira.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira/icon.tsx",
+      "sourceBlob": "978efe47fe5b423f34bac71a672382bd1fa13378",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/jira.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/jira/logo-cs.tsx",
+      "sourceBlob": "1fbef8825c5f5bc4a6063434c74a588d300f5351",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/loom-attribution.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/loom-attribution/logo-cs.tsx",
+      "sourceBlob": "22dc07cc0478aaf6ea83a26285019726a61826ff",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/loom.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/loom/icon.tsx",
+      "sourceBlob": "113f8cd0f3016c0fac303b6e4ed03af44dfa5895",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/loom.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/loom/logo-cs.tsx",
+      "sourceBlob": "1b45be19e3ed4d181174b7fc682647980169fb48",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/opsgenie.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/opsgenie/icon.tsx",
+      "sourceBlob": "a8685c162b9843bf93cabf2f6db49e527f9fc466",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/opsgenie.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/opsgenie/logo-cs.tsx",
+      "sourceBlob": "ea20e7707495c7a703743ed60e8d5e28368c6216",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/projects.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/projects/icon.tsx",
+      "sourceBlob": "ba40df972d839d171adc2f1bf23ccc6ea8cd345b",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/projects.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/projects/logo-cs.tsx",
+      "sourceBlob": "26dc34a3287b1c36146c633781b741f56437dcca",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/rovo-classic.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-classic/icon.tsx",
+      "sourceBlob": "99a38c901bcecc6bb2e864eccc4f80704f1f22b9",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/rovo-classic.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-classic/logo-cs.tsx",
+      "sourceBlob": "9255a98a9919e05a4b6a78bf9cd4ea9ce0aec3f6",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/rovo-dev-agent.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-dev-agent/icon.tsx",
+      "sourceBlob": "59595b90358e3197c15ba56b2efb36026f4fa152",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/rovo-dev-agent.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-dev-agent/logo-cs.tsx",
+      "sourceBlob": "838422cf7e5b7fd6d6eff16588c6bc3ba16c87c7",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/rovo-dev.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-dev/icon.tsx",
+      "sourceBlob": "49678ae02ac32c7f0ace6551042c7e37b66479da",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/rovo-dev.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-dev/logo-cs.tsx",
+      "sourceBlob": "2d3fe7c647e5f1c154f187084263ace9a6ad1c5d",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/rovo-hex.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-hex/icon.tsx",
+      "sourceBlob": "88bc7adf3e4b89b9ae1123b7e2699df090636775",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/rovo-hex.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo-hex/logo-cs.tsx",
+      "sourceBlob": "545a7291c55e71d266b8530d3a73562c026ab962",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/rovo.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo/icon.tsx",
+      "sourceBlob": "0e1d795805a7a11a4d57eccd216dadef7c8b38b3",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/rovo.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/rovo/logo-cs.tsx",
+      "sourceBlob": "90477f26842b1e72184f6ed5cb1b2d5fd46f4f1a",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/search.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/search/icon.tsx",
+      "sourceBlob": "f7ca8da5f88a84f261fbe064a9d055082e5408d9",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/search.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/search/logo-cs.tsx",
+      "sourceBlob": "2404f9d871a956fa4d33fd7db81d11063997ce08",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/statuspage.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/statuspage/icon.tsx",
+      "sourceBlob": "92de8a5d314fef4857cc6f85f25bf45e26df20ed",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/statuspage.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/statuspage/logo-cs.tsx",
+      "sourceBlob": "eb5a52c806c245a1c3a38e3b2baadd96887b23c8",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/studio.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/studio/icon.tsx",
+      "sourceBlob": "06452d8661a550e23f6a4838e4fbaa300a4db56b",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/studio.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/studio/logo-cs.tsx",
+      "sourceBlob": "85fae419b413581b2a01f3481d7977f5d4d67be0",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/talent.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/talent/icon.tsx",
+      "sourceBlob": "fafb09c92c53565e87defe3f26d7d2951b239ac1",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/talent.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/talent/logo-cs.tsx",
+      "sourceBlob": "b1b0bfa18706a7ced5288e1b0762ae4e1eab4c31",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/teams.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/teams/icon.tsx",
+      "sourceBlob": "b44f96788e6e226759af1e69d867629be9bac164",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/teams.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/teams/logo-cs.tsx",
+      "sourceBlob": "55de8c3a456f0560f0ba19df419bc605cec3a905",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "app-icons/trello.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/trello/icon.tsx",
+      "sourceBlob": "77ff374c18d5cfa8bb3df3f1105bac23c8050cef",
+      "variant": "app-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "theme-icons/trello.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/trello/icon.tsx",
+      "sourceBlob": "77ff374c18d5cfa8bb3df3f1105bac23c8050cef",
+      "variant": "theme-icons",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    },
+    {
+      "path": "lockups/trello.svg",
+      "source": "https://github.com/pioug/atlassian-frontend-mirror/blob/06e25edeba83b4e4e7d9889e75ab30890abda001/design-system/logo/src/artifacts/logo-components/trello/logo-cs.tsx",
+      "sourceBlob": "d4e5ba9c1cd8f5e03a0fdd6e8dd282c30987f747",
+      "variant": "lockups",
+      "type": "official vector from Atlaskit component",
+      "terms": "Apache-2.0 source package; Atlassian trademark and use guidance apply"
+    }
+  ]
+}

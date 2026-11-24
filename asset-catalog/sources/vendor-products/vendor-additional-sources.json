@@ -1,0 +1,23 @@
+[
+  {
+    "path": "brands-and-logos/google/workspace/appsheet.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_AppSheet_Logo.svg",
+    "format": "svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_AppSheet_Logo.svg",
+    "status": "Original Google-derived artwork in Wikimedia Commons; bytes unavailable in this environment"
+  },
+  {
+    "path": "brands-and-logos/google/workspace/studio-lockup.svg",
+    "url": "https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-16ZlAM6O3vxm94mybWn7KK-3aebc1c838339ced2cf57303464c067c-Studio_Google_Workspace_lockup_light.optimized.svg",
+    "format": "svg",
+    "source": "https://workspace.google.com/studio/",
+    "status": "Direct publisher vector lockup sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/macos-golden-gate-27/source-layers",
+    "url": "https://github.com/ljmng7/macOS27-system-icons/tree/c03342132fb319167d66dfbc693b72330d277ed3",
+    "format": "icon project",
+    "source": "https://www.apple.com/os/macos/",
+    "status": "49 reconstructed Apple OS source-layer sets found; official composite app icon PNGs unavailable here"
+  }
+]

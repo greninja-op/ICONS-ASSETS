@@ -1,0 +1,29 @@
+{
+  "code-solid": {
+    "parent": "code-bracket-solid"
+  },
+  "code-square-solid": {
+    "parent": "code-bracket-square-solid"
+  },
+  "exclaimation-circle": {
+    "parent": "exclamation-circle"
+  },
+  "exclaimation-circle-solid": {
+    "parent": "exclamation-circle-solid"
+  },
+  "exclaimation-triangle": {
+    "parent": "exclamation-triangle"
+  },
+  "exclaimation-triangle-solid": {
+    "parent": "exclamation-triangle-solid"
+  },
+  "viewfinder-dot": {
+    "parent": "viewfinder-circle"
+  },
+  "viewfinder-dot-20-solid": {
+    "parent": "viewfinder-circle-20-solid"
+  },
+  "viewfinder-dot-solid": {
+    "parent": "viewfinder-circle-solid"
+  }
+}

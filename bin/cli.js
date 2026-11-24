@@ -7,6 +7,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { ASSET_PATTERN, searchAssets, writeCatalog } = require('../asset-catalog');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 
@@ -17,9 +18,12 @@ const CATEGORIES = {
   'devtools': { name: 'Developer Tools & Languages', path: 'developer-tools' },
   'mobile': { name: 'Mobile & App Icons', path: 'mobile-and-app' },
   'os': { name: 'OS & Desktop Icons', path: 'os-and-desktop' },
+  'gaming': { name: 'Gaming', path: 'gaming' },
+  'google-apps': { name: 'Google Applications', path: 'brands-and-logos/google' },
+  'microsoft-apps': { name: 'Microsoft Applications', path: 'brands-and-logos/microsoft' },
   'pixel': { name: 'Pixel Art Icons', path: 'pixel-art' },
   'system': { name: 'System & UI Icons', path: 'system-and-ui' },
-  'apple': { name: 'Apple & macOS Icons', path: 'os-and-desktop/macos-icons' },
+  'apple': { name: 'Apple & macOS Icons', path: 'os-and-desktop/apple' },
   'google': { name: 'Google Cloud & Workspace', path: 'cloud-architecture/google-cloud-icons' },
   'microsoft': { name: 'Microsoft 365 & Cloud', path: 'brands-and-logos/microsoft-cloud-logos' },
   'languages': { name: 'Programming Languages & Stacks', path: 'developer-tools/stacks-and-languages' },
@@ -30,7 +34,7 @@ function printHelp() {
   console.log(`
 =====================================================
   @greninja-op/icons-assets CLI
-  350,000+ Curated Official Icons & Logos
+  Icon and Asset Catalog
 =====================================================
 
 Usage:
@@ -38,7 +42,8 @@ Usage:
 
 Commands:
   list                 List all available icon suites & categories
-  search <query>       Search for specific icons by keyword
+  search <query>       Search icon and folder names, with optional --category and --format
+  catalog              Regenerate the full on-disk asset index
   get <category> [dir] Extract a specific icon category to a local folder
 
 Categories for 'get':
@@ -58,7 +63,7 @@ Categories for 'get':
 
 Examples:
   npx @greninja-op/icons-assets list
-  npx @greninja-op/icons-assets search antigravity
+  node bin/cli.js search wi-fi --category system --format svg
   npx @greninja-op/icons-assets get apple ./src/assets/apple
   npx @greninja-op/icons-assets get languages ./src/assets/tech-logos
 `);
@@ -76,7 +81,7 @@ function listCategories() {
           const entries = fs.readdirSync(dir, { withFileTypes: true });
           for (const e of entries) {
             if (e.isDirectory()) c += countFiles(path.join(dir, e.name));
-            else if (/\.(svg|png|webp|ico)$/i.test(e.name)) c++;
+            else if (ASSET_PATTERN.test(e.name)) c++;
           }
           return c;
         }
@@ -98,7 +103,7 @@ function copyRecursive(src, dest) {
     const destPath = path.join(dest, e.name);
     if (e.isDirectory()) {
       copyRecursive(srcPath, destPath);
-    } else if (/\.(svg|png|webp|ico|json)$/i.test(e.name)) {
+    } else if (ASSET_PATTERN.test(e.name) || /\.(json|md|txt|tsv)$/i.test(e.name) || /^(?:license|copying|notice)(?:\.|$)/i.test(e.name)) {
       fs.copyFileSync(srcPath, destPath);
     }
   }
@@ -123,41 +128,29 @@ function getCategory(categoryKey, targetDir) {
   console.log(`Successfully extracted ${cat.name} icons into ${outDir}`);
 }
 
-function searchIcons(query) {
+function searchIcons(query, options) {
   if (!query) {
     console.error('Error: Please provide a search query.');
-    process.exit(1);
+    process.exitCode = 1;
+    return;
   }
-  const q = query.toLowerCase();
-  console.log(`\nSearching for icons matching "${query}"...\n`);
-  const matches = [];
-
-  function searchDir(dir, relPath) {
-    if (matches.length >= 30) return;
-    try {
-      const entries = fs.readdirSync(dir, { withFileTypes: true });
-      for (const e of entries) {
-        if (e.isDirectory()) {
-          searchDir(path.join(dir, e.name), path.join(relPath, e.name));
-        } else if (/\.(svg|png|webp)$/i.test(e.name)) {
-          if (e.name.toLowerCase().includes(q)) {
-            matches.push(path.join(relPath, e.name));
-          }
-        }
-      }
-    } catch (e) {}
-  }
-
-  searchDir(ROOT_DIR, '');
-  if (matches.length === 0) {
-    console.log(`No icons matching "${query}" found.`);
-  } else {
-    matches.forEach(m => console.log(`  - ${m}`));
-    if (matches.length >= 30) {
-      console.log('\n(Showing first 30 matches. Narrow your query for specific results.)');
+  const filters = {};
+  for (let index = 0; index < options.length; index += 2) {
+    const [flag, value] = options.slice(index, index + 2);
+    if (flag === '--category' && value) filters.category = CATEGORIES[value]?.path || value;
+    else if (flag === '--format' && value) filters.format = value;
+    else {
+      console.error('Usage: icons-assets search <query> [--category <name>] [--format <format>]');
+      process.exitCode = 1;
+      return;
     }
   }
-  console.log('');
+  const matches = searchAssets(query, filters);
+  if (!matches.length) {
+    console.log(`No icons matching "${query}" found.`);
+    return;
+  }
+  for (const match of matches) console.log(`  - ${match.path}`);
 }
 
 const args = process.argv.slice(2);
@@ -176,7 +169,9 @@ if (!command || command === '--help' || command === '-h') {
   }
   getCategory(cat, dest);
 } else if (command === 'search') {
-  searchIcons(args[1]);
+  searchIcons(args[1], args.slice(2));
+} else if (command === 'catalog') {
+  console.log(JSON.stringify(writeCatalog(), null, 2));
 } else {
   // Check if first argument is a category directly
   if (CATEGORIES[command.toLowerCase()]) {

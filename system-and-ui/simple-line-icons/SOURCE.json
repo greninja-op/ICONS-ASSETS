@@ -1,0 +1,17 @@
+{
+  "pack": "Simple line icons",
+  "folder": "simple-line-icons",
+  "upstream": {
+    "name": "Sabbir Ahmed",
+    "url": "https://github.com/thesabbir/simple-line-icons"
+  },
+  "license": "MIT",
+  "license_source": "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md",
+  "license_blob": "dfb8b50d5c4d43ef3bc741dde44571214715012d",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/simple-line-icons.json",
+  "style": "outline",
+  "current_svgs": 189,
+  "legacy_svgs": 5,
+  "aliases": 0,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

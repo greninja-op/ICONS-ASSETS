@@ -1,0 +1,866 @@
+[
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/gmail-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/gmail.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "7da6ca5beb8b7129c863479a48e3380cba9724ac",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/gmail-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-calendar-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/calendar.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "446519f8ee68a55df670a60304198b0d7bcbe8c8",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-calendar-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-chat-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/chat.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "6995659c4a0b5a9e2a34559f5b75e08725fde091",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-chat-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-docs-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/docs.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "92f2e869aa02fc914dc5790a7d55064a13d7aaa8",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-docs-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-drive-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/drive.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "6c9065b307a6db56072de55fd03f727a828f82d7",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-drive-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-forms-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/forms.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "f21776c4bd7a559f67b66a92d19059018041263b",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-forms-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-keep-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/keep.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "fcad54937d23be69dcb0010178700f240eba62c2",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-keep-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-meet-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/meet.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "99071d61d847fc46506333e5881041d13fb2e699",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-meet-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-sheets-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/sheets.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "64cac115bb527adc95bcc58ceaf5e18efc6b408e",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-sheets-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-sites-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/sites.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "bef725d1b2a1ae32fe43a2a56b5c553227cf6278",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-sites-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-slides-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/slides.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "73b2d362dfdc22a1ef61db4622ab7aefe2adf77d",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-slides-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-tasks-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/tasks.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "acb6e9651dbc7bcabf2cb8b186c9eae9d30ebcbb",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-tasks-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-vids-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/vids.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "87b88f82b6acafdad48eb1425afc736e4e3cc1f1",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-vids-2026/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-voice-2026/default.svg",
+    "output": "brands-and-logos/google/workspace/2026/voice.svg",
+    "status": "Publisher SVG via TheSVG mirror; see Google brand guidelines",
+    "git_blob": "e49b95d4e1f8b303950dedb6037866575faad91b",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-voice-2026/default.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/copilot/copilot-365.svg",
+    "output": "brands-and-logos/microsoft/copilot/copilot-365.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "f622c232263771cf0fe901c0f532188fa5ecc8d0",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/copilot/copilot-365.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/copilot/copilot.svg",
+    "output": "brands-and-logos/microsoft/copilot/copilot.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "0fc769d7dae22595e76c3fab900d794925eed68e",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/copilot/copilot.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/business-central.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/business-central.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "30b7b3d9485dd11eb9ab43f9d32431398bc02cb1",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/business-central.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/commerce.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/commerce.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "03be68706102e0900485a0786364782b27028491",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/commerce.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/contact-center.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/contact-center.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "fdff6db5ef671bcfda4a8ce0ccdfdd469e81a142",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/contact-center.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/customer-insights.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/customer-insights.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "8e72ba34f38d4dfa0cd696ccffbda0a3358f824e",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/customer-insights.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/customer-service.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/customer-service.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "9b1b7a22ed6accd6d4abcec084f39439fb187b23",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/customer-service.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/customer-voice.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/customer-voice.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "b1a4c1654dc0543740d13263bd0937bab94d6519",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/customer-voice.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/dynamics-365.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/dynamics-365.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "8c3d94b0d856cfd76a8544fdd2579defa516b624",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/dynamics-365.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/field-service.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/field-service.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "128cacce3a07c10aaa6f7c48a2740ee621ad2f00",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/field-service.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/finance-operations.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/finance-operations.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "a1b78b48aba45602005ce895fef36ec54612f0b8",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/finance-operations.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/finance.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/finance.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "cf57286aa9c550de6808b674f5d2644aa008542c",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/finance.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/human-resources.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/human-resources.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "16b0ef239aca45c49b9802d9bc884618b3a0fbc0",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/human-resources.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/intelligent-order-management.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/intelligent-order-management.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "bfc88438d6156fcf949bdefb07da15e8d48d9c9d",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/intelligent-order-management.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/project-operations.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/project-operations.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "4fec5112d56a95f329709c0682ac4a0ea2348245",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/project-operations.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/sales-insights.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/sales-insights.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "609c16c75c462af05e12cc26a3e1fa9e5d375436",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/sales-insights.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/sales.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/sales.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "69d917d9dddfbe357ffc8848b2bf13e2faebf61f",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/sales.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/dynamics-365/supply-chain.svg",
+    "output": "brands-and-logos/microsoft/dynamics-365/supply-chain.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "6d398e7ea0ff1a7f15b487951f60401edda9547d",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/dynamics-365/supply-chain.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/entra/entra-id-governance.svg",
+    "output": "brands-and-logos/microsoft/entra/entra-id-governance.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "ebfe7cbe55d567052292b3370cb4389b9e25494c",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/entra/entra-id-governance.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/entra/entra-id.svg",
+    "output": "brands-and-logos/microsoft/entra/entra-id.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "2e91b457e1c0f6f8537775aab87dd1cf30957752",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/entra/entra-id.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/entra/entra-verified-id.svg",
+    "output": "brands-and-logos/microsoft/entra/entra-verified-id.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "068a09f49267f5435d776eb1ebf723200fb60ee3",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/entra/entra-verified-id.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/entra/entra.svg",
+    "output": "brands-and-logos/microsoft/entra/entra.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "a9a4087b86771d168bc0aa2f59ecf296420020ad",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/entra/entra.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/fabric/fabric.svg",
+    "output": "brands-and-logos/microsoft/fabric/fabric.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "7b78447fb55d6a1b52cdce4701030d9dd2e59dc5",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/fabric/fabric.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/access.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/access.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "4363f293abb319162156e542cd021cdab803d54e",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/access.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/bookings.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/bookings.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "3323c0684d0f01e6231e1d59522633c929a77e23",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/bookings.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/calendar.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/calendar.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "564607e154110694611a6284faba13aa698c1b4a",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/calendar.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/clipchamp.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/clipchamp.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "d2e4eaf5792875e83770036f412d5f987d9bb0ad",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/clipchamp.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/delve.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/delve.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "524dce61484d889270e86971f8497cc1df19b480",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/delve.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/excel.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/excel.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "0abfc27024be2dba33c3fbff2bc5a7184a0d3f9b",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/excel.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/forms.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/forms.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "0a1294bbcf45fca2b13d3a270294e0c4468d1fee",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/forms.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/lists.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/lists.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "b38da107ab042593d47b6d968099774aea1889a4",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/lists.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/loop.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/loop.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "862bc73c39765069c561cc34156f9f25c407c958",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/loop.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/microsoft-365.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/microsoft-365.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "76957a3aa84bf1c5eb9e23ea864a8361a329a9a8",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/microsoft-365.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/onedrive.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/onedrive.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "2a3903b436f2bb677ff9a9b1fc80355655fde715",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/onedrive.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/onenote.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/onenote.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "23b3b6d93477e544615c5797760185ac06ceaf35",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/onenote.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/outlook.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/outlook.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "b87b0d321ff1e2fda394ab868999c78e47ae68ee",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/outlook.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/places.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/places.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "5eb4703cb0d0f383d2b320631ab73bd0bf8822d5",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/places.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/planner.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/planner.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "cd64d9a7cccb847e991cb21e3808f308d7701749",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/planner.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/powerpoint.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/powerpoint.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "ad8a679d6cfe7c2c954bc63b2164713e329ef0d3",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/powerpoint.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/project.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/project.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "c617b2f570da06422272afc54cd6101942eadde7",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/project.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/publisher.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/publisher.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "35f88d02269f662857a964e5f24a218f2d9a963a",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/publisher.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/sharepoint.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/sharepoint.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "1d15023b373f7be91ae5490eb59206f77f23b876",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/sharepoint.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/stream.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/stream.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "13ca25586bf660cb8ccfe6952577b8f4a700b876",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/stream.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/sway.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/sway.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "465b07e729e6b564f447c68a93231c9f7bf2a273",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/sway.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/teams.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/teams.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "e518310566c9cee6de8d96ff193b0ca61afd1731",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/teams.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/todo.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/todo.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "32a00357fd567abc2196f1a909bd9e3aa30d2b19",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/todo.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/visio.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/visio.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "a29fe826c9ee865cd1a0d8ab0b9d26ecfb509b17",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/visio.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/whiteboard.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/whiteboard.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "0d246a3e82e61b0b7f09369f175954119dbd9f18",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/whiteboard.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/microsoft-365/word.svg",
+    "output": "brands-and-logos/microsoft/microsoft-365/word.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "c62d6eda99bbeb245822b6bdb0e7da34d21539df",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/microsoft-365/word.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/admin.svg",
+    "output": "brands-and-logos/microsoft/other/admin.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "292de43cbd59ffedc3f78813ef5f4c911e06617f",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/admin.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/bing.svg",
+    "output": "brands-and-logos/microsoft/other/bing.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "06562ad9f39a1ee71a3e07e3d3416cec59633d52",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/bing.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/designer.svg",
+    "output": "brands-and-logos/microsoft/other/designer.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "f026269400a529055d47bbfe1fa6fb5c9a3ca11d",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/designer.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/edge.svg",
+    "output": "brands-and-logos/microsoft/other/edge.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "595bd7e0e9b67de0dd0e582b9fd8c7807dda736e",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/edge.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/family-safety.svg",
+    "output": "brands-and-logos/microsoft/other/family-safety.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "da0fda0535010bc735cdee7b6f589c2f0f69d803",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/family-safety.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/foundry.svg",
+    "output": "brands-and-logos/microsoft/other/foundry.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "1708196007fe41acb7aea2600b71a01d33dd3efc",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/foundry.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/other/office.svg",
+    "output": "brands-and-logos/microsoft/other/office.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "958dfb0c039ec3d885865277d2212a7905b924c0",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/other/office.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/agent-365.svg",
+    "output": "brands-and-logos/microsoft/power-platform/agent-365.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "c4213eb4f8c61f0e2b4da381dbbabe321092d332",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/agent-365.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/agent-builder.svg",
+    "output": "brands-and-logos/microsoft/power-platform/agent-builder.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "a0c2947b816905d3de55e89b466550acb1aa6fa2",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/agent-builder.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/ai-builder.svg",
+    "output": "brands-and-logos/microsoft/power-platform/ai-builder.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "96932cb995871ef7fcba15ba017df83b5bf74032",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/ai-builder.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/connectors.svg",
+    "output": "brands-and-logos/microsoft/power-platform/connectors.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "23ff83a349e004772b007e1e0c83001214b80dfe",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/connectors.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/copilot-studio.svg",
+    "output": "brands-and-logos/microsoft/power-platform/copilot-studio.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "e53e11514db948b3ba55d7a723cdd697d7736fc3",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/copilot-studio.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/dataverse.svg",
+    "output": "brands-and-logos/microsoft/power-platform/dataverse.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "850251fd137fe7469508049118047f7566eb2a92",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/dataverse.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-apps.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-apps.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "2cd1f4aa93c4e4a5906b882e9f13bc88e6e77162",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-apps.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-automate.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-automate.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "60b01ffcbc9cb839d92400de932f4492fb875868",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-automate.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-bi.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-bi.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "8c50f5327489932d6cf1788af48111d0ebc56dfe",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-bi.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-fx.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-fx.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "88d3a559c879bd12ac73948b437a6e2808d79177",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-fx.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-pages.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-pages.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "21af1ccae01bc871daab756f37e737679ae99cec",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-pages.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/power-platform/power-platform.svg",
+    "output": "brands-and-logos/microsoft/power-platform/power-platform.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "78fe3f219968519ceb96eb6e6adf53b5d26afcf1",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/power-platform/power-platform.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/security/defender.svg",
+    "output": "brands-and-logos/microsoft/security/defender.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "be3b6ec9e14caf10eab5a629b1c9700dcc7d4d52",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/security/defender.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/security/purview.svg",
+    "output": "brands-and-logos/microsoft/security/purview.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "8a02a5af3d5484af1121546a6891a2b84e84c8dc",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/security/purview.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-amplify.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-amplify.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "b809e77a57025c42e6acbf87e50320611c890643",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-amplify.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-connections.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-connections.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "dac6bec2c51b13f3bc6306a15dd93105e7442e1a",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-connections.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-engage.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-engage.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "6128e6b75b6d91511fdf3e9b2ba6f120eb59cf90",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-engage.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-glint.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-glint.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "f73bd24109f51c707f19f7420edd5896a2f5cf0e",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-glint.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-home.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-home.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "7921f9f88d9e351e7b77336f99a5f8e273de86b4",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-home.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-insights.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-insights.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "75703297fbffcef4c0e4b83ab808f5bdd0aa7bf9",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-insights.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-learning.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-learning.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "0dc6642559e64c6dd482edc52d1acf4c676b9452",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-learning.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-pulse.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-pulse.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "361f23c0def7d9299d76b9bb08bb8872ae0e210d",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-pulse.svg"
+  },
+  {
+    "repo": "DamoBird365/microsoft-cloud-icons",
+    "ref": "771f2822c3aee260183bef8e9e857f59a02ccbf4",
+    "source": "icons/viva/viva-suite.svg",
+    "output": "brands-and-logos/microsoft/viva/viva-suite.svg",
+    "status": "Vendor mark via community mirror; see Microsoft trademark guidelines",
+    "git_blob": "13a8303b6476eb85acb7df8508f94528800dee8f",
+    "url": "https://github.com/DamoBird365/microsoft-cloud-icons/blob/771f2822c3aee260183bef8e9e857f59a02ccbf4/icons/viva/viva-suite.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/davinci-resolve/default.svg",
+    "output": "apps-and-dashboards/creator-apps/blackmagic-design/davinci-resolve/reference-default.svg",
+    "git_blob": "26ee1f283dfbd92d54fa92bdeb754c10b625bc19",
+    "status": "Simplified identification vector from TheSVG; not the official full-color press artwork",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/davinci-resolve/default.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/davinci-resolve/mono.svg",
+    "output": "apps-and-dashboards/creator-apps/blackmagic-design/davinci-resolve/reference-mono.svg",
+    "git_blob": "a5d5d340306d6422119905b079be0756f0a1229b",
+    "status": "Simplified identification vector from TheSVG; not the official full-color press artwork",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/davinci-resolve/mono.svg"
+  },
+  {
+    "repo": "glincker/thesvg",
+    "ref": "551229c188b4ab6e2d8b5763b9633ec91206d04c",
+    "source": "public/icons/google-business-profile/default.svg",
+    "output": "brands-and-logos/google/business/google-business-profile.svg",
+    "git_blob": "91f1b939ffbef7a46ed9e2fe30e500466e94f4d2",
+    "status": "Product identification SVG via TheSVG mirror",
+    "url": "https://github.com/glincker/thesvg/blob/551229c188b4ab6e2d8b5763b9633ec91206d04c/public/icons/google-business-profile/default.svg"
+  }
+]

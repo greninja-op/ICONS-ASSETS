@@ -1,0 +1,17 @@
+{
+  "pack": "Lucide",
+  "folder": "lucide",
+  "upstream": {
+    "name": "Lucide Contributors",
+    "url": "https://github.com/lucide-icons/lucide"
+  },
+  "license": "ISC",
+  "license_source": "https://github.com/lucide-icons/lucide/blob/main/LICENSE",
+  "license_blob": "718bb3f0e44153809972abed31839375804bf652",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/lucide.json",
+  "style": "outline",
+  "current_svgs": 2104,
+  "legacy_svgs": 86,
+  "aliases": 247,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "folder": "fluentui-system-icons",
+    "scope": "selected symbols and style variants",
+    "upstream": "https://github.com/microsoft/fluentui-system-icons/tree/a3de63245b4fa49c30e20d9838593a105affe774",
+    "license": "MIT",
+    "styles": {
+      "regular": 51,
+      "filled": 50,
+      "color": 1
+    },
+    "svg_files": 102
+  },
+  {
+    "folder": "material-symbols",
+    "scope": "selected symbols and style variants",
+    "upstream": "https://github.com/google/material-design-icons/tree/10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7",
+    "license": "Apache-2.0",
+    "styles": {
+      "outlined": 51,
+      "rounded": 51,
+      "sharp": 51
+    },
+    "svg_files": 153
+  },
+  {
+    "folder": "phosphor-icons",
+    "scope": "selected symbols and style variants",
+    "upstream": "https://github.com/phosphor-icons/core/tree/2b75f3ad12b420c9504ef05df8d2564a28f8500e",
+    "license": "MIT",
+    "styles": {
+      "regular": 55,
+      "fill": 55,
+      "bold": 55
+    },
+    "svg_files": 165
+  },
+  {
+    "folder": "tabler-icons",
+    "scope": "selected symbols and style variants",
+    "upstream": "https://github.com/tabler/tabler-icons/tree/53635822b021190128f32b2c198dcf1b2b66a4c7",
+    "license": "MIT",
+    "styles": {
+      "outline": 54,
+      "filled": 29
+    },
+    "svg_files": 83
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "pack": "Codicons",
+  "folder": "codicons",
+  "upstream": {
+    "name": "Microsoft Corporation",
+    "url": "https://github.com/microsoft/vscode-codicons"
+  },
+  "license": "CC-BY-4.0",
+  "license_source": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE",
+  "license_blob": "35b538308f557d8eadbd38eb35269294cbea21c7",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/codicon.json",
+  "style": "mixed",
+  "current_svgs": 657,
+  "legacy_svgs": 5,
+  "aliases": 3,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

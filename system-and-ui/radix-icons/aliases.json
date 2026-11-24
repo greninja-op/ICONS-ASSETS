@@ -1,0 +1,11 @@
+{
+  "dot-solid": {
+    "parent": "dot-filled"
+  },
+  "drawing-pin-solid": {
+    "parent": "drawing-pin-filled"
+  },
+  "sewing-pin-solid": {
+    "parent": "sewing-pin-filled"
+  }
+}

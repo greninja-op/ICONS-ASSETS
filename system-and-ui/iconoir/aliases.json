@@ -1,0 +1,1016 @@
+{
+  "1st-medal": {
+    "parent": "medal-1st"
+  },
+  "2x2-cell": {
+    "parent": "cell-2x2"
+  },
+  "360-view": {
+    "parent": "view-360"
+  },
+  "3d-add-hole": {
+    "parent": "cube-hole"
+  },
+  "3d-arc": {
+    "parent": "arc-3d"
+  },
+  "3d-arc-center-pt": {
+    "parent": "arc-3d-center-point"
+  },
+  "3d-bridge": {
+    "parent": "bridge-3d"
+  },
+  "3d-center-box": {
+    "parent": "box-3d-center"
+  },
+  "3d-draft-face": {
+    "parent": "face-3d-draft"
+  },
+  "3d-ellipse": {
+    "parent": "ellipse-3d"
+  },
+  "3d-ellipse-three-pts": {
+    "parent": "ellipse-3d-three-points"
+  },
+  "3d-pt-box": {
+    "parent": "box-3d-point"
+  },
+  "3d-rect-corner-to-corner": {
+    "parent": "square-3d-corner-to-corner"
+  },
+  "3d-rect-from-center": {
+    "parent": "square-3d-from-center"
+  },
+  "3d-rect-three-pts": {
+    "parent": "square-3d-three-points"
+  },
+  "3d-select-edge": {
+    "parent": "select-edge-3d"
+  },
+  "3d-select-face": {
+    "parent": "select-face-3d"
+  },
+  "3d-select-point": {
+    "parent": "select-point-3d"
+  },
+  "3d-select-solid": {
+    "parent": "cube"
+  },
+  "3d-three-pts-box": {
+    "parent": "box-3d-three-points"
+  },
+  "4k-display": {
+    "parent": "display-4k"
+  },
+  "4x4-cell": {
+    "parent": "cell-2x2"
+  },
+  "add-circle": {
+    "parent": "plus-circle"
+  },
+  "add-circled-outline": {
+    "parent": "plus-circle"
+  },
+  "add-database-script": {
+    "parent": "database-script-plus"
+  },
+  "add-folder": {
+    "parent": "folder-plus"
+  },
+  "add-frame": {
+    "parent": "frame-plus-in"
+  },
+  "add-hexagon": {
+    "parent": "hexagon-plus"
+  },
+  "add-keyframe": {
+    "parent": "keyframe-plus"
+  },
+  "add-keyframe-alt": {
+    "parent": "keyframe-plus-in"
+  },
+  "add-keyframes": {
+    "parent": "keyframes-plus"
+  },
+  "add-lens": {
+    "parent": "lens-plus"
+  },
+  "add-media-image": {
+    "parent": "media-image-plus"
+  },
+  "add-media-video": {
+    "parent": "media-video-plus"
+  },
+  "add-page": {
+    "parent": "page-plus-in"
+  },
+  "add-page-alt": {
+    "parent": "page-plus"
+  },
+  "add-pin-alt": {
+    "parent": "map-pin-plus"
+  },
+  "add-selection": {
+    "parent": "plus-square-dashed"
+  },
+  "add-square": {
+    "parent": "plus-square"
+  },
+  "add-to-cart": {
+    "parent": "cart-plus"
+  },
+  "add-user": {
+    "parent": "user-plus"
+  },
+  "antenna-signal-rounded": {
+    "parent": "antenna-signal-tag"
+  },
+  "ar-symbol": {
+    "parent": "ar-tag"
+  },
+  "arrow-bl": {
+    "parent": "arrow-down-left"
+  },
+  "arrow-bl-circle": {
+    "parent": "arrow-down-left-circle"
+  },
+  "arrow-bl-circled": {
+    "parent": "arrow-down-left-circle"
+  },
+  "arrow-bl-square": {
+    "parent": "arrow-down-left-square"
+  },
+  "arrow-br": {
+    "parent": "arrow-down-right"
+  },
+  "arrow-br-circle": {
+    "parent": "arrow-down-right-circle"
+  },
+  "arrow-br-circled": {
+    "parent": "arrow-down-right-circle"
+  },
+  "arrow-br-square": {
+    "parent": "arrow-down-right-square"
+  },
+  "arrow-down-circled": {
+    "parent": "arrow-down-circle"
+  },
+  "arrow-left-circled": {
+    "parent": "arrow-left-circle"
+  },
+  "arrow-right-circled": {
+    "parent": "arrow-right-circle"
+  },
+  "arrow-tl": {
+    "parent": "arrow-up-left"
+  },
+  "arrow-tl-circle": {
+    "parent": "arrow-up-left-circle"
+  },
+  "arrow-tl-circled": {
+    "parent": "arrow-up-left-circle"
+  },
+  "arrow-tl-square": {
+    "parent": "arrow-up-left-square"
+  },
+  "arrow-tr": {
+    "parent": "arrow-up-right"
+  },
+  "arrow-tr-circle": {
+    "parent": "arrow-up-right-circle"
+  },
+  "arrow-tr-circled": {
+    "parent": "arrow-up-right-circle"
+  },
+  "arrow-tr-square": {
+    "parent": "arrow-up-right-square"
+  },
+  "arrow-up-circled": {
+    "parent": "arrow-up-circle"
+  },
+  "basket-ball": {
+    "parent": "basketball"
+  },
+  "basket-ball-alt": {
+    "parent": "basketball"
+  },
+  "basketball-alt": {
+    "parent": "basketball"
+  },
+  "behance-squared": {
+    "parent": "behance-tag"
+  },
+  "bin-add": {
+    "parent": "bin-plus-in"
+  },
+  "bin-minus": {
+    "parent": "bin-minus-in"
+  },
+  "bluetooth-rounded": {
+    "parent": "bluetooth-tag"
+  },
+  "bold-square-outline": {
+    "parent": "bold-square"
+  },
+  "bookmark-circled": {
+    "parent": "bookmark-circle"
+  },
+  "bookmark-empty": {
+    "parent": "bookmark"
+  },
+  "bubble-error": {
+    "parent": "bubble-xmark"
+  },
+  "bus-outline": {
+    "parent": "bus"
+  },
+  "cable-rounded": {
+    "parent": "cable-tag"
+  },
+  "cancel": {
+    "parent": "xmark"
+  },
+  "car-outline": {
+    "parent": "car"
+  },
+  "carbon": {
+    "parent": "c-square"
+  },
+  "card-issue": {
+    "parent": "card-no-access"
+  },
+  "card-locked": {
+    "parent": "card-lock"
+  },
+  "card-security": {
+    "parent": "card-shield"
+  },
+  "chat-add": {
+    "parent": "chat-plus-in"
+  },
+  "chat-bubble-check-1": {
+    "parent": "chat-bubble-check"
+  },
+  "chat-bubble-error": {
+    "parent": "chat-bubble-xmark"
+  },
+  "chat-remove": {
+    "parent": "chat-minus-in"
+  },
+  "check-circled-outline": {
+    "parent": "check-circle"
+  },
+  "check-window": {
+    "parent": "window-check"
+  },
+  "church-alt": {
+    "parent": "church-side"
+  },
+  "clean-water": {
+    "parent": "droplet-check"
+  },
+  "clock-outline": {
+    "parent": "clock"
+  },
+  "closed-captions": {
+    "parent": "closed-captions-tag"
+  },
+  "cloud-book-alt": {
+    "parent": "cloud-bookmark"
+  },
+  "cloud-error": {
+    "parent": "cloud-xmark"
+  },
+  "clutery": {
+    "parent": "cutlery"
+  },
+  "coin": {
+    "parent": "dollar-circle"
+  },
+  "cooling": {
+    "parent": "cooling-square"
+  },
+  "cut-solid-with-curve": {
+    "parent": "cube-cut-with-curve"
+  },
+  "database-rounded": {
+    "parent": "database-tag"
+  },
+  "db": {
+    "parent": "database"
+  },
+  "db-check": {
+    "parent": "database-check"
+  },
+  "db-error": {
+    "parent": "database-xmark"
+  },
+  "db-search": {
+    "parent": "database-search"
+  },
+  "db-warning": {
+    "parent": "database-warning"
+  },
+  "delete-circle": {
+    "parent": "xmark-circle"
+  },
+  "delete-circled-outline": {
+    "parent": "xmark-circle"
+  },
+  "dev-mode-laptop": {
+    "parent": "laptop-dev-mode"
+  },
+  "dev-mode-phone": {
+    "parent": "mobile-dev-mode"
+  },
+  "divide-selection-1": {
+    "parent": "split-area"
+  },
+  "divide-selection-2": {
+    "parent": "split-square-dashed"
+  },
+  "doc-search": {
+    "parent": "doc-magnifying-glass"
+  },
+  "doc-search-alt": {
+    "parent": "doc-magnifying-glass-in"
+  },
+  "doc-star-alt": {
+    "parent": "doc-star-in"
+  },
+  "domotic-issue": {
+    "parent": "domotic-warning"
+  },
+  "down-round-arrow": {
+    "parent": "arrow-down-tag"
+  },
+  "download-circled-outline": {
+    "parent": "download-circle"
+  },
+  "download-square-outline": {
+    "parent": "download-square"
+  },
+  "drone-error": {
+    "parent": "drone-xmark"
+  },
+  "droplet-snow-flake": {
+    "parent": "droplet-snow-flake-in"
+  },
+  "electronics-transister": {
+    "parent": "electronics-transistor"
+  },
+  "emoji-look-bottom": {
+    "parent": "emoji-look-down"
+  },
+  "emoji-look-top": {
+    "parent": "emoji-look-up"
+  },
+  "enlarge-round-arrow": {
+    "parent": "arrow-enlarge-tag"
+  },
+  "error-window": {
+    "parent": "window-xmark"
+  },
+  "ev-plug-error": {
+    "parent": "ev-plug-xmark"
+  },
+  "ev-rounded": {
+    "parent": "ev-tag"
+  },
+  "eye-alt": {
+    "parent": "eye"
+  },
+  "eye-close": {
+    "parent": "eye-closed"
+  },
+  "facebook-squared": {
+    "parent": "facebook-tag"
+  },
+  "fast-arrow-bottom": {
+    "parent": "fast-arrow-down"
+  },
+  "fast-arrow-down-box": {
+    "parent": "fast-arrow-down-square"
+  },
+  "fast-arrow-left-box": {
+    "parent": "fast-arrow-left-square"
+  },
+  "fast-arrow-right-box": {
+    "parent": "fast-arrow-right-square"
+  },
+  "fast-arrow-top": {
+    "parent": "fast-arrow-up"
+  },
+  "fast-arrow-up-box": {
+    "parent": "fast-arrow-up-square"
+  },
+  "fast-bottom-circle": {
+    "parent": "fast-down-circle"
+  },
+  "fast-top-circle": {
+    "parent": "fast-up-circle"
+  },
+  "finger-print-window": {
+    "parent": "fingerprint-window"
+  },
+  "fingerprint-circled": {
+    "parent": "fingerprint-circle"
+  },
+  "fingerprint-circled-error": {
+    "parent": "fingerprint-xmark-circle"
+  },
+  "fingerprint-circled-lock": {
+    "parent": "fingerprint-lock-circle"
+  },
+  "fingerprint-circled-ok": {
+    "parent": "fingerprint-check-circle"
+  },
+  "fingerprint-error-circle": {
+    "parent": "fingerprint-xmark-circle"
+  },
+  "fingerprint-phone": {
+    "parent": "mobile-fingerprint"
+  },
+  "fingerprint-squared": {
+    "parent": "fingerprint-square"
+  },
+  "fluorine": {
+    "parent": "f-square"
+  },
+  "folder-alert": {
+    "parent": "folder-warning"
+  },
+  "font-size": {
+    "parent": "text-arrows-up-down"
+  },
+  "forward-outline": {
+    "parent": "forward"
+  },
+  "fx-rounded": {
+    "parent": "fx-tag"
+  },
+  "gas-tank-drop": {
+    "parent": "gas-tank-droplet"
+  },
+  "git-command": {
+    "parent": "slash-square"
+  },
+  "github-outline": {
+    "parent": "github-circle"
+  },
+  "google-circled": {
+    "parent": "google-circle"
+  },
+  "green-bus": {
+    "parent": "bus-green"
+  },
+  "green-truck": {
+    "parent": "truck-green"
+  },
+  "green-vehicle": {
+    "parent": "vehicle-green"
+  },
+  "grid-add": {
+    "parent": "grid-plus"
+  },
+  "grid-remove": {
+    "parent": "grid-xmark"
+  },
+  "headset-charge": {
+    "parent": "headset-bolt"
+  },
+  "headset-issue": {
+    "parent": "headset-warning"
+  },
+  "heating": {
+    "parent": "heating-square"
+  },
+  "her-slips": {
+    "parent": "slips"
+  },
+  "hesa-warning-outline": {
+    "parent": "warning-hexagon"
+  },
+  "high-priority": {
+    "parent": "priority-high"
+  },
+  "hospital-sign": {
+    "parent": "hospital-circle"
+  },
+  "hydrogen": {
+    "parent": "h-square"
+  },
+  "ice-cream-solid-solid": {
+    "parent": "ice-cream-solid"
+  },
+  "info-empty": {
+    "parent": "info-circle"
+  },
+  "ip-address": {
+    "parent": "ip-address-tag"
+  },
+  "italic-square-outline": {
+    "parent": "italic-square"
+  },
+  "key-alt": {
+    "parent": "key"
+  },
+  "key-alt-back": {
+    "parent": "key-back"
+  },
+  "key-alt-minus": {
+    "parent": "key-minus"
+  },
+  "key-alt-plus": {
+    "parent": "key-plus"
+  },
+  "key-alt-remove": {
+    "parent": "key-xmark"
+  },
+  "keyframe-align-horizontal-1": {
+    "parent": "keyframe-align-vertical"
+  },
+  "label-outline": {
+    "parent": "label"
+  },
+  "laptop-issue": {
+    "parent": "laptop-warning"
+  },
+  "large-suitcase": {
+    "parent": "suitcase"
+  },
+  "left-round-arrow": {
+    "parent": "arrow-left-tag"
+  },
+  "load-action-floppy": {
+    "parent": "floppy-disk-arrow-out"
+  },
+  "lock-key": {
+    "parent": "lock-square"
+  },
+  "locked-book": {
+    "parent": "book-lock"
+  },
+  "locked-window": {
+    "parent": "window-lock"
+  },
+  "log-denied": {
+    "parent": "log-no-access"
+  },
+  "mail-opened": {
+    "parent": "mail-open"
+  },
+  "map-issue": {
+    "parent": "map-xmark"
+  },
+  "maps-arrow-issue": {
+    "parent": "maps-arrow-xmark"
+  },
+  "medium-priority": {
+    "parent": "priority-medium"
+  },
+  "mic": {
+    "parent": "microphone"
+  },
+  "mic-add": {
+    "parent": "microphone-plus"
+  },
+  "mic-check": {
+    "parent": "microphone-check"
+  },
+  "mic-mute": {
+    "parent": "microphone-mute"
+  },
+  "mic-remove": {
+    "parent": "microphone-minus"
+  },
+  "mic-speaking": {
+    "parent": "microphone-speaking"
+  },
+  "mic-warning": {
+    "parent": "microphone-warning"
+  },
+  "minus-1": {
+    "parent": "minus"
+  },
+  "minus-pin-alt": {
+    "parent": "map-pin-minus"
+  },
+  "missing-font": {
+    "parent": "font-question"
+  },
+  "more-horiz-circled-outline": {
+    "parent": "more-horiz-circle"
+  },
+  "more-vert-circled-outline": {
+    "parent": "more-vert-circle"
+  },
+  "move-down": {
+    "parent": "dot-arrow-down"
+  },
+  "move-left": {
+    "parent": "dot-arrow-left"
+  },
+  "move-right": {
+    "parent": "dot-arrow-right"
+  },
+  "move-ruler": {
+    "parent": "ruler-arrows"
+  },
+  "move-up": {
+    "parent": "dot-arrow-up"
+  },
+  "multiple-pages-add": {
+    "parent": "multiple-pages-plus"
+  },
+  "multiple-pages-delete": {
+    "parent": "multiple-pages-xmark"
+  },
+  "multiple-pages-remove": {
+    "parent": "multiple-pages-minus"
+  },
+  "music-1": {
+    "parent": "music-double-note"
+  },
+  "music-1-add": {
+    "parent": "music-double-note-plus"
+  },
+  "music-2": {
+    "parent": "music-note"
+  },
+  "music-2-add": {
+    "parent": "music-note-plus"
+  },
+  "music-double-note-add": {
+    "parent": "music-double-note-plus"
+  },
+  "music-note-add": {
+    "parent": "music-note-plus"
+  },
+  "network-alt": {
+    "parent": "network-reverse"
+  },
+  "nitrogen": {
+    "parent": "n-square"
+  },
+  "no-access-window": {
+    "parent": "window-no-access"
+  },
+  "no-battery": {
+    "parent": "battery-slash"
+  },
+  "no-coin": {
+    "parent": "coin-slash"
+  },
+  "no-credit-card": {
+    "parent": "credit-card-slash"
+  },
+  "no-link": {
+    "parent": "link-xmark"
+  },
+  "no-lock": {
+    "parent": "lock-slash"
+  },
+  "no-smoking": {
+    "parent": "cigarette-slash"
+  },
+  "no-smoking-circled": {
+    "parent": "no-smoking-circle"
+  },
+  "off-rounded": {
+    "parent": "off-tag"
+  },
+  "on-rounded": {
+    "parent": "on-tag"
+  },
+  "organic-food-squared": {
+    "parent": "organic-food-square"
+  },
+  "oxygen": {
+    "parent": "o-square"
+  },
+  "pants-alt": {
+    "parent": "pants"
+  },
+  "password-error": {
+    "parent": "password-xmark"
+  },
+  "password-pass": {
+    "parent": "password-check"
+  },
+  "patch-holes-3d": {
+    "parent": "cube-bandage"
+  },
+  "pause-outline": {
+    "parent": "pause"
+  },
+  "people-rounded": {
+    "parent": "people-tag"
+  },
+  "percentage-round": {
+    "parent": "percentage-circle"
+  },
+  "pharmacy-circled-cross": {
+    "parent": "pharmacy-cross-circle"
+  },
+  "pharmacy-cross-square": {
+    "parent": "pharmacy-cross-tag"
+  },
+  "pharmacy-squared-cross": {
+    "parent": "pharmacy-cross-tag"
+  },
+  "phone-add": {
+    "parent": "phone-plus"
+  },
+  "phone-delete": {
+    "parent": "phone-xmark"
+  },
+  "phone-remove": {
+    "parent": "phone-minus"
+  },
+  "pin-alt": {
+    "parent": "map-pin"
+  },
+  "play-outline": {
+    "parent": "play"
+  },
+  "playlist-add": {
+    "parent": "playlist-plus"
+  },
+  "printer-alt": {
+    "parent": "printer"
+  },
+  "profile-circled": {
+    "parent": "profile-circle"
+  },
+  "question-mark-circle": {
+    "parent": "help-circle"
+  },
+  "question-square-outline": {
+    "parent": "help-square"
+  },
+  "reduce-round-arrow": {
+    "parent": "arrow-reduce-tag"
+  },
+  "refresh-circular": {
+    "parent": "refresh-circle"
+  },
+  "remove-database-script": {
+    "parent": "database-script-minus"
+  },
+  "remove-empty": {
+    "parent": "minus-circle"
+  },
+  "remove-folder": {
+    "parent": "folder-minus"
+  },
+  "remove-frame": {
+    "parent": "frame-minus-in"
+  },
+  "remove-from-cart": {
+    "parent": "cart-minus"
+  },
+  "remove-keyframe": {
+    "parent": "keyframe-minus"
+  },
+  "remove-keyframe-alt": {
+    "parent": "keyframe-minus-in"
+  },
+  "remove-keyframes": {
+    "parent": "keyframes-minus"
+  },
+  "remove-link": {
+    "parent": "link-slash"
+  },
+  "remove-media-image": {
+    "parent": "media-image-xmark"
+  },
+  "remove-media-video": {
+    "parent": "media-video-xmark"
+  },
+  "remove-page": {
+    "parent": "page-minus-in"
+  },
+  "remove-page-alt": {
+    "parent": "page-minus"
+  },
+  "remove-pin": {
+    "parent": "pin-slash"
+  },
+  "remove-pin-alt": {
+    "parent": "map-pin-xmark"
+  },
+  "remove-selection": {
+    "parent": "minus-square-dashed"
+  },
+  "remove-square": {
+    "parent": "xmark-square"
+  },
+  "remove-user": {
+    "parent": "user-xmark"
+  },
+  "rewind-outline": {
+    "parent": "rewind"
+  },
+  "rhombus-arrow-right-solid-solid": {
+    "parent": "rhombus-arrow-right-solid"
+  },
+  "right-round-arrow": {
+    "parent": "arrow-right-tag"
+  },
+  "rss-feed-squared": {
+    "parent": "rss-feed-tag"
+  },
+  "ruler-add": {
+    "parent": "ruler-plus"
+  },
+  "ruler-remove": {
+    "parent": "ruler-minus"
+  },
+  "save-action-floppy": {
+    "parent": "floppy-disk-arrow-in"
+  },
+  "save-floppy-disk": {
+    "parent": "floppy-disk"
+  },
+  "search-font": {
+    "parent": "text-magnifying-glass"
+  },
+  "selection": {
+    "parent": "square-dashed"
+  },
+  "settings-cloud": {
+    "parent": "cloud-square"
+  },
+  "shield-add": {
+    "parent": "shield-plus-in"
+  },
+  "shield-cross": {
+    "parent": "shield-xmark"
+  },
+  "shop-alt": {
+    "parent": "shop-four-tiles"
+  },
+  "shopping-bag-add": {
+    "parent": "shopping-bag-plus"
+  },
+  "shopping-bag-alt": {
+    "parent": "shopping-bag-pocket"
+  },
+  "shopping-bag-issue": {
+    "parent": "shopping-bag-warning"
+  },
+  "shopping-bag-remove": {
+    "parent": "shopping-bag-minus"
+  },
+  "shopping-code-error": {
+    "parent": "shopping-code-xmark"
+  },
+  "short-pants-alt": {
+    "parent": "short-pants"
+  },
+  "shortcut": {
+    "parent": "shortcut-square"
+  },
+  "skip-next-outline": {
+    "parent": "skip-next"
+  },
+  "skip-prev-outline": {
+    "parent": "skip-prev"
+  },
+  "small-shop": {
+    "parent": "shop-window"
+  },
+  "small-shop-alt": {
+    "parent": "shop"
+  },
+  "star-outline": {
+    "parent": "star"
+  },
+  "stats-square-down": {
+    "parent": "stats-down-square"
+  },
+  "stats-square-up": {
+    "parent": "stats-up-square"
+  },
+  "switch-off-outline": {
+    "parent": "switch-off"
+  },
+  "switch-on-outline": {
+    "parent": "switch-on"
+  },
+  "t-shirt": {
+    "parent": "shirt"
+  },
+  "telegram-circled": {
+    "parent": "telegram-circle"
+  },
+  "terminal-outline": {
+    "parent": "terminal-tag"
+  },
+  "terminal-simple": {
+    "parent": "terminal"
+  },
+  "text-alt": {
+    "parent": "text-square"
+  },
+  "train-outline": {
+    "parent": "train"
+  },
+  "transition-bottom": {
+    "parent": "transition-down"
+  },
+  "transition-top": {
+    "parent": "transition-up"
+  },
+  "triangle-flag-full": {
+    "parent": "triangle-flag-two-stripes"
+  },
+  "tv-issue": {
+    "parent": "tv-warning"
+  },
+  "twitter-verified-badge": {
+    "parent": "badge-check"
+  },
+  "umbrella-full": {
+    "parent": "umbrella"
+  },
+  "underline-square-outline": {
+    "parent": "underline-square"
+  },
+  "up-round-arrow": {
+    "parent": "arrow-up-tag"
+  },
+  "upload-square-outline": {
+    "parent": "upload-square"
+  },
+  "user-circle-alt": {
+    "parent": "user-circle"
+  },
+  "user-square-alt": {
+    "parent": "user-square"
+  },
+  "vegan-rounded": {
+    "parent": "vegan-circle"
+  },
+  "vegan-squared": {
+    "parent": "vegan-square"
+  },
+  "verified-user": {
+    "parent": "user-badge-check"
+  },
+  "voice-circled": {
+    "parent": "voice-circle"
+  },
+  "voice-circled-lock": {
+    "parent": "voice-lock-circle"
+  },
+  "voice-error": {
+    "parent": "voice-xmark"
+  },
+  "voice-ok": {
+    "parent": "voice-check"
+  },
+  "voice-phone": {
+    "parent": "mobile-voice"
+  },
+  "voice-squared": {
+    "parent": "voice-square"
+  },
+  "vr-symbol": {
+    "parent": "vr-tag"
+  },
+  "warning-circled-outline": {
+    "parent": "warning-circle"
+  },
+  "warning-square-outline": {
+    "parent": "warning-square"
+  },
+  "warning-triangle-outline": {
+    "parent": "warning-triangle"
+  },
+  "web-window-close": {
+    "parent": "web-window-xmark"
+  },
+  "wifi-error": {
+    "parent": "wifi-xmark"
+  },
+  "wifi-issue": {
+    "parent": "wifi-warning"
+  },
+  "wifi-rounded": {
+    "parent": "wifi-tag"
+  },
+  "women-t-shirt": {
+    "parent": "shirt-tank-top"
+  },
+  "x-coordinate": {
+    "parent": "x-square"
+  },
+  "y-coordinate": {
+    "parent": "y-square"
+  },
+  "z-coordinate": {
+    "parent": "z-square"
+  }
+}

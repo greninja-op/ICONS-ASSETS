@@ -1,0 +1,17 @@
+{
+  "pack": "HeroIcons",
+  "folder": "heroicons",
+  "upstream": {
+    "name": "Refactoring UI Inc",
+    "url": "https://github.com/tailwindlabs/heroicons"
+  },
+  "license": "MIT",
+  "license_source": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE",
+  "license_blob": "d6a82290738a9f78946cbcb4594535d6984086dd",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/heroicons.json",
+  "style": "outline/solid",
+  "current_svgs": 1288,
+  "legacy_svgs": 0,
+  "aliases": 9,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/final-cut-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-final-cut-pro-12-4-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/final-cut-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-final-cut-pro-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/logic-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-logic-pro-12-4-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/logic-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-logic-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/mainstage.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-mainstage-4-3-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/mainstage.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-mainstage-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/motion.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-motion-6-4-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/motion.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-motion-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/compressor.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-compressor-5-4-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/compressor.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-compressor-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/subscription/pixelmator-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/creator-studio-pixelmator-pro-4-4-app-icon.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "os-and-desktop/apple/creator-studio/one-time-purchase/pixelmator-pro.png",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/pro-apps/app-icon-pixelmator-pro-otp.png",
+    "format": "png",
+    "source": "https://support.apple.com/en-us/127131",
+    "status": "Direct publisher artwork sourced; bytes unavailable in this environment"
+  },
+  {
+    "path": "apps-and-dashboards/creator-apps/savage-interactive",
+    "url": "https://assets.procreate.art/brand/Procreate-Logo-Assets.zip",
+    "format": "zip",
+    "source": "https://procreate.com/brand-use",
+    "status": "Official artwork kit sourced; archive bytes unavailable in this environment"
+  },
+  {
+    "path": "apps-and-dashboards/creator-apps/blackmagic-design",
+    "url": "https://www.blackmagicdesign.com/media/images/davinci-resolve-logo-square",
+    "format": "press-asset",
+    "source": "https://www.blackmagicdesign.com/media/images",
+    "status": "Original color press asset sourced; available DaVinci Resolve variants are identification vectors"
+  }
+]

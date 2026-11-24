@@ -1,0 +1,17 @@
+{
+  "pack": "IconPark Solid",
+  "folder": "iconpark-solid",
+  "upstream": {
+    "name": "ByteDance",
+    "url": "https://github.com/bytedance/IconPark"
+  },
+  "license": "Apache-2.0",
+  "license_source": "https://github.com/bytedance/IconPark/blob/master/LICENSE",
+  "license_blob": "a77b915b0dba6e5210f977262522e8736a054487",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/icon-park-solid.json",
+  "style": "solid",
+  "current_svgs": 1947,
+  "legacy_svgs": 23,
+  "aliases": 0,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

@@ -1,0 +1,17 @@
+{
+  "pack": "Radix Icons",
+  "folder": "radix-icons",
+  "upstream": {
+    "name": "WorkOS",
+    "url": "https://github.com/radix-ui/icons"
+  },
+  "license": "MIT",
+  "license_source": "https://github.com/radix-ui/icons/blob/main/LICENSE",
+  "license_blob": "a18858fb7b014098cba85703e66609be66a26ef5",
+  "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/radix-icons.json",
+  "style": "mixed",
+  "current_svgs": 332,
+  "legacy_svgs": 10,
+  "aliases": 3,
+  "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+}

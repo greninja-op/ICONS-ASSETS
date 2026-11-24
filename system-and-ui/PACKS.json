@@ -1,0 +1,174 @@
+{
+  "packs": [
+    {
+      "pack": "Codicons",
+      "folder": "codicons",
+      "upstream": {
+        "name": "Microsoft Corporation",
+        "url": "https://github.com/microsoft/vscode-codicons"
+      },
+      "license": "CC-BY-4.0",
+      "license_source": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE",
+      "license_blob": "35b538308f557d8eadbd38eb35269294cbea21c7",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/codicon.json",
+      "style": "mixed",
+      "current_svgs": 657,
+      "legacy_svgs": 5,
+      "aliases": 3,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "Feather Icons",
+      "folder": "feather",
+      "upstream": {
+        "name": "Cole Bemis",
+        "url": "https://github.com/feathericons/feather"
+      },
+      "license": "MIT",
+      "license_source": "https://github.com/feathericons/feather/blob/main/LICENSE",
+      "license_blob": "1f4f4336baff1185dc78ae9e78cac46628dcc869",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/feather.json",
+      "style": "outline",
+      "current_svgs": 286,
+      "legacy_svgs": 0,
+      "aliases": 0,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "HeroIcons",
+      "folder": "heroicons",
+      "upstream": {
+        "name": "Refactoring UI Inc",
+        "url": "https://github.com/tailwindlabs/heroicons"
+      },
+      "license": "MIT",
+      "license_source": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE",
+      "license_blob": "d6a82290738a9f78946cbcb4594535d6984086dd",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/heroicons.json",
+      "style": "outline/solid",
+      "current_svgs": 1288,
+      "legacy_svgs": 0,
+      "aliases": 9,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "IconPark Solid",
+      "folder": "iconpark-solid",
+      "upstream": {
+        "name": "ByteDance",
+        "url": "https://github.com/bytedance/IconPark"
+      },
+      "license": "Apache-2.0",
+      "license_source": "https://github.com/bytedance/IconPark/blob/master/LICENSE",
+      "license_blob": "a77b915b0dba6e5210f977262522e8736a054487",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/icon-park-solid.json",
+      "style": "solid",
+      "current_svgs": 1947,
+      "legacy_svgs": 23,
+      "aliases": 0,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "Iconoir",
+      "folder": "iconoir",
+      "upstream": {
+        "name": "Luca Burgio",
+        "url": "https://github.com/iconoir-icons/iconoir"
+      },
+      "license": "MIT",
+      "license_source": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE",
+      "license_blob": "29a34a856af9e0622a8f2728662b94ef08133744",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/iconoir.json",
+      "style": "outline/solid",
+      "current_svgs": 1671,
+      "legacy_svgs": 11,
+      "aliases": 338,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "Lucide",
+      "folder": "lucide",
+      "upstream": {
+        "name": "Lucide Contributors",
+        "url": "https://github.com/lucide-icons/lucide"
+      },
+      "license": "ISC",
+      "license_source": "https://github.com/lucide-icons/lucide/blob/main/LICENSE",
+      "license_blob": "718bb3f0e44153809972abed31839375804bf652",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/lucide.json",
+      "style": "outline",
+      "current_svgs": 2104,
+      "legacy_svgs": 86,
+      "aliases": 247,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "Radix Icons",
+      "folder": "radix-icons",
+      "upstream": {
+        "name": "WorkOS",
+        "url": "https://github.com/radix-ui/icons"
+      },
+      "license": "MIT",
+      "license_source": "https://github.com/radix-ui/icons/blob/main/LICENSE",
+      "license_blob": "a18858fb7b014098cba85703e66609be66a26ef5",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/radix-icons.json",
+      "style": "mixed",
+      "current_svgs": 332,
+      "legacy_svgs": 10,
+      "aliases": 3,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "Simple line icons",
+      "folder": "simple-line-icons",
+      "upstream": {
+        "name": "Sabbir Ahmed",
+        "url": "https://github.com/thesabbir/simple-line-icons"
+      },
+      "license": "MIT",
+      "license_source": "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md",
+      "license_blob": "dfb8b50d5c4d43ef3bc741dde44571214715012d",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/simple-line-icons.json",
+      "style": "outline",
+      "current_svgs": 189,
+      "legacy_svgs": 5,
+      "aliases": 0,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    },
+    {
+      "pack": "System UIcons",
+      "folder": "system-uicons",
+      "upstream": {
+        "name": "Corey Ginnivan",
+        "url": "https://github.com/CoreyGinnivan/system-uicons"
+      },
+      "license": "Unlicense",
+      "license_source": "https://github.com/CoreyGinnivan/system-uicons/blob/main/LICENSE",
+      "license_blob": "fdddb29aa445bf3d6a5d843d6dd77e10a9f99657",
+      "geometry_source": "https://github.com/iconify/icon-sets/blob/b44d1947306e36a5521592286fa60959d41abc18/json/system-uicons.json",
+      "style": "outline",
+      "current_svgs": 430,
+      "legacy_svgs": 0,
+      "aliases": 2,
+      "format": "Upstream-derived SVG geometry retained. Standalone SVG elements wrap the upstream Iconify bodies."
+    }
+  ],
+  "common_symbols": {
+    "Wi-Fi": "lucide/wifi.svg",
+    "Wi-Fi disabled": "lucide/wifi-off.svg",
+    "Bluetooth": "lucide/bluetooth.svg",
+    "Bluetooth disabled": "lucide/bluetooth-off.svg",
+    "Settings": "lucide/settings.svg",
+    "Settings solid": "heroicons/cog-6-tooth-solid.svg",
+    "Search": "lucide/search.svg",
+    "Accessibility": "lucide/accessibility.svg",
+    "Face scan": "lucide/scan-face.svg",
+    "Text scan": "lucide/scan-text.svg",
+    "Keyboard disabled": "lucide/keyboard-off.svg",
+    "Draft pull request": "lucide/git-pull-request-draft.svg",
+    "Database backup": "lucide/database-backup.svg",
+    "Candlestick chart": "lucide/chart-candlestick.svg",
+    "Indian rupee": "lucide/indian-rupee.svg"
+  }
+}
